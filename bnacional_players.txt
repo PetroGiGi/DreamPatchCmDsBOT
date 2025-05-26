@@ -1,0 +1,1067 @@
+Brian Olivera, Portero, 31, Argentina, AA Estudiantes (Río Cuarto)
+Joaquin Bigo, Portero, 26, Argentina, AA Estudiantes (Río Cuarto)
+Francisco Gualiteri, Portero, 22, Argentina, AA Estudiantes (Río Cuarto)
+Santiago Heredia, Defensa, 21, Argentina, AA Estudiantes (Río Cuarto)
+Giuliano Bono, Defensa, 22, Argentina, AA Estudiantes (Río Cuarto)
+Juan Antonini, Defensa central, 26, Argentina, AA Estudiantes (Río Cuarto)
+Gonzalo Maffini, Defensa central, 32, Argentina, AA Estudiantes (Río Cuarto)
+Sergio Ojeda, Defensa central, 33, Argentina, AA Estudiantes (Río Cuarto)
+Matías Pagliaricci, Defensa central, 24, Argentina, AA Estudiantes (Río Cuarto)
+Facundo Cobos, Lateral izquierdo, 32, Argentina, AA Estudiantes (Río Cuarto)
+Lucas Angelini, Lateral izquierdo, 30, Argentina, AA Estudiantes (Río Cuarto)
+Valentín Fenoglio, Lateral derecho, 21, Argentina, AA Estudiantes (Río Cuarto)
+Matías Ruiz Díaz, Lateral derecho, 28, Argentina, AA Estudiantes (Río Cuarto)
+Alejandro Cabrera, Pivote, 32, Argentina, AA Estudiantes (Río Cuarto)
+Fabio Vázquez, Pivote, 31, Argentina, AA Estudiantes (Río Cuarto)
+Saúl Nelle, Pivote, 31, Argentina, AA Estudiantes (Río Cuarto)
+Victor Beraldi, Pivote, 38, Argentina, AA Estudiantes (Río Cuarto)
+Álvaro Cuello, Mediocentro, 30, Argentina, AA Estudiantes (Río Cuarto)
+Matías Rosales, Mediocentro, 26, Argentina, AA Estudiantes (Río Cuarto)
+José María Aguirre, Interior derecho, 25, Argentina, AA Estudiantes (Río Cuarto)
+Brian Orosco, Mediocentro ofensivo, 27, Argentina, AA Estudiantes (Río Cuarto)
+Tomás González, Mediocentro ofensivo, 26, Argentina, AA Estudiantes (Río Cuarto)
+Fernando Belluschi, Mediocentro ofensivo, 41, Argentina, AA Estudiantes (Río Cuarto)
+Gabriel Gudiño, Extremo derecho, 33, Argentina, AA Estudiantes (Río Cuarto)
+Agustín Morales, Extremo derecho, 26, Argentina, AA Estudiantes (Río Cuarto)
+Mauricio Tévez, Extremo derecho, 28, Argentina, AA Estudiantes (Río Cuarto)
+Martín Garnerone, Delantero centro, 26, Argentina, AA Estudiantes (Río Cuarto)
+Lucas González, Delantero centro, 27, Argentina, AA Estudiantes (Río Cuarto)
+Mauro Valiente, Delantero centro, 25, Argentina, AA Estudiantes (Río Cuarto)
+Agustín Fontana, Delantero centro, 28, Argentina, AA Estudiantes (Río Cuarto)
+Francisco Galván, Delantero centro, 25, Argentina, AA Estudiantes (Río Cuarto)
+Javier Ferreira, Delantero centro, 33, Paraguay, AA Estudiantes (Río Cuarto)
+Federico Álvarez, Delantero, 24, Argentina, AA Estudiantes (Río Cuarto)
+Marcelo Olivera, Delantero centro, 26, Argentina, AA Estudiantes (Río Cuarto)
+Renzo Sordi, Delantero, 21, Argentina, AA Estudiantes (Río Cuarto)
+Matías Budiño, Portero, 29, Argentina, CA Estudiantes
+Facundo Vila, Portero, 22, Argentina, CA Estudiantes
+Nicolás Ortiz, Defensa central, 30, Argentina, CA Estudiantes
+Santiago Monzón, Defensa central, 22, Argentina, CA Estudiantes
+Jorge Benítez, Defensa central, 30, Argentina, CA Estudiantes
+Santiago Borges, Defensa central, 22, Argentina, CA Estudiantes
+Nicolás Barrera, Defensa central, 22, Argentina, CA Estudiantes
+Franco Quinteros, Lateral izquierdo, 26, Argentina, CA Estudiantes
+Lautaro Lusnig, Lateral izquierdo, 26, Argentina, CA Estudiantes
+Tomás Squie, Lateral izquierdo, 26, Argentina, CA Estudiantes
+Hugo Silva, Lateral derecho, 33, Argentina, CA Estudiantes
+Delfor Minervino, Lateral derecho, 29, Argentina, CA Estudiantes
+Bautista Degregorio, Centrocampista, 21, Argentina, CA Estudiantes
+Agustin Paz, Mediocentro, 26, Argentina, CA Estudiantes
+Franco Cáceres, Mediocentro, 25, Argentina, CA Estudiantes
+Manuel Vargas, Mediocentro, 27, Argentina, CA Estudiantes
+Román Rodríguez, Interior derecho, 21, Argentina, CA Estudiantes
+Brian Farioli, Mediocentro ofensivo, 27, Argentina, CA Estudiantes
+Gonzalo Berterame, Mediocentro ofensivo, 28, Argentina, CA Estudiantes
+Santiago Briñone, Mediocentro ofensivo, 28, Argentina, CA Estudiantes
+Alejandro Benítez, Mediocentro ofensivo, 29, Argentina, CA Estudiantes
+Jorge Correa, Extremo izquierdo, 32, Argentina, CA Estudiantes
+Sebastián Ramírez, Extremo derecho, 24, Argentina, CA Estudiantes
+Mateo Acosta, Delantero centro, 32, Argentina, CA Estudiantes
+Darío Rostagno, Delantero centro, 23, Argentina, CA Estudiantes
+Felipe Gorla, Delantero centro, 19, Argentina, CA Estudiantes
+Luciano Jachfe, Portero, 23, Argentina, CA Mitre
+Joaquín Ledesma, Portero, 35, Argentina, CA Mitre
+Facundo Wiechniak, Defensa central, 22, Argentina, CA Mitre
+Facundo Melillán, Defensa central, 28, Argentina, CA Mitre
+Octavio Moscarelli, Defensa central, 24, Argentina, CA Mitre
+Francisco Manenti, Defensa central, 28, Argentina, CA Mitre
+Gianfranco Herdt, Defensa central, 25, Argentina, CA Mitre
+Matías Godoy, Defensa central, 20, Argentina, CA Mitre
+Gonzalo Valdivia, Lateral izquierdo, 24, Argentina, CA Mitre
+Mariano Penepil, Lateral izquierdo, 21, Argentina, CA Mitre
+Brian Mieres, Lateral derecho, 29, Argentina, CA Mitre
+Cristian Díaz, Lateral derecho, 35, Argentina, CA Mitre
+Marcos Sánchez, Pivote, 35, Argentina, CA Mitre
+Juan Alessandroni, Pivote, 36, Argentina, CA Mitre
+Julián Gómez, Pivote, 23, Argentina, CA Mitre
+Matías Kabalin, Mediocentro, 26, Argentina, CA Mitre
+Ezequiel González, Mediocentro, 24, Argentina, CA Mitre
+Lucio Compagnucci, Mediocentro, 29, Argentina, CA Mitre
+Santiago Luján, Interior derecho, 23, Argentina, CA Mitre
+Marcos Machado, Interior derecho, 24, Argentina, CA Mitre
+Emiliano Encina, Interior derecho, 23, Argentina, CA Mitre
+Mauro Barraza, Interior izquierdo, 29, Argentina, CA Mitre
+Axel Batista, Mediocentro ofensivo, 23, Argentina, CA Mitre
+Lucas Ríos, Extremo izquierdo, 23, Argentina, CA Mitre
+Santiago Rosales, Extremo izquierdo, 30, Argentina, CA Mitre
+Agustín Ramírez, Extremo izquierdo, 25, Argentina, CA Mitre
+Rodrigo González, Extremo derecho, 24, Argentina, CA Mitre
+Javier Martínez, Delantero centro, 26, Argentina, CA Mitre
+Juan Bonet, Delantero centro, 26, Argentina, CA Mitre
+Vicente Barberini, Delantero centro, 22, Argentina, CA Mitre
+David Romero, Delantero centro, 38, Argentina, CA Mitre
+Lautaro Petruchi, Portero, 26, Argentina, CA Gimnasia y Esgrima (Mendoza)
+Felipe San Juan, Portero, 23, Argentina, CA Gimnasia y Esgrima (Mendoza)
+César Rigamonti, Portero, 38, Argentina, CA Gimnasia y Esgrima (Mendoza)
+Imanol González, Defensa central, 27, Argentina, CA Gimnasia y Esgrima (Mendoza)
+Diego Mondino, Defensa central, 30, Argentina, CA Gimnasia y Esgrima (Mendoza)
+Elías Calderón, Defensa central, 24, Argentina, CA Gimnasia y Esgrima (Mendoza)
+Hugo Paniagua, Defensa central, 23, Argentina, CA Gimnasia y Esgrima (Mendoza)
+Axel Poza, Defensa central, 22, Argentina, CA Gimnasia y Esgrima (Mendoza)
+Franco Saavedra, Lateral izquierdo, 21, Argentina, CA Gimnasia y Esgrima (Mendoza)
+Matías Recalde, Lateral izquierdo, 27, Argentina, CA Gimnasia y Esgrima (Mendoza)
+Facundo Nadalín, Lateral derecho, 27, Argentina, CA Gimnasia y Esgrima (Mendoza)
+Ismael Cortéz, Lateral derecho, 24, Argentina, CA Gimnasia y Esgrima (Mendoza)
+Federico Torres, Lateral derecho, 26, Argentina, CA Gimnasia y Esgrima (Mendoza)
+Matías Muñoz, Pivote, 29, Argentina, CA Gimnasia y Esgrima (Mendoza)
+Fermín Antonini, Pivote, 27, Argentina, CA Gimnasia y Esgrima (Mendoza)
+Benjamín Ortíz, Pivote, 21, Argentina, CA Gimnasia y Esgrima (Mendoza)
+Ignacio Antonio, Mediocentro, 30, Argentina, CA Gimnasia y Esgrima (Mendoza)
+Nahuel Barboza, Mediocentro, 25, Argentina, CA Gimnasia y Esgrima (Mendoza)
+Lucas Bustos, Mediocentro, 20, Argentina, CA Gimnasia y Esgrima (Mendoza)
+Enzo Gaggi, Interior derecho, 27, Argentina, CA Gimnasia y Esgrima (Mendoza)
+Jeremías Puch, Mediocentro ofensivo, 26, Argentina, CA Gimnasia y Esgrima (Mendoza)
+Daniel Molina, Mediocentro ofensivo, 25, Argentina, CA Gimnasia y Esgrima (Mendoza)
+Héctor Herrera, Mediocentro ofensivo, 23, Argentina, CA Gimnasia y Esgrima (Mendoza)
+Facundo Lencioni, Extremo izquierdo, 24, Argentina, CA Gimnasia y Esgrima (Mendoza)
+Brian Andrada, Extremo izquierdo, 27, Argentina, CA Gimnasia y Esgrima (Mendoza)
+Gastón Espósito, Extremo derecho, 27, Argentina, CA Gimnasia y Esgrima (Mendoza)
+Luciano Cingolani, Extremo derecho, 24, Argentina, CA Gimnasia y Esgrima (Mendoza)
+Nicolás Romano, Mediapunta, 25, Argentina, CA Gimnasia y Esgrima (Mendoza)
+Nicolás Ferreyra, Delantero centro, 28, Argentina, CA Gimnasia y Esgrima (Mendoza)
+Nicolás Servetto, Delantero centro, 29, Argentina, CA Gimnasia y Esgrima (Mendoza)
+Mario Galeano, Delantero centro, 23, Argentina, CA Gimnasia y Esgrima (Mendoza)
+Julián Moya, Delantero centro, 22, Argentina, CA Gimnasia y Esgrima (Mendoza)
+Milton Álvarez, Portero, 36, Argentina, CA Gimnasia y Esgrima (Jujuy)
+Sebastián Anchoverri, Portero, 34, Argentina, CA Gimnasia y Esgrima (Jujuy)
+Gonzalo Gómez, Portero, 39, Argentina, CA Gimnasia y Esgrima (Jujuy)
+Bruno Palazzo, Defensa central, 24, Argentina, CA Gimnasia y Esgrima (Jujuy)
+Sebastián Sánchez, Defensa central, 36, Argentina, CA Gimnasia y Esgrima (Jujuy)
+Leandro Barro, Defensa central, 22, Argentina, CA Gimnasia y Esgrima (Jujuy)
+Emiliano Endrizzi, Lateral izquierdo, 31, Argentina, CA Gimnasia y Esgrima (Jujuy)
+Nicolás Dematei, Lateral izquierdo, 37, Argentina, CA Gimnasia y Esgrima (Jujuy)
+Guillermo Cosaro, Lateral izquierdo, 36, Argentina, CA Gimnasia y Esgrima (Jujuy)
+Joaquín Vaquero, Lateral izquierdo, 22, Argentina, CA Gimnasia y Esgrima (Jujuy)
+Fernando Duré, Lateral derecho, 28, Argentina, CA Gimnasia y Esgrima (Jujuy)
+Franco Camargo, Lateral derecho, 24, Argentina, CA Gimnasia y Esgrima (Jujuy)
+Diego López, Lateral derecho, 33, Argentina, CA Gimnasia y Esgrima (Jujuy)
+Francisco Maidana, Pivote, 23, Argentina, CA Gimnasia y Esgrima (Jujuy)
+Joaquín Trasante, Pivote, 26, Uruguay, CA Gimnasia y Esgrima (Jujuy)
+Juan Pablo Córdoba, Pivote, 21, Argentina, CA Gimnasia y Esgrima (Jujuy)
+Hugo Soria, Mediocentro, 35, Uruguay, CA Gimnasia y Esgrima (Jujuy)
+Matías Noble, Interior izquierdo, 28, Argentina, CA Gimnasia y Esgrima (Jujuy)
+Francisco Molina, Interior izquierdo, 34, Argentina, CA Gimnasia y Esgrima (Jujuy)
+Santiago Camacho, Mediocentro ofensivo, 28, Argentina, CA Gimnasia y Esgrima (Jujuy)
+Rodrigo Velázquez, Mediocentro ofensivo, 22, Argentina, CA Gimnasia y Esgrima (Jujuy)
+José Vanetta, Extremo izquierdo, 23, Argentina, CA Gimnasia y Esgrima (Jujuy)
+Daniel Juárez, Extremo derecho, 23, Argentina, CA Gimnasia y Esgrima (Jujuy)
+Alejandro Quintana, Delantero centro, 33, Argentina, CA Gimnasia y Esgrima (Jujuy)
+Jeremías Perales, Delantero centro, 24, Argentina, CA Gimnasia y Esgrima (Jujuy)
+Cristian Menéndez, Delantero centro, 37, Argentina, CA Gimnasia y Esgrima (Jujuy)
+Gonzalo Puntano, Delantero centro, 20, Argentina, CA Gimnasia y Esgrima (Jujuy)
+Alejandro Medina, Portero, 38, Argentina, CA Defensores de Belgrano
+Nicolás Nocetti, Portero, 24, Argentina, CA Defensores de Belgrano
+Luciano Peraggini, Portero, 23, Argentina, CA Defensores de Belgrano
+Agustín Massaccesi, Defensa central, 22, Argentina, CA Defensores de Belgrano
+Juan Pablo Segovia, Defensa central, 36, Argentina, CA Defensores de Belgrano
+Gonzalo Gamarra, Defensa central, 27, Argentina, CA Defensores de Belgrano
+Fernando Rodríguez, Lateral izquierdo, 24, Argentina, CA Defensores de Belgrano
+Luciano Correa, Lateral izquierdo, 22, Argentina, CA Defensores de Belgrano
+Fabián Dauwalder, Lateral derecho, 33, Argentina, CA Defensores de Belgrano
+Gustavo Mendoza, Pivote, 30, Argentina, CA Defensores de Belgrano
+Matías Laba, Pivote, 33, Argentina, CA Defensores de Belgrano
+Agustín Benítez, Mediocentro, 25, Argentina, CA Defensores de Belgrano
+Ignacio Gutiérrez, Mediocentro, 23, Argentina, CA Defensores de Belgrano
+Juan De Tomaso, Mediocentro, 31, Argentina, CA Defensores de Belgrano
+Nicolás Borsotti, Mediocentro, 19, Argentina, CA Defensores de Belgrano
+Gonzalo Villafañe, Interior izquierdo, 25, Argentina, CA Defensores de Belgrano
+Emiliano Vecchio, Mediocentro ofensivo, 36, Argentina, CA Defensores de Belgrano
+Facundo Pereyra, Mediocentro ofensivo, 37, Argentina, CA Defensores de Belgrano
+Cristián Sánchez, Mediocentro ofensivo, 33, Argentina, CA Defensores de Belgrano
+Ramiro Rúmbolo, Mediocentro ofensivo, 21, Argentina, CA Defensores de Belgrano
+Ignacio Rossi, Mediocentro ofensivo, 21, Argentina, CA Defensores de Belgrano
+Patricio Moyano, Extremo izquierdo, 21, Argentina, CA Defensores de Belgrano
+Brian Gómez, Extremo izquierdo, 31, Argentina, CA Defensores de Belgrano
+Gian Luca Pugliese, Extremo izquierdo, 28, Argentina, CA Defensores de Belgrano
+Ezequiel Aguirre, Extremo derecho, 33, Argentina, CA Defensores de Belgrano
+Enzo González, Mediapunta, 24, Argentina, CA Defensores de Belgrano
+Facundo Pons, Delantero centro, 29, Argentina, CA Defensores de Belgrano
+Lautaro Cerato, Delantero centro, 24, Argentina, CA Defensores de Belgrano
+Iván Chaves, Portero, 25, Argentina, CA Patronato
+Juan Pablo Mazza, Portero, 28, Argentina, CA Patronato
+Gabriel Díaz, Defensa, 22, Argentina, CA Patronato
+Joaquín Varela, Defensa central, 28, Argentina, CA Patronato
+Fernando Moreyra, Defensa central, 34, Argentina, CA Patronato
+Facundo Díaz, Defensa central, 23, Argentina, CA Patronato
+Santiago Bellatti, Defensa central, 22, Argentina, CA Patronato
+Ian Escobar, Lateral izquierdo, 28, Argentina, CA Patronato
+Gonzalo Asís, Lateral derecho, 29, Argentina, CA Patronato
+Julián Navas, Lateral derecho, 31, Argentina, CA Patronato
+Agustín Ramos, Lateral derecho, 23, Argentina, CA Patronato
+Brian Nievas, Pivote, 27, Argentina, CA Patronato
+Santiago Gallucci Otero, Pivote, 34, Argentina, CA Patronato
+Luciano Pacco, Centrocampista, 21, Argentina, CA Patronato
+Walter Rueda, Interior derecho, 27, Argentina, CA Patronato
+Valentín Pereyra, Interior derecho, 23, Argentina, CA Patronato
+Augusto Picco, Interior derecho, 21, Argentina, CA Patronato
+Emanuel Moreno, Interior izquierdo, 35, Argentina, CA Patronato
+Juan Pablo Barinaga, Mediocentro ofensivo, 24, Argentina, CA Patronato
+Alan Sombra, Extremo izquierdo, 31, Argentina, CA Patronato
+Valentín Villarreal, Extremo izquierdo, 20, Argentina, CA Patronato
+Julián Marcioni, Extremo derecho, 27, Argentina, CA Patronato
+Matías Pardo, Extremo derecho, 30, Argentina, CA Patronato
+Alan Bonansea, Delantero centro, 28, Argentina, CA Patronato
+Federico Castro, Delantero centro, 31, Argentina, CA Patronato
+Federico Abadía, Portero, 26, Argentina, Club de Gimnasia y Tiro
+Federico Cosentino, Portero, 37, Argentina, Club de Gimnasia y Tiro
+Manuel Guanini, Defensa central, 29, Argentina, Club de Gimnasia y Tiro
+Gabriel Díaz, Defensa central, 35, Argentina, Club de Gimnasia y Tiro
+Isaac Monti, Defensa central, 27, Argentina, Club de Gimnasia y Tiro
+Adolfo Tallura, Defensa central, 38, Argentina, Club de Gimnasia y Tiro
+Luis Olivera, Lateral izquierdo, 26, Argentina, Club de Gimnasia y Tiro
+Ivo Chaves, Lateral derecho, 31, Argentina, Club de Gimnasia y Tiro
+Juan Galetto, Lateral derecho, 28, Argentina, Club de Gimnasia y Tiro
+Matías Birge, Pivote, 36, Argentina, Club de Gimnasia y Tiro
+Nicolás Rinaldi, Mediocentro, 31, Argentina, Club de Gimnasia y Tiro
+Matías Morello, Mediocentro, 24, Argentina, Club de Gimnasia y Tiro
+Franco Sivetti, Mediocentro, 26, Argentina, Club de Gimnasia y Tiro
+Wálter Busse, Mediocentro, 38, Argentina, Club de Gimnasia y Tiro
+Facundo Heredia, Interior izquierdo, 26, Argentina, Club de Gimnasia y Tiro
+Ruben Villarreal, Interior izquierdo, 34, Argentina, Club de Gimnasia y Tiro
+Jonás Aguirre, Extremo izquierdo, 33, Argentina, Club de Gimnasia y Tiro
+José Méndez, Extremo derecho, 32, Argentina, Club de Gimnasia y Tiro
+Daniel Villalva, Mediapunta, 32, Argentina, Club de Gimnasia y Tiro
+Nicolás Contin, Delantero centro, 29, Argentina, Club de Gimnasia y Tiro
+Fabricio Rojas, Delantero centro, 24, Argentina, Club de Gimnasia y Tiro
+Leonel Buter, Delantero centro, 32, Argentina, Club de Gimnasia y Tiro
+Emilio Di Fulvio, Portero, 30, Argentina, CA Colegiales
+Juan Martín Rojas, Portero, 25, Argentina, CA Colegiales
+Francisco Salerno, Portero, 24, Argentina, CA Colegiales
+Santiago Strasorier, Defensa central, 24, Argentina, CA Colegiales
+Ián Rasso, Defensa central, 24, Argentina, CA Colegiales
+Leandro Martínez Montagnoli, Defensa central, 38, Argentina, CA Colegiales
+Sebastián Silguero, Defensa central, 33, Argentina, CA Colegiales
+Martín Rodríguez, Lateral izquierdo, 26, Argentina, CA Colegiales
+Franco Hanashiro, Lateral izquierdo, 23, Argentina, CA Colegiales
+Fernando Ponce, Lateral izquierdo, 32, Argentina, CA Colegiales
+Mauricio Camargo, Lateral izquierdo, 23, Argentina, CA Colegiales
+Franco Malagueño, Lateral derecho, 26, Argentina, CA Colegiales
+Nicolás Álvarez, Lateral derecho, 35, Argentina, CA Colegiales
+Fernando Di Massimo, Lateral derecho, 20, Argentina, CA Colegiales
+Federico Marín, Pivote, 27, Argentina, CA Colegiales
+Facundo Montiel, Pivote, 20, Argentina, CA Colegiales
+Lucas Giménez, Pivote, 26, Argentina, CA Colegiales
+Lautaro Torres, Mediocentro, 28, Argentina, CA Colegiales
+David Müller, Mediocentro, 30, Argentina, CA Colegiales
+Bahiano Garcia, Mediocentro, 24, Argentina, CA Colegiales
+Joaquín Cancio, Mediocentro, 22, Argentina, CA Colegiales
+Leonel Duarte, Mediocentro, 24, Argentina, CA Colegiales
+Andrés Lioi, Interior derecho, 28, Argentina, CA Colegiales
+Mauricio Bermejo, Interior derecho, 24, Argentina, CA Colegiales
+Laureano Marra, Mediocentro ofensivo, 22, Argentina, CA Colegiales
+Ignacio Vallejos, Mediocentro ofensivo, 24, Argentina, CA Colegiales
+Iván Ortigoza, Extremo izquierdo, 30, Argentina, CA Colegiales
+Iván Fernández, Extremo derecho, 24, Argentina, CA Colegiales
+Lucio Castillo, Mediapunta, 23, Argentina, CA Colegiales
+Lautaro Gordillo, Delantero centro, 26, Argentina, CA Colegiales
+Guillermo Villalba, Delantero centro, 29, Argentina, CA Colegiales
+Valentín Robaldo, Delantero centro, 25, Argentina, CA Colegiales
+Nicolas Franco, Delantero centro, 29, Argentina, CA Colegiales
+Benjamin Giménez, Delantero centro, 24, Argentina, CA Colegiales
+Joaquín Mattalia, Portero, 33, Argentina, CA Racing (Córdoba)
+Mauricio Maslovski, Portero, 25, Argentina, CA Racing (Córdoba)
+Leonardo Rodríguez, Portero, 32, Argentina, CA Racing (Córdoba)
+Valentín Perales, Defensa central, 29, Argentina, CA Racing (Córdoba)
+Martin Albarracin, Defensa central, 24, Argentina, CA Racing (Córdoba)
+Daniel Abello, Defensa central, 30, Argentina, CA Racing (Córdoba)
+Wilfredo Olivera, Defensa central, 38, Argentina, CA Racing (Córdoba)
+Gianfranco Ferrero, Lateral izquierdo, 29, Argentina, CA Racing (Córdoba)
+Luca Frenguelli, Lateral izquierdo, 24, Argentina, CA Racing (Córdoba)
+Lucas Flores, Lateral izquierdo, 24, Argentina, CA Racing (Córdoba)
+Raul Chamorro, Lateral derecho, 26, Argentina, CA Racing (Córdoba)
+Fabrizio Ghiggia, Lateral derecho, 21, Argentina, CA Racing (Córdoba)
+Braian Rivero, Mediocentro, 29, Argentina, CA Racing (Córdoba)
+Gonzalo Rostagno, Mediocentro, 19, Argentina, CA Racing (Córdoba)
+Nicolás Sánchez, Mediocentro, 27, Argentina, CA Racing (Córdoba)
+Nicolás Sánchez, Mediocentro, 20, Argentina, CA Racing (Córdoba)
+Santiago Churchi, Mediocentro, 26, Argentina, CA Racing (Córdoba)
+Matías Machado, Interior derecho, 23, Argentina, CA Racing (Córdoba)
+Germán Díaz, Mediocentro ofensivo, 28, Argentina, CA Racing (Córdoba)
+Maximiliano Gutiérrez, Mediocentro ofensivo, 28, Argentina, CA Racing (Córdoba)
+Axel Oyola, Mediocentro ofensivo, 28, Argentina, CA Racing (Córdoba)
+Leonel Monti, Mediocentro ofensivo, 22, Argentina, CA Racing (Córdoba)
+Francisco Robles, Mediocentro ofensivo, 24, Argentina, CA Racing (Córdoba)
+Francisco Monticelli, Mediocentro ofensivo, 22, Argentina, CA Racing (Córdoba)
+Leandro Fernández, Extremo izquierdo, 30, Argentina, CA Racing (Córdoba)
+Guillermo Sánchez, Extremo derecho, 30, Argentina, CA Racing (Córdoba)
+Julián Vignolo, Delantero centro, 18, Argentina, CA Racing (Córdoba)
+Pablo Chavarría, Delantero centro, 37, Argentina, CA Racing (Córdoba)
+Lautaro Villegas, Delantero centro, 28, Argentina, CA Racing (Córdoba)
+Sebastián Marfort, Delantero centro, 22, Argentina, CA Racing (Córdoba)
+Leonel Barrios, Delantero centro, 31, Argentina, CA Racing (Córdoba)
+Mateo Suárez, Delantero centro, 24, Argentina, CA Racing (Córdoba)
+Mariano Monllor, Portero, 36, Argentina, CA Los Andes
+Sebastián López, Portero, 39, Argentina, CA Los Andes
+Franco Rivasseau, Portero, 26, Argentina, CA Los Andes
+Brian Leizza, Defensa central, 25, Argentina, CA Los Andes
+Francisco Marco, Defensa central, 21, Argentina, CA Los Andes
+Román Riquelme, Defensa central, 23, Argentina, CA Los Andes
+Lucas Barrientos, Defensa central, 19, Argentina, CA Los Andes
+Guido Segalerba, Defensa central, 26, Argentina, CA Los Andes
+Nazareno Fernández Colombo, Lateral izquierdo, 28, Argentina, CA Los Andes
+Emanuel Diaz, Lateral izquierdo, 23, Argentina, CA Los Andes
+Aaron Sandoval, Lateral derecho, 19, Argentina, CA Los Andes
+Agustin Bellone, Lateral derecho, 32, Argentina, CA Los Andes
+Gabriel Carrasco, Lateral derecho, 28, Argentina, CA Los Andes
+Facundo Villarreal, Centrocampista, 20, Argentina, CA Los Andes
+Carlos Arce, Pivote, 34, Argentina, CA Los Andes
+Brian Quintana, Pivote, 22, Argentina, CA Los Andes
+Gonzalo Cozzoni, Pivote, 36, Argentina, CA Los Andes
+Matias Gómez, Mediocentro, 21, Argentina, CA Los Andes
+Gabriel Cañete, Mediocentro, 26, Argentina, CA Los Andes
+Marcos Brítez Ojeda, Mediocentro, 39, Argentina, CA Los Andes
+Franco Rodríguez, Mediocentro, 25, Argentina, CA Los Andes
+Lautaro Álvarez, Mediocentro, 21, Argentina, CA Los Andes
+Taiel Arancibia, Mediocentro, 23, Argentina, CA Los Andes
+Guillermo Pereira, Interior derecho, 31, Argentina, CA Los Andes
+Tomás Sives, Mediocentro ofensivo, 21, Argentina, CA Los Andes
+Gastón Gerzel, Extremo izquierdo, 25, Argentina, CA Los Andes
+Tomás Rambert, Extremo izquierdo, 21, Argentina, CA Los Andes
+Mateo Cardozo, Extremo derecho, 21, Argentina, CA Los Andes
+Mauricio Asenjo, Delantero centro, 30, Argentina, CA Los Andes
+Tomás Pérez, Delantero centro, 19, Argentina, CA Los Andes
+Enzo Díaz, Delantero centro, 33, Argentina, CA Los Andes
+Federico Martínez, Delantero centro, 30, Argentina, CA Los Andes
+Enzo Luna, Delantero centro, 22, Argentina, CA Los Andes
+Axel Páez, Delantero centro, 21, Argentina, CA Los Andes
+Agustín Rufinetti, Portero, 25, Argentina, CA San Telmo
+Joaquín Enrico, Portero, 23, Argentina, CA San Telmo
+Santiago Fernández, Defensa, 21, Argentina, CA San Telmo
+Leonel Pollacchi, Defensa central, 22, Argentina, CA San Telmo
+Nicolás Morro, Defensa central, 27, Argentina, CA San Telmo
+Gabriel Pusula, Defensa central, 28, Argentina, CA San Telmo
+Santiago Formichelli, Defensa central, 27, Argentina, CA San Telmo
+Federico Peralta, Defensa central, 23, Argentina, CA San Telmo
+Agustín Ojeda, Lateral izquierdo, 23, Argentina, CA San Telmo
+Rodrigo Sosa, Lateral izquierdo, 22, Argentina, CA San Telmo
+Nicolás Dell Aquila, Lateral derecho, 23, Argentina, CA San Telmo
+Renzo Uriburu, Pivote, 21, Argentina, CA San Telmo
+Elías Brítez, Pivote, 24, Argentina, CA San Telmo
+Valentín Matlis, Pivote, 24, Argentina, CA San Telmo
+Ian Pardo, Pivote, 21, Argentina, CA San Telmo
+Juan Yangali, Mediocentro, 25, Argentina, CA San Telmo
+Facundo Tello, Mediocentro, 31, Argentina, CA San Telmo
+Lautaro César, Interior derecho, 24, Argentina, CA San Telmo
+Joaquín Ochoa, Mediocentro ofensivo, 28, Argentina, CA San Telmo
+Agustín Maidana, Mediocentro ofensivo, 23, Argentina, CA San Telmo
+Marcos Astina, Extremo izquierdo, 29, Argentina, CA San Telmo
+Matías Salerno, Extremo izquierdo, 21, Argentina, CA San Telmo
+Iñaki Larthirigoyen, Extremo derecho, 21, Argentina, CA San Telmo
+Cristian Núñez, Extremo derecho, 24, Paraguay, CA San Telmo
+Jerónimo Porto, Extremo derecho, 24, Argentina, CA San Telmo
+Franco Aguirre, Extremo derecho, 25, Argentina, CA San Telmo
+Sebastián Cocimano, Delantero centro, 25, Argentina, CA San Telmo
+Gonzalo Aquilino, Delantero centro, 25, Argentina, CA San Telmo
+Nahuel Curcio, Delantero, 21, Argentina, CA San Telmo
+Juan Cruz Zurbriggen, Delantero centro, 25, Argentina, CA San Telmo
+Francesco Toldo, Delantero centro, 21, Argentina, CA San Telmo
+Martiniano Compagnucci, Delantero centro, 22, Argentina, CA San Telmo
+Nahuel Pezzini, Portero, 28, Argentina, CA Güemes
+Mauro Leguiza, Portero, 31, Argentina, CA Güemes
+Juan Bobba, Portero, 24, Argentina, CA Güemes
+Miguel Ángel Acosta, Portero, 23, Argentina, CA Güemes
+Ignacio Salvatierra, Defensa, 22, Argentina, CA Güemes
+Nicolás Monserrat, Defensa central, 28, Argentina, CA Güemes
+Walter Juárez, Defensa central, 26, Argentina, CA Güemes
+Brian Machuca, Defensa central, 30, Argentina, CA Güemes
+Fernando González, Defensa central, 36, Argentina, CA Güemes
+Matías Escudero, Defensa central, 36, Argentina, CA Güemes
+Facundo Galván, Defensa central, 22, Argentina, CA Güemes
+Julián Gauna, Lateral izquierdo, 30, Argentina, CA Güemes
+Federico López, Lateral izquierdo, 35, Argentina, CA Güemes
+Mariano Bettini, Lateral derecho, 29, Argentina, CA Güemes
+Tomás Federico, Pivote, 27, Argentina, CA Güemes
+Gonzalo Papa, Pivote, 36, Uruguay, CA Güemes
+Emiliano Griffa, Mediocentro, 25, Argentina, CA Güemes
+Matías Fissore, Mediocentro, 34, Argentina, CA Güemes
+Patricio Pérez, Mediocentro, 24, Argentina, CA Güemes
+Tomás Martinez, Mediocentro, 23, Argentina, CA Güemes
+Milton Gerez, Interior derecho, 27, Argentina, CA Güemes
+Tomás Rojas, Interior derecho, 28, Paraguay, CA Güemes
+Lucas Chiozza, Mediocentro ofensivo, 23, Argentina, CA Güemes
+Thobías Arévalo, Mediocentro ofensivo, 24, Paraguay, CA Güemes
+Lautaro Rodríguez, Mediocentro ofensivo, 21, Argentina, CA Güemes
+Miguel Ceccotti, Mediocentro ofensivo, 26, Argentina, CA Güemes
+David Véliz, Extremo izquierdo, 24, Argentina, CA Güemes
+Maximiliano Álvarez, Delantero centro, 28, Argentina, CA Güemes
+Hernán Brylko, Delantero centro, 28, Argentina, CA Güemes
+Mauro Albertengo, Delantero centro, 35, Argentina, CA Güemes
+Pablo Palacios Alvarenga, Delantero centro, 36, Paraguay, CA Güemes
+Emiliano González, Portero, 26, Argentina, Club Almagro
+Christian Limousin, Portero, 33, Argentina, Club Almagro
+Leonel Barrionuevo, Portero, 24, Argentina, Club Almagro
+Ramiro Ríos, Defensa central, 29, Argentina, Club Almagro
+Ulises Yegros, Defensa central, 24, Argentina, Club Almagro
+Lautaro Busto, Defensa central, 21, Argentina, Club Almagro
+Aldo Rimbelitti, Defensa central, 21, Argentina, Club Almagro
+Leandro Figueredo, Defensa central, 21, Argentina, Club Almagro
+Marcos Pinto, Lateral izquierdo, 31, Argentina, Club Almagro
+Mariano Gancedo, Lateral izquierdo, 27, Argentina, Club Almagro
+Laureano Puñet, Lateral izquierdo, 25, Argentina, Club Almagro
+Martín García, Lateral derecho, 26, Argentina, Club Almagro
+Luis Jérez Silva, Pivote, 36, Argentina, Club Almagro
+David Puca, Pivote, 22, Argentina, Club Almagro
+Julián Vitale, Mediocentro, 29, Argentina, Club Almagro
+Ariel Chaves, Mediocentro, 33, Argentina, Club Almagro
+Tomás Castro Ponce, Interior derecho, 24, Argentina, Club Almagro
+Lauro Gamba, Interior derecho, 25, Argentina, Club Almagro
+Maximiliano Luayza, Mediocentro ofensivo, 23, Argentina, Club Almagro
+Facundo Quiroga, Mediocentro ofensivo, 29, Argentina, Club Almagro
+Carlo Lattanzio, Extremo izquierdo, 27, Argentina, Club Almagro
+Ángel González, Extremo derecho, 31, Argentina, Club Almagro
+Lucas Baldunciel, Extremo derecho, 33, Argentina, Club Almagro
+Nazareno Diósquez, Extremo derecho, 23, Argentina, Club Almagro
+Renzo Conechny, Extremo derecho, 24, Argentina, Club Almagro
+Tiziano Dornell, Delantero centro, 19, Argentina, Club Almagro
+Patricio Cucchi, Delantero centro, 32, Argentina, Club Almagro
+Joel Orlando, Delantero centro, 19, Argentina, Club Almagro
+Axel Rodríguez, Delantero centro, 28, Argentina, Club Almagro
+Mateo Tappero, Delantero centro, 21, Argentina, Club Almagro
+Thiago López, Delantero centro, 20, Argentina, Club Almagro
+Francisco Rago, Portero, 36, Argentina, CA Atlanta
+Lautaro López Kaleniuk, Portero, 24, Argentina, CA Atlanta
+Rodrigo Moreira, Defensa central, 28, Argentina, CA Atlanta
+Tomás Rojas, Defensa central, 23, Argentina, CA Atlanta
+Thiago Herrera, Defensa central, 20, Argentina, CA Atlanta
+Guillermo Ferracuti, Lateral izquierdo, 34, Argentina, CA Atlanta
+Nicolás Tolosa, Lateral izquierdo, 23, Argentina, CA Atlanta
+José Gómez, Lateral derecho, 25, Argentina, CA Atlanta
+Caín Fara, Lateral derecho, 31, Argentina, CA Atlanta
+Leonardo Flores, Lateral derecho, 28, Argentina, CA Atlanta
+Nicolás Previtali, Pivote, 29, Argentina, CA Atlanta
+Kevin Benítez, Pivote, 23, Argentina, CA Atlanta
+Mateo Contento, Pivote, 20, Argentina, CA Atlanta
+Jorge Valdez Chamorro, Mediocentro, 30, Argentina, CA Atlanta
+Rodrigo Ramírez, Mediocentro, 25, Argentina, CA Atlanta
+Tomás Díaz, Mediocentro, 24, Argentina, CA Atlanta
+Fausto Montero, Mediocentro, 36, Argentina, CA Atlanta
+Santiago Coronel, Interior izquierdo, 24, Argentina, CA Atlanta
+Alexis Sabella, Mediocentro ofensivo, 23, Argentina, CA Atlanta
+Federico Bisanz, Mediocentro ofensivo, 23, Argentina, CA Atlanta
+Lucas Ambrogio, Extremo izquierdo, 25, Argentina, CA Atlanta
+Lautaro Fedele, Extremo derecho, 23, Argentina, CA Atlanta
+Nicolás Medina, Extremo derecho, 22, Argentina, CA Atlanta
+Marcos Echeverría, Delantero centro, 21, Argentina, CA Atlanta
+Jonathan Bauman, Delantero centro, 34, Argentina, CA Atlanta
+Érik Bodencer, Delantero centro, 25, Argentina, CA Atlanta
+Cristian Cuenca, Delantero centro, 24, Argentina, CA Atlanta
+Jerónimo Pourtau, Portero, 25, Argentina, Arsenal FC
+Franco Herrera, Portero, 21, Argentina, Arsenal FC
+Iván Cabrera, Defensa central, 22, Argentina, Arsenal FC
+Balthazar Bernardi, Defensa central, 23, Argentina, Arsenal FC
+Alexis Sosa, Defensa central, 25, Argentina, Arsenal FC
+Nazareno Roselli, Defensa central, 18, Argentina, Arsenal FC
+Ramiro Cáceres, Defensa central, 20, Argentina, Arsenal FC
+Agustín Álvarez, Defensa central, 21, Argentina, Arsenal FC
+Manuel Cocca, Defensa central, 22, Argentina, Arsenal FC
+Gonzalo Rocaniere, Defensa central, 37, Argentina, Arsenal FC
+Emiliano Purita, Lateral derecho, 28, Argentina, Arsenal FC
+Matías Vera, Lateral derecho, 26, Argentina, Arsenal FC
+Abel Amaya, Lateral derecho, 22, Argentina, Arsenal FC
+Andrés Ayala, Pivote, 25, Argentina, Arsenal FC
+Julián Vila, Pivote, 24, Argentina, Arsenal FC
+Matías Abbruzzesse, Centrocampista, 24, Argentina, Arsenal FC
+Nahuel Frascone, Mediocentro, 22, Argentina, Arsenal FC
+Matteo Trombini, Mediocentro, 22, Italia, Arsenal FC
+Talo Colletta, Mediocentro, 22, Argentina, Arsenal FC
+Matías Lucero, Interior derecho, 21, Argentina, Arsenal FC
+Valentín Serrano, Interior izquierdo, 21, Argentina, Arsenal FC
+Esteban Fernández, Mediocentro ofensivo, 23, Argentina, Arsenal FC
+Juan Pablo Krilanovich, Mediocentro ofensivo, 23, Argentina, Arsenal FC
+Matías Flores, Mediocentro ofensivo, 24, México, Arsenal FC
+Facundo Brestt, Mediocentro ofensivo, 21, Argentina, Arsenal FC
+Ángel Stringa, Extremo izquierdo, 29, Argentina, Arsenal FC
+Claudio Villagra, Extremo derecho, 29, Argentina, Arsenal FC
+Ignacio Sabatini, Extremo derecho, 25, Argentina, Arsenal FC
+Ciro Rius, Extremo derecho, 36, Argentina, Arsenal FC
+Fabián Bordagaray, Extremo derecho, 38, Argentina, Arsenal FC
+Facundo Echevarría, Delantero centro, 22, Argentina, Arsenal FC
+Manuel López, Delantero centro, 21, Argentina, Arsenal FC
+Gonzalo Klusener, Delantero centro, 41, Argentina, Arsenal FC
+Tomás Giménez, Portero, 26, Argentina, CA Colón
+Marcos Díaz, Portero, 39, Argentina, CA Colón
+Guillermo Ortiz, Defensa central, 32, Argentina, CA Colón
+Nicolás Thaller, Defensa central, 26, Argentina, CA Colón
+Brian Negro, Defensa central, 27, Argentina, CA Colón
+Facundo Castet, Lateral izquierdo, 26, Argentina, CA Colón
+Nicolás Fernández, Lateral izquierdo, 23, Argentina, CA Colón
+Conrado Ibarra, Lateral izquierdo, 21, Argentina, CA Colón
+Gonzalo Bettini, Lateral derecho, 32, Argentina, CA Colón
+Facundo Sánchez, Lateral derecho, 35, Argentina, CA Colón
+Alan Forneris, Pivote, 20, Argentina, CA Colón
+Lautaro Laborie, Pivote, 24, Argentina, CA Colón
+Tomás Gallay, Mediocentro, 20, Argentina, CA Colón
+Nahuel Giménez, Mediocentro, 20, Argentina, CA Colón
+Nicolás Talpone, Interior derecho, 29, Argentina, CA Colón
+Oscar Garrido, Interior derecho, 27, Argentina, CA Colón
+Joel Soñora, Mediocentro ofensivo, 28, Estados Unidos, CA Colón
+Ignacio Lago, Extremo izquierdo, 22, Argentina, CA Colón
+José Barreto, Extremo izquierdo, 25, Argentina, CA Colón
+Christian Bernardi, Extremo derecho, 35, Argentina, CA Colón
+Federico Jourdan, Extremo derecho, 34, Argentina, CA Colón
+Facundo Taborda, Extremo derecho, 24, Argentina, CA Colón
+Jorge Sanguina, Delantero centro, 26, Paraguay, CA Colón
+Genaro Rossi, Delantero centro, 23, Argentina, CA Colón
+Emmanuel Gigliotti, Delantero centro, 38, Argentina, CA Colón
+Franco Déboli, Delantero centro, 24, Argentina, CA Colón
+Juan Pablo Noce, Portero, 27, Argentina, CA Agropecuario
+Germán Salort, Portero, 36, Argentina, CA Agropecuario
+Agustín Alastra, Portero, 26, Argentina, CA Agropecuario
+Milton Leyendeker, Defensa central, 27, Argentina, CA Agropecuario
+Juan Ignacio Sills, Defensa central, 38, Argentina, CA Agropecuario
+Facundo Sánchez, Defensa central, 21, Argentina, CA Agropecuario
+Gustavo Areco, Defensa central, 24, Argentina, CA Agropecuario
+Enzo Silcan, Lateral izquierdo, 24, Argentina, CA Agropecuario
+Milton Ramos, Lateral izquierdo, 30, Argentina, CA Agropecuario
+Jorge Cabello, Lateral izquierdo, 22, Argentina, CA Agropecuario
+Matías Molina, Lateral derecho, 30, Argentina, CA Agropecuario
+Juan Martín Ginzo, Lateral derecho, 23, Argentina, CA Agropecuario
+Enzo Aguirre, Lateral derecho, 21, Argentina, CA Agropecuario
+Fernando Miranda, Pivote, 27, Argentina, CA Agropecuario
+Damián Lemos, Pivote, 36, Argentina, CA Agropecuario
+Fabián Henríquez, Pivote, 29, Argentina, CA Agropecuario
+Braian Aranda, Mediocentro, 21, Argentina, CA Agropecuario
+Marcos Benítez, Mediocentro, 23, Argentina, CA Agropecuario
+Nicolás Sánchez, Mediocentro ofensivo, 33, Argentina, CA Agropecuario
+Braian Rojas, Mediocentro ofensivo, 20, Argentina, CA Agropecuario
+Facundo Meli, Mediocentro ofensivo, 21, Argentina, CA Agropecuario
+David Gallardo, Extremo izquierdo, 28, Argentina, CA Agropecuario
+Diego Vásquez, Extremo izquierdo, 24, Argentina, CA Agropecuario
+Alejandro Melo, Extremo derecho, 29, Argentina, CA Agropecuario
+Danilo Ruiz Díaz, Extremo derecho, 22, Argentina, CA Agropecuario
+Franco Coronel, Mediapunta, 31, Argentina, CA Agropecuario
+Rodrigo Mosqueira, Mediapunta, 29, Argentina, CA Agropecuario
+Brian Blando, Delantero centro, 30, Argentina, CA Agropecuario
+Alejandro Gagliardi, Delantero centro, 35, Argentina, CA Agropecuario
+Francisco Ruiz, Delantero centro, 21, Argentina, CA Agropecuario
+Alan González, Portero, 28, Argentina, CA Central Norte
+Enzo Vázquez, Portero, 24, Argentina, CA Central Norte
+Jeremías Vargas, Portero, 21, Argentina, CA Central Norte
+Matías Sánchez, Defensa central, 25, Argentina, CA Central Norte
+Gonzalo Castilla, Defensa central, 22, Argentina, CA Central Norte
+Juan Alvacete, Defensa central, 34, Argentina, CA Central Norte
+Cristian González, Defensa central, 35, Argentina, CA Central Norte
+Tomás Berra, Defensa central, 34, Argentina, CA Central Norte
+Renzo Paparelli, Defensa central, 28, Argentina, CA Central Norte
+Pedro Sanz, Lateral izquierdo, 24, Argentina, CA Central Norte
+Santiago Rinaudo, Lateral derecho, 27, Argentina, CA Central Norte
+Iván Regules, Lateral derecho, 30, Argentina, CA Central Norte
+Tiago Banega, Pivote, 25, Argentina, CA Central Norte
+Alex Battigelli, Pivote, 28, Argentina, CA Central Norte
+Facundo Romero, Mediocentro, 23, Argentina, CA Central Norte
+Emmanuel Giménez, Mediocentro, 41, Argentina, CA Central Norte
+Maximiliano Ribero, Mediocentro, 27, Argentina, CA Central Norte
+Cristian Chavarría, Mediocentro, 26, Argentina, CA Central Norte
+Matías Moravec, Interior derecho, 24, Argentina, CA Central Norte
+Gonzalo Romero, Interior derecho, 24, Argentina, CA Central Norte
+Antú Hernández, Interior izquierdo, 30, Argentina, CA Central Norte
+Nicolás Genes, Mediocentro ofensivo, 23, Argentina, CA Central Norte
+Luciano Ferreyra, Extremo izquierdo, 23, Argentina, CA Central Norte
+Diego Magno, Mediapunta, 40, Argentina, CA Central Norte
+Agustín Bianciotti, Delantero centro, 21, Argentina, CA Central Norte
+Rodrigo Acosta, Delantero centro, 35, Argentina, CA Central Norte
+Augusto Berrondo, Delantero centro, 25, Argentina, CA Central Norte
+Germán Lesman, Delantero centro, 34, Argentina, CA Central Norte
+Franco Tisera, Delantero centro, 35, Argentina, CA Central Norte
+Emiliano Blanco, Delantero centro, 34, Argentina, CA Central Norte
+Juan Pablo Cabaña, Delantero centro, 23, Argentina, CA Central Norte
+Milton Zanotti, Delantero, 21, Argentina, CA Central Norte
+Facundo Ferrero, Portero, 29, Argentina, CA Nueva Chicago
+Leonardo Díaz, Portero, 25, Argentina, CA Nueva Chicago
+Stefano Callegari, Defensa central, 28, Argentina, CA Nueva Chicago
+Julián Rodríguez Vuotto, Defensa central, 25, Argentina, CA Nueva Chicago
+Gonzalo Soto, Defensa central, 35, Argentina, CA Nueva Chicago
+Elías Machuca, Defensa central, 22, Argentina, CA Nueva Chicago
+Julián Ramírez Kloster, Defensa central, 22, Argentina, CA Nueva Chicago
+Diego Arroyo, Lateral izquierdo, 22, Argentina, CA Nueva Chicago
+Facundo Rizzi, Lateral izquierdo, 27, Argentina, CA Nueva Chicago
+Juan Ignacio Motroni, Lateral derecho, 26, Argentina, CA Nueva Chicago
+Adrián Martínez, Lateral derecho, 33, Argentina, CA Nueva Chicago
+Franco Cortés, Lateral derecho, 22, Argentina, CA Nueva Chicago
+Emiliano Méndez, Pivote, 36, Argentina, CA Nueva Chicago
+Germán Mansilla, Centrocampista, 27, Argentina, CA Nueva Chicago
+Lucas Vázquez, Pivote, 21, Argentina, CA Nueva Chicago
+Gonzalo Muscia, Mediocentro, 25, Argentina, CA Nueva Chicago
+Alejandro Almaraz, Mediocentro, 18, Argentina, CA Nueva Chicago
+Martín Argüello, Mediocentro, 24, Argentina, CA Nueva Chicago
+Gustavo Fernández, Mediocentro, 22, Argentina, CA Nueva Chicago
+Mateo Montenegro, Interior derecho, 26, Argentina, CA Nueva Chicago
+Ramiro Balbuena, Interior derecho, 25, Argentina, CA Nueva Chicago
+Lucas López, Interior derecho, 27, Argentina, CA Nueva Chicago
+Julián Eseiza, Interior izquierdo, 23, Argentina, CA Nueva Chicago
+Iván Molinas, Mediocentro ofensivo, 28, Argentina, CA Nueva Chicago
+Brandon Cortés, Mediocentro ofensivo, 23, Chile, CA Nueva Chicago
+Tomás Orqueida, Mediocentro ofensivo, 21, Argentina, CA Nueva Chicago
+Nahuel Roldán, Extremo izquierdo, 26, Uruguay, CA Nueva Chicago
+Exequiel Beltramone, Extremo izquierdo, 26, Argentina, CA Nueva Chicago
+Tomás Rodriguez, Extremo derecho, 23, Argentina, CA Nueva Chicago
+Mauro Ortiz, Extremo derecho, 30, Argentina, CA Nueva Chicago
+Iván Maggi, Delantero centro, 25, Argentina, CA Nueva Chicago
+Ignacio Rodríguez, Delantero centro, 20, Uruguay, CA Nueva Chicago
+Ramón Villalba, Delantero centro, 25, Argentina, CA Nueva Chicago
+Nicolás Sumavil, Portero, 25, Argentina, CSD Tristán Suárez
+Joaquín Mendive, Portero, 28, Argentina, CSD Tristán Suárez
+Patricio Ostachuk, Defensa central, 25, Argentina, CSD Tristán Suárez
+Misael Tarón, Defensa central, 25, Argentina, CSD Tristán Suárez
+Nicolás Pantaleone, Defensa central, 32, Argentina, CSD Tristán Suárez
+Lucas Meza, Defensa central, 33, Argentina, CSD Tristán Suárez
+Mauricio Guzmán, Defensa central, 25, Argentina, CSD Tristán Suárez
+Leonardo Felissia, Defensa central, 23, Argentina, CSD Tristán Suárez
+Manuel Guillén, Lateral derecho, 23, Argentina, CSD Tristán Suárez
+Tomás Pérez Serra, Pivote, 26, Argentina, CSD Tristán Suárez
+Franco Bergés, Pivote, 23, Argentina, CSD Tristán Suárez
+Emanuel Romero Trabastoni, Centrocampista, 22, Argentina, CSD Tristán Suárez
+Lautaro Villegas, Mediocentro, 21, Argentina, CSD Tristán Suárez
+Axel Abet, Mediocentro, 27, Argentina, CSD Tristán Suárez
+Alexis Steimbach, Interior derecho, 22, Argentina, CSD Tristán Suárez
+Enzo Arreguín, Interior derecho, 25, Argentina, CSD Tristán Suárez
+Iván Gorosito, Interior derecho, 20, Argentina, CSD Tristán Suárez
+Santiago Magnotta, Interior derecho, 21, Argentina, CSD Tristán Suárez
+Federico Boasso, Mediocentro ofensivo, 29, Argentina, CSD Tristán Suárez
+Francisco Nouet, Extremo izquierdo, 27, Argentina, CSD Tristán Suárez
+Mauro Fernández, Extremo derecho, 36, Argentina, CSD Tristán Suárez
+Federico Versaci, Extremo derecho, 23, Argentina, CSD Tristán Suárez
+Pablo Ruiz, Extremo derecho, 37, Argentina, CSD Tristán Suárez
+Juan Da Rosa, Extremo derecho, 27, Argentina, CSD Tristán Suárez
+David Sayago, Delantero centro, 24, Argentina, CSD Tristán Suárez
+Alexander Sosa, Delantero centro, 24, Argentina, CSD Tristán Suárez
+Álvaro Veliez, Delantero centro, 30, Argentina, CSD Tristán Suárez
+Ezequiel Almirón, Delantero centro, 22, Argentina, CSD Tristán Suárez
+Yair Bonnín, Portero, 34, Argentina, CS Deportivo Madryn
+Fabricio Hass, Portero, 27, Argentina, CS Deportivo Madryn
+Lucas Toffoletti, Portero, 20, Argentina, CS Deportivo Madryn
+Facundo Giacopuzzi, Defensa central, 24, Argentina, CS Deportivo Madryn
+Pablo Minissale, Defensa central, 24, Argentina, CS Deportivo Madryn
+Alejandro Gutiérrez, Defensa central, 30, Colombia, CS Deportivo Madryn
+Víctor Cabrera, Defensa central, 32, Argentina, CS Deportivo Madryn
+Thiago Yossen, Defensa central, 20, Argentina, CS Deportivo Madryn
+Diego Braghieri, Defensa central, 38, Argentina, CS Deportivo Madryn
+Joaquín Obdrzalek, Defensa central, 24, Argentina, CS Deportivo Madryn
+Diego Martínez, Lateral izquierdo, 32, Argentina, CS Deportivo Madryn
+Lucas Pruzzo, Lateral izquierdo, 30, Argentina, CS Deportivo Madryn
+Mauricio Mansilla, Lateral izquierdo, 36, Argentina, CS Deportivo Madryn
+Agustín Sosa, Lateral derecho, 24, Argentina, CS Deportivo Madryn
+Pedro Velurtas, Lateral derecho, 23, Argentina, CS Deportivo Madryn
+Federico Recalde, Pivote, 28, Argentina, CS Deportivo Madryn
+Abel Bustos, Pivote, 26, Argentina, CS Deportivo Madryn
+Bautista Cascini, Mediocentro, 27, Argentina, CS Deportivo Madryn
+Juan Galeano, Mediocentro, 36, Argentina, CS Deportivo Madryn
+Bruno Pérez, Mediocentro ofensivo, 23, Argentina, CS Deportivo Madryn
+Nazareno Solís, Extremo izquierdo, 31, Argentina, CS Deportivo Madryn
+Diego Crego, Extremo izquierdo, 27, Argentina, CS Deportivo Madryn
+Bruno Juncos, Extremo izquierdo, 23, Argentina, CS Deportivo Madryn
+Estanislao Jara, Extremo izquierdo, 25, Argentina, CS Deportivo Madryn
+Gonzalo Torres, Extremo derecho, 25, Argentina, CS Deportivo Madryn
+Matías Nouet, Extremo derecho, 32, Argentina, CS Deportivo Madryn
+Juan Peinipil, Delantero centro, 23, Argentina, CS Deportivo Madryn
+Germán Rivero, Delantero centro, 33, Argentina, CS Deportivo Madryn
+Luis Silba, Delantero centro, 35, Argentina, CS Deportivo Madryn
+Elías Ayala, Delantero centro, 24, Paraguay, CS Deportivo Madryn
+Lukas Ramil Sauer, Portero, 20, Argentina, CA All Boys
+Tiago Libares, Portero, 28, Argentina, CA All Boys
+Alejo Rodríguez, Defensa central, 24, Argentina, CA All Boys
+Jonathan Ferrari, Defensa central, 38, Argentina, CA All Boys
+Maximiliano Coronel, Defensa central, 36, Argentina, CA All Boys
+Yago De Vito, Defensa central, 24, Argentina, CA All Boys
+Facundo Butti, Defensa central, 25, Argentina, CA All Boys
+Ignacio Forlino, Defensa central, 21, Argentina, CA All Boys
+Tobias Bovone, Lateral izquierdo, 25, Argentina, CA All Boys
+Julián Veinticinco, Lateral izquierdo, 22, Argentina, CA All Boys
+Juan Salas, Lateral derecho, 27, Argentina, CA All Boys
+Hernán Grana, Lateral derecho, 40, Argentina, CA All Boys
+Alexis Vega, Pivote, 32, Argentina, CA All Boys
+Leandro Desábato, Pivote, 35, Argentina, CA All Boys
+Julián Ceballos, Mediocentro, 20, Argentina, CA All Boys
+Alexis Melo, Mediocentro, 23, Argentina, CA All Boys
+Juan Pablo Passaglia, Mediocentro, 36, Argentina, CA All Boys
+Ignacio Figueroa, Mediocentro, 24, Argentina, CA All Boys
+Santiago Cáceres, Mediocentro, 20, Argentina, CA All Boys
+Braian Miranda, Mediocentro ofensivo, 32, Argentina, CA All Boys
+Ignacio Palacio, Extremo izquierdo, 25, Argentina, CA All Boys
+Ezequiel Ramírez, Extremo izquierdo, 26, Argentina, CA All Boys
+Tomás Assennato, Extremo derecho, 26, Argentina, CA All Boys
+Tiago Pucciarelli, Extremo derecho, 19, Argentina, CA All Boys
+Thiago Calone, Mediapunta, 23, Argentina, CA All Boys
+Octavio Bianchi, Delantero centro, 29, Argentina, CA All Boys
+Agustín Gallo, Delantero centro, 26, Argentina, CA All Boys
+Claudio Campostrini, Delantero centro, 25, Argentina, CA All Boys
+Lucas Ruiz, Portero, 22, Argentina, Club Ferro Carril Oeste
+Fernando Monetti, Portero, 36, Argentina, Club Ferro Carril Oeste
+Rafael Ferrario, Portero, 25, Argentina, Club Ferro Carril Oeste
+Patricio Boolsen, Defensa central, 27, Argentina, Club Ferro Carril Oeste
+Franco Meritello, Defensa central, 29, Argentina, Club Ferro Carril Oeste
+Facundo Rivero, Defensa central, 31, Argentina, Club Ferro Carril Oeste
+Alan Lorenzo, Defensa central, 26, Argentina, Club Ferro Carril Oeste
+Rodrigo Ayala, Lateral izquierdo, 30, Argentina, Club Ferro Carril Oeste
+Martín Vallejos, Lateral derecho, 24, Argentina, Club Ferro Carril Oeste
+Nazareno Kihm, Lateral derecho, 19, Argentina, Club Ferro Carril Oeste
+Gabriel Ramírez, Pivote, 29, Argentina, Club Ferro Carril Oeste
+Juan Fernándes Pinto, Pivote, 19, Argentina, Club Ferro Carril Oeste
+Julián Cosi, Mediocentro, 26, Argentina, Club Ferro Carril Oeste
+Gerónimo Tomasetti, Mediocentro, 25, Argentina, Club Ferro Carril Oeste
+Gonzalo Castellani, Mediocentro, 37, Argentina, Club Ferro Carril Oeste
+Santiago García, Interior derecho, 22, Argentina, Club Ferro Carril Oeste
+Sergio Quiroga, Mediocentro ofensivo, 30, Argentina, Club Ferro Carril Oeste
+Martín Campos, Mediocentro ofensivo, 23, Argentina, Club Ferro Carril Oeste
+Pablo Palacio, Extremo izquierdo, 25, Argentina, Club Ferro Carril Oeste
+Agustín Alonso, Extremo izquierdo, 24, Argentina, Club Ferro Carril Oeste
+Tomás González, Delantero centro, 22, Argentina, Club Ferro Carril Oeste
+Lázaro Romero, Delantero centro, 29, Argentina, Club Ferro Carril Oeste
+Franco García, Delantero centro, 26, Uruguay, Club Ferro Carril Oeste
+Mateo Benegas, Delantero centro, 19, Argentina, Club Ferro Carril Oeste
+Daniel Sappa, Portero, 30, Argentina, CA San Miguel
+Juan Manuel Lungarzo, Portero, 32, Argentina, CA San Miguel
+Santiago Albornós, Defensa, 21, Argentina, CA San Miguel
+Ariel Kippes, Defensa central, 31, Argentina, CA San Miguel
+Álvaro Cazula, Defensa central, 28, Argentina, CA San Miguel
+Facundo Cardozo, Defensa central, 30, Argentina, CA San Miguel
+Ezequiel Parnisari, Defensa central, 34, Argentina, CA San Miguel
+Dixon Rentería, Defensa central, 29, Colombia, CA San Miguel
+Iván Grance, Lateral izquierdo, 25, Argentina, CA San Miguel
+Nicolás Ihitz, Lateral izquierdo, 29, Argentina, CA San Miguel
+Gino Peruzzi, Lateral derecho, 32, Argentina, CA San Miguel
+Iván Antunes, Lateral derecho, 27, Argentina, CA San Miguel
+Cristian Erbes, Pivote, 35, Argentina, CA San Miguel
+Gustavo Turraca, Pivote, 29, Argentina, CA San Miguel
+Federico Sena, Pivote, 27, Argentina, CA San Miguel
+Claudio Mosca, Mediocentro, 34, Argentina, CA San Miguel
+Matías Rojas, Mediocentro, 34, Argentina, CA San Miguel
+Jorge Juárez, Interior derecho, 29, Argentina, CA San Miguel
+Diego Sosa, Interior derecho, 33, Argentina, CA San Miguel
+Jorge Ferrero, Interior derecho, 33, Argentina, CA San Miguel
+Brahian Alemán, Mediocentro ofensivo, 35, Uruguay, CA San Miguel
+Ángel Almada, Extremo izquierdo, 24, Argentina, CA San Miguel
+Claudio Salto, Extremo derecho, 30, Argentina, CA San Miguel
+Emanuel Dening, Extremo derecho, 36, Argentina, CA San Miguel
+Agustín Lavezzi, Delantero centro, 29, Argentina, CA San Miguel
+Lautaro Parisi, Delantero centro, 31, Argentina, CA San Miguel
+Bruno Nasta, Delantero centro, 32, Argentina, CA San Miguel
+Fabricio Henricot, Portero, 35, Argentina, CA Alvarado
+Julián Lobelos, Portero, 25, Argentina, CA Alvarado
+Emmanuel Gómez Riga, Portero, 23, Argentina, CA Alvarado
+Agustin Zapata, Portero, 22, Argentina, CA Alvarado
+Brian Blasi, Defensa central, 29, Argentina, CA Alvarado
+Leonardo Incorvaia, Defensa central, 32, Argentina, CA Alvarado
+Tomás Fernández, Defensa central, 26, Argentina, CA Alvarado
+Jeremías James, Defensa central, 24, Argentina, CA Alvarado
+Kevin Silva, Defensa central, 22, Argentina, CA Alvarado
+Lucas Monzón, Lateral izquierdo, 22, Argentina, CA Alvarado
+Agustín Aleo, Lateral izquierdo, 27, Argentina, CA Alvarado
+Cristian Gorgerino, Lateral izquierdo, 28, Argentina, CA Alvarado
+Valentino Werro, Lateral derecho, 23, Argentina, CA Alvarado
+Cristian Broggi, Lateral derecho, 32, Argentina, CA Alvarado
+Mateo Ortale, Lateral derecho, 23, Argentina, CA Alvarado
+Tiago Simoni, Lateral derecho, 21, Argentina, CA Alvarado
+Agustín Bolívar, Pivote, 29, Argentina, CA Alvarado
+Matías Mansilla, Pivote, 29, Argentina, CA Alvarado
+Nery Leyes, Pivote, 35, Argentina, CA Alvarado
+Nahuel Pereyra, Pivote, 33, Argentina, CA Alvarado
+Juan Pablo Gobetto, Mediocentro, 29, Argentina, CA Alvarado
+Franco Vega, Mediocentro, 23, Argentina, CA Alvarado
+Julián Ascacíbar, Mediocentro, 23, Argentina, CA Alvarado
+Christian Martínez, Mediocentro, 34, Paraguay, CA Alvarado
+Héctor Lezcano, Interior derecho, 27, Paraguay, CA Alvarado
+Diego Becker, Interior izquierdo, 27, Argentina, CA Alvarado
+Marco Borgnino, Mediocentro ofensivo, 27, Argentina, CA Alvarado
+Enzo Martínez, Extremo izquierdo, 28, Argentina, CA Alvarado
+Matías Bergara, Extremo derecho, 21, Argentina, CA Alvarado
+Facundo Russo, Extremo derecho, 24, Argentina, CA Alvarado
+Ariel Castellano, Extremo derecho, 28, Argentina, CA Alvarado
+Marco Miori, Mediapunta, 22, Argentina, CA Alvarado
+Tomás Bolzicco, Delantero centro, 30, Argentina, CA Alvarado
+Thomas Amilivia, Delantero centro, 26, Argentina, CA Alvarado
+Derlis Ortíz, Delantero centro, 30, Paraguay, CA Alvarado
+Joaquín Susvielles, Delantero centro, 34, Argentina, CA Alvarado
+Ignacio Pietrobono, Portero, 33, Argentina, Club Deportivo Maipú
+Nahuel Galardi, Portero, 23, Argentina, Club Deportivo Maipú
+Arón Agüero, Defensa central, 22, Argentina, Club Deportivo Maipú
+Lucas Faggioli, Defensa central, 28, Argentina, Club Deportivo Maipú
+Luciano Arnijas, Defensa central, 22, Argentina, Club Deportivo Maipú
+Nahuel Bernabé, Lateral izquierdo, 21, Argentina, Club Deportivo Maipú
+Luciano Paredes, Lateral derecho, 22, Argentina, Club Deportivo Maipú
+Matías Villarreal, Pivote, 33, Argentina, Club Deportivo Maipú
+Gastón Mansilla, Mediocentro, 27, Argentina, Club Deportivo Maipú
+Juan Cruz Arno, Mediocentro, 21, Argentina, Club Deportivo Maipú
+Nicolás Del Priore, Mediocentro, 28, Argentina, Club Deportivo Maipú
+Diego Ramírez, Mediocentro, 32, Argentina, Club Deportivo Maipú
+Santiago Paulini, Mediocentro, 23, Argentina, Club Deportivo Maipú
+Mirko Bonfigli, Mediocentro, 21, Argentina, Club Deportivo Maipú
+Lucas Vallejo, Interior derecho, 24, Argentina, Club Deportivo Maipú
+Emiliano Ozuna, Interior izquierdo, 29, Argentina, Club Deportivo Maipú
+Marcelo Eggel, Mediocentro ofensivo, 26, Argentina, Club Deportivo Maipú
+Tomás Silva, Mediocentro ofensivo, 24, Argentina, Club Deportivo Maipú
+Matías Viguet, Extremo izquierdo, 26, Argentina, Club Deportivo Maipú
+Franco Saccone, Extremo derecho, 23, Argentina, Club Deportivo Maipú
+Agustín Gaitán, Mediapunta, 20, Argentina, Club Deportivo Maipú
+Pio Bonacci, Delantero centro, 26, Argentina, Club Deportivo Maipú
+Iván Sandoval, Delantero centro, 29, Argentina, Club Deportivo Maipú
+Maximiliano Solari, Delantero centro, 23, Argentina, Club Deportivo Maipú
+Lucas Palma, Delantero centro, 22, Argentina, Club Deportivo Maipú
+Alejandro Sánchez, Portero, 38, Argentina, CA Defensores Unidos (Zarate)
+Mauricio Aquino, Portero, 31, Argentina, CA Defensores Unidos (Zarate)
+Facundo Laumann, Defensa central, 35, Argentina, CA Defensores Unidos (Zarate)
+Agustín Osinaga, Defensa central, 26, Argentina, CA Defensores Unidos (Zarate)
+Jorge Scolari, Defensa central, 35, Argentina, CA Defensores Unidos (Zarate)
+Facundo Rassol, Defensa central, 30, Argentina, CA Defensores Unidos (Zarate)
+Mariano Mauri, Lateral izquierdo, 30, Argentina, CA Defensores Unidos (Zarate)
+Matías Rapetti, Lateral izquierdo, 26, Argentina, CA Defensores Unidos (Zarate)
+Juan Argüello, Lateral derecho, 25, Argentina, CA Defensores Unidos (Zarate)
+Tomás Ferreyra, Lateral derecho, 21, Argentina, CA Defensores Unidos (Zarate)
+Nahuel Basualdo, Lateral derecho, 34, Argentina, CA Defensores Unidos (Zarate)
+Fernando Arébalo, Lateral derecho, 36, Uruguay, CA Defensores Unidos (Zarate)
+Mauro Alarcón, Lateral derecho, 23, Argentina, CA Defensores Unidos (Zarate)
+Rodrigo Vélez, Pivote, 34, Argentina, CA Defensores Unidos (Zarate)
+Martin Caballo, Pivote, 25, Argentina, CA Defensores Unidos (Zarate)
+Máximo Ferulano, Centrocampista, 20, Argentina, CA Defensores Unidos (Zarate)
+Thomas Carosio, Centrocampista, 21, Argentina, CA Defensores Unidos (Zarate)
+Sebastián Sánchez, Mediocentro, 23, Argentina, CA Defensores Unidos (Zarate)
+Jonathan Suárez, Mediocentro, 28, Estados Unidos, CA Defensores Unidos (Zarate)
+Daniel Carrasco, Mediocentro, 32, Argentina, CA Defensores Unidos (Zarate)
+Enzo Trinidad, Interior izquierdo, 28, Argentina, CA Defensores Unidos (Zarate)
+Santiago Patroni, Interior izquierdo, 23, Argentina, CA Defensores Unidos (Zarate)
+Francisco Di Franco, Mediocentro ofensivo, 30, Argentina, CA Defensores Unidos (Zarate)
+Bautista Carboni, Mediocentro ofensivo, 18, Argentina, CA Defensores Unidos (Zarate)
+Camilo Heredia, Mediocentro ofensivo, 23, Argentina, CA Defensores Unidos (Zarate)
+Rodrigo Juárez, Extremo izquierdo, 23, Argentina, CA Defensores Unidos (Zarate)
+Juan Rocca, Extremo derecho, 23, Argentina, CA Defensores Unidos (Zarate)
+Lucas Ricciotti, Extremo derecho, 22, Argentina, CA Defensores Unidos (Zarate)
+Diego Aguirre, Delantero centro, 32, Argentina, CA Defensores Unidos (Zarate)
+Martín Giménez, Delantero centro, 33, Argentina, CA Defensores Unidos (Zarate)
+Joaquín Tello, Delantero, 20, Argentina, CA Defensores Unidos (Zarate)
+Alejandro Toledo, Delantero centro, 35, Argentina, CA Defensores Unidos (Zarate)
+Lautaro Ceratto, Delantero centro, 33, Argentina, CA Defensores Unidos (Zarate)
+Nicolás Caprio, Portero, 35, Argentina, CA Chaco For Ever
+Gastón Canuto, Portero, 36, Argentina, CA Chaco For Ever
+Leandro Ledesma, Portero, 30, Argentina, CA Chaco For Ever
+Damián García, Defensa, 25, Argentina, CA Chaco For Ever
+Mathías Silvera, Defensa central, 26, Uruguay, CA Chaco For Ever
+Maximiliano Romero, Defensa central, 30, Argentina, CA Chaco For Ever
+Gino Barbieri, Defensa central, 26, Argentina, CA Chaco For Ever
+Jonatan Fleita, Defensa central, 30, Argentina, CA Chaco For Ever
+Ramiro Fernández, Lateral izquierdo, 29, Argentina, CA Chaco For Ever
+Mauricio Rosales, Lateral derecho, 33, Argentina, CA Chaco For Ever
+Alan Luque, Lateral derecho, 26, Argentina, CA Chaco For Ever
+David Valdez, Lateral derecho, 32, Argentina, CA Chaco For Ever
+Santiago Úbeda, Pivote, 29, Argentina, CA Chaco For Ever
+Juan Carrizo, Pivote, 24, Argentina, CA Chaco For Ever
+Santiago Valenzuela, Pivote, 23, Argentina, CA Chaco For Ever
+Robertino Seratto, Mediocentro, 25, Argentina, CA Chaco For Ever
+Marcos Giménez, Mediocentro, 27, Argentina, CA Chaco For Ever
+Joaquín Jara, Mediocentro, 22, Argentina, CA Chaco For Ever
+Braulio Zanello, Mediocentro, 23, Argentina, CA Chaco For Ever
+Javier Iritier, Interior derecho, 30, Argentina, CA Chaco For Ever
+Brian Guerra, Interior derecho, 29, Argentina, CA Chaco For Ever
+Gonzalo Cañete, Interior derecho, 30, Argentina, CA Chaco For Ever
+Franco Perinciolo, Interior izquierdo, 28, Argentina, CA Chaco For Ever
+Brandon Obregón, Mediocentro ofensivo, 29, Argentina, CA Chaco For Ever
+Leonardo Marinucci, Extremo derecho, 32, Argentina, CA Chaco For Ever
+Joaquin Mateo, Mediapunta, 27, Argentina, CA Chaco For Ever
+Matías Romero, Delantero centro, 30, Argentina, CA Chaco For Ever
+Imanol Enríquez, Delantero centro, 25, Argentina, CA Chaco For Ever
+Lucas Rebecchi, Delantero centro, 24, Argentina, CA Chaco For Ever
+Mateo Díaz Chaves, Delantero centro, 21, Argentina, CA Chaco For Ever
+Agustín Zabaleta, Delantero centro, 23, Argentina, CA Chaco For Ever
+Darío Sand, Portero, 37, Argentina, CA San Martín (Tucumán)
+Nicolás Carrizo, Portero, 33, Argentina, CA San Martín (Tucumán)
+Juan Jaime, Portero, 27, Argentina, CA San Martín (Tucumán)
+Hernán Zuliani, Defensa central, 21, Argentina, CA San Martín (Tucumán)
+Guillermo Rodríguez, Defensa central, 22, Argentina, CA San Martín (Tucumán)
+Mauro Osores, Defensa central, 28, Argentina, CA San Martín (Tucumán)
+Juan Orellana, Defensa central, 28, Argentina, CA San Martín (Tucumán)
+Tiago Peñalba, Defensa central, 21, Argentina, CA San Martín (Tucumán)
+Mateo Pérez, Defensa central, 23, Argentina, CA San Martín (Tucumán)
+Claudio Araujo, Defensa central, 24, Paraguay, CA San Martín (Tucumán)
+Franco Quiroz, Lateral izquierdo, 27, Argentina, CA San Martín (Tucumán)
+Federico Murillo, Lateral derecho, 28, Argentina, CA San Martín (Tucumán)
+Axel Bordón, Lateral derecho, 29, Argentina, CA San Martín (Tucumán)
+Gustavo Abregú, Pivote, 27, Argentina, CA San Martín (Tucumán)
+Matías García, Pivote, 29, Argentina, CA San Martín (Tucumán)
+Agustín Prokop, Pivote, 23, Argentina, CA San Martín (Tucumán)
+Agustín Graneros, Centrocampista, 23, Argentina, CA San Martín (Tucumán)
+Ulises Vera, Mediocentro, 21, Argentina, CA San Martín (Tucumán)
+Jesús Soraire, Mediocentro, 36, Argentina, CA San Martín (Tucumán)
+Pablo Hernández, Mediocentro, 38, Chile, CA San Martín (Tucumán)
+Leonardo Monje, Interior derecho, 23, Argentina, CA San Martín (Tucumán)
+Gabriel Hachen, Mediocentro ofensivo, 34, Argentina, CA San Martín (Tucumán)
+Juan Cuevas, Mediocentro ofensivo, 36, Argentina, CA San Martín (Tucumán)
+Juan Cruz Esquivel, Extremo izquierdo, 24, Argentina, CA San Martín (Tucumán)
+Franco García, Extremo derecho, 27, Argentina, CA San Martín (Tucumán)
+Nahuel Cainelli, Extremo derecho, 30, Argentina, CA San Martín (Tucumán)
+Gonzalo Rodríguez, Extremo derecho, 34, Argentina, CA San Martín (Tucumán)
+Martín Pino, Delantero centro, 27, Argentina, CA San Martín (Tucumán)
+Nicolás Moreno, Delantero centro, 24, Argentina, CA San Martín (Tucumán)
+Mauro Verón, Delantero centro, 26, Argentina, CA San Martín (Tucumán)
+Lautaro Taboada, Delantero centro, 21, Argentina, CA San Martín (Tucumán)
+Leandro Finochietto, Portero, 28, Argentina, Club Deportivo Morón
+Julio Salvá, Portero, 38, Argentina, Club Deportivo Morón
+Juan Manuel Cabrera, Defensa, 25, Argentina, Club Deportivo Morón
+Franco Lorenzon, Defensa central, 24, Argentina, Club Deportivo Morón
+Matías Cortave, Defensa central, 32, Argentina, Club Deportivo Morón
+Emilio Lazza, Defensa central, 30, Argentina, Club Deportivo Morón
+Iván Vaquero, Lateral izquierdo, 22, Argentina, Club Deportivo Morón
+Mariano Bíttolo, Lateral izquierdo, 35, Argentina, Club Deportivo Morón
+Joaquín Livera, Lateral izquierdo, 25, Argentina, Club Deportivo Morón
+Gerónimo Ulibarri, Lateral derecho, 23, Argentina, Club Deportivo Morón
+Pablo Ferreira, Mediocentro, 20, Argentina, Club Deportivo Morón
+Matías Ballini, Mediocentro, 36, Argentina, Club Deportivo Morón
+Gastón González, Mediocentro, 37, Argentina, Club Deportivo Morón
+Mauro Burruchaga, Mediocentro, 26, Argentina, Club Deportivo Morón
+Juan Manuel Olivares, Interior derecho, 36, Argentina, Club Deportivo Morón
+Santiago Kubiszyn, Mediocentro ofensivo, 22, Argentina, Club Deportivo Morón
+Yair González, Mediocentro ofensivo, 23, Argentina, Club Deportivo Morón
+Emiliano Franco, Mediocentro ofensivo, 30, Argentina, Club Deportivo Morón
+Jonathan Berón, Extremo derecho, 22, Argentina, Club Deportivo Morón
+Fabricio Sanguinetti, Extremo derecho, 24, Uruguay, Club Deportivo Morón
+Lautaro Disanto, Mediapunta, 26, Argentina, Club Deportivo Morón
+Ivo Costantino, Delantero centro, 26, Argentina, Club Deportivo Morón
+Renzo Reynaga, Delantero centro, 25, Argentina, Club Deportivo Morón
+Santiago Sala, Delantero centro, 23, Argentina, Club Deportivo Morón
+Facundo Báez, Delantero centro, 21, Argentina, Club Deportivo Morón
+Esteban Glellel, Portero, 26, Siria, Quilmes AC
+Francisco Flores, Defensa central, 23, Argentina, Quilmes AC
+Maximiliano Padilla, Defensa central, 30, Argentina, Quilmes AC
+Gabriel Aranda, Defensa central, 24, Argentina, Quilmes AC
+Leandro Allende, Lateral izquierdo, 28, Argentina, Quilmes AC
+Agustín Bindella, Lateral izquierdo, 24, Argentina, Quilmes AC
+Julián Gurzi, Lateral izquierdo, 20, Argentina, Quilmes AC
+Leonel Vangioni, Lateral izquierdo, 38, Argentina, Quilmes AC
+Federico Pérez, Lateral derecho, 21, Argentina, Quilmes AC
+Fernando Torrent, Lateral derecho, 33, Argentina, Quilmes AC
+Joaquín Postigo, Pivote, 21, Argentina, Quilmes AC
+Marcos Enrique, Mediocentro, 25, Argentina, Quilmes AC
+Iván Ramírez, Mediocentro, 35, Argentina, Quilmes AC
+Enzo Kalinski, Mediocentro, 38, Argentina, Quilmes AC
+Marcos Roseti, Interior derecho, 27, Argentina, Quilmes AC
+Ramiro Martínez, Interior derecho, 21, Argentina, Quilmes AC
+Mariano Miño, Mediocentro ofensivo, 31, Argentina, Quilmes AC
+Camilo Machado, Extremo derecho, 26, Colombia, Quilmes AC
+Juan Ignacio Capano, Extremo derecho, 21, Argentina, Quilmes AC
+Oscar Belinetz, Delantero centro, 31, Argentina, Quilmes AC
+Emanuel Herrera, Delantero centro, 38, Argentina, Quilmes AC
+Edwin Schulz, Delantero centro, 21, Argentina, Quilmes AC
+Ezequiel Mastrolía, Portero, 34, Argentina, CA Temperley
+Julián García, Portero, 24, Argentina, CA Temperley
+Valentín Díaz, Portero, 20, Argentina, CA Temperley
+Agustín Lamosa, Defensa central, 23, Argentina, CA Temperley
+Bruno Duarte, Defensa central, 29, Argentina, CA Temperley
+Valentín Aguiñagalde, Defensa central, 20, Argentina, CA Temperley
+Diego Magallanes, Defensa central, 28, Argentina, CA Temperley
+Pablo Casarico, Defensa central, 24, Argentina, CA Temperley
+Nahuel Genez, Lateral izquierdo, 21, Argentina, CA Temperley
+Federico Milo, Lateral izquierdo, 33, Argentina, CA Temperley
+Rodrigo Mazur, Lateral izquierdo, 33, Argentina, CA Temperley
+Franco Juárez, Lateral izquierdo, 21, Argentina, CA Temperley
+Adrián Arregui, Pivote, 32, Argentina, CA Temperley
+Agustín Toledo, Pivote, 25, Argentina, CA Temperley
+Juan Frías, Pivote, 24, Argentina, CA Temperley
+Lorenzo Monti, Mediocentro, 27, Argentina, CA Temperley
+Lucas Richarte, Mediocentro, 20, Argentina, CA Temperley
+Claudio Pombo, Interior izquierdo, 31, Argentina, CA Temperley
+Luciano Nieto, Mediocentro ofensivo, 34, Argentina, CA Temperley
+Leandro Lucero, Mediocentro ofensivo, 22, Argentina, CA Temperley
+Gabriel Esparza, Extremo izquierdo, 32, Argentina, CA Temperley
+Fernando Brandán, Extremo derecho, 35, Argentina, CA Temperley
+Julián Carrasco, Extremo derecho, 23, Argentina, CA Temperley
+Mateo Romero, Extremo derecho, 22, Argentina, CA Temperley
+Franco Ayunta, Delantero centro, 22, Argentina, CA Temperley
+Gabriel Hauche, Delantero centro, 38, Argentina, CA Temperley
+Luis López, Delantero centro, 37, Argentina, CA Temperley
+Javier Toledo, Delantero centro, 39, Argentina, CA Temperley
+Lautaro Torres, Delantero centro, 21, Argentina, CA Temperley
+Damián Tello, Portero, 29, Argentina, CA Talleres (Remedios de Escalada)
+Mauro Casoli, Portero, 25, Argentina, CA Talleres (Remedios de Escalada)
+Agustín Galván, Portero, 22, Argentina, CA Talleres (Remedios de Escalada)
+Rodrigo Diaz, Defensa central, 28, Argentina, CA Talleres (Remedios de Escalada)
+Luciano Sánchez, Defensa central, 30, Argentina, CA Talleres (Remedios de Escalada)
+Enzo Tamborelli, Defensa central, 27, Argentina, CA Talleres (Remedios de Escalada)
+David Achucarro, Defensa central, 34, Argentina, CA Talleres (Remedios de Escalada)
+Patricio Romero, Lateral izquierdo, 32, Argentina, CA Talleres (Remedios de Escalada)
+Federico López, Lateral izquierdo, 27, Argentina, CA Talleres (Remedios de Escalada)
+Juan Ignacio Rodríguez, Lateral izquierdo, 23, Argentina, CA Talleres (Remedios de Escalada)
+Maximiliano Rodríguez, Lateral derecho, 37, Argentina, CA Talleres (Remedios de Escalada)
+Sergio Modón, Lateral derecho, 32, Argentina, CA Talleres (Remedios de Escalada)
+Facundo Infante, Lateral derecho, 19, Argentina, CA Talleres (Remedios de Escalada)
+Norberto Palmieri, Pivote, 29, Argentina, CA Talleres (Remedios de Escalada)
+Gabriel Altamirano, Pivote, 23, Argentina, CA Talleres (Remedios de Escalada)
+Jeremías Denis, Pivote, 24, Argentina, CA Talleres (Remedios de Escalada)
+Nelson Acevedo, Pivote, 36, Argentina, CA Talleres (Remedios de Escalada)
+Luciano Zannier, Mediocentro, 25, Argentina, CA Talleres (Remedios de Escalada)
+Sebastián Gallardo, Mediocentro, 25, Argentina, CA Talleres (Remedios de Escalada)
+Isaías Ciavarelli, Mediocentro, 22, Argentina, CA Talleres (Remedios de Escalada)
+Mariano Del Col, Interior derecho, 32, Argentina, CA Talleres (Remedios de Escalada)
+Gabriel Rocha, Mediocentro ofensivo, 21, Brasil, CA Talleres (Remedios de Escalada)
+Franco Vedoya, Extremo derecho, 24, Argentina, CA Talleres (Remedios de Escalada)
+Cristian Muñoz, Mediapunta, 21, Argentina, CA Talleres (Remedios de Escalada)
+Franco Pulicastro, Delantero centro, 25, Argentina, CA Talleres (Remedios de Escalada)
+Camilo Viganoni, Delantero centro, 21, Argentina, CA Talleres (Remedios de Escalada)
+Martín Batallini, Delantero centro, 33, Argentina, CA Talleres (Remedios de Escalada)
+Ricardo Dichiara, Delantero centro, 28, Argentina, CA Talleres (Remedios de Escalada)
+Diego Nakache, Delantero centro, 29, Argentina, CA Talleres (Remedios de Escalada)
+Matías Domínguez, Delantero centro, 33, Argentina, CA Talleres (Remedios de Escalada)
+Ramiro Martínez, Portero, 34, Argentina, Club Almirante Brown
+Bruno Galván, Portero, 31, Argentina, Club Almirante Brown
+Máximo Levi, Defensa central, 29, Argentina, Club Almirante Brown
+Leandro Vega, Defensa central, 28, Argentina, Club Almirante Brown
+David Ledesma, Defensa central, 26, Argentina, Club Almirante Brown
+Patricio Pizarro, Defensa central, 24, Argentina, Club Almirante Brown
+Nahuel Iribarren, Defensa central, 37, Argentina, Club Almirante Brown
+Emilio Mac Eachen, Defensa central, 33, Uruguay, Club Almirante Brown
+Cristian Varela, Defensa central, 34, Argentina, Club Almirante Brown
+Tomás Villoldo, Lateral izquierdo, 30, Argentina, Club Almirante Brown
+Mariano Arango, Lateral izquierdo, 27, Argentina, Club Almirante Brown
+Enzo Cardozo, Lateral derecho, 19, Argentina, Club Almirante Brown
+Ulises Abreliano, Lateral derecho, 27, Argentina, Club Almirante Brown
+Natan Acosta, Lateral derecho, 22, Argentina, Club Almirante Brown
+Matías Pérez Acuña, Lateral derecho, 31, Argentina, Club Almirante Brown
+Santiago Gauna, Pivote, 22, Argentina, Club Almirante Brown
+William Machado, Pivote, 30, Uruguay, Club Almirante Brown
+Juan Manuel Vázquez, Mediocentro, 30, Argentina, Club Almirante Brown
+Joaquín Velázquez, Mediocentro, 23, Argentina, Club Almirante Brown
+Bruno Cenci, Mediocentro, 21, Argentina, Club Almirante Brown
+Jonatan Goya, Mediocentro, 36, Argentina, Club Almirante Brown
+Ulises Macías, Mediocentro, 24, Argentina, Club Almirante Brown
+José Escurra, Interior derecho, 24, Argentina, Club Almirante Brown
+Leandro Iglesias, Mediocentro ofensivo, 24, Argentina, Club Almirante Brown
+Diego García, Mediocentro ofensivo, 38, Argentina, Club Almirante Brown
+Matías Belloso, Extremo izquierdo, 25, Argentina, Club Almirante Brown
+Tomás Almada, Extremo izquierdo, 23, Argentina, Club Almirante Brown
+Joaquín Ibáñez, Extremo izquierdo, 28, Argentina, Club Almirante Brown
+Jonathan Zacaría, Extremo izquierdo, 35, Argentina, Club Almirante Brown
+Santiago Vera, Mediapunta, 26, Argentina, Club Almirante Brown
+Santiago Villalba, Mediapunta, 21, Argentina, Club Almirante Brown
+Alexander Fernández, Mediapunta, 23, Argentina, Club Almirante Brown
+Gonzalo Flores, Delantero centro, 23, Argentina, Club Almirante Brown
+Ramón González, Delantero centro, 23, Argentina, Club Almirante Brown
+Nazareno Bazán, Delantero centro, 26, Argentina, Club Almirante Brown
+Samuel Portillo, Delantero centro, 31, Paraguay, Club Almirante Brown
+Diego Perea, Delantero centro, 22, Colombia, Club Almirante Brown
+Nicolás Avellaneda, Portero, 32, Argentina, CA Chacarita Juniors
+Juan Strumia, Portero, 25, Argentina, CA Chacarita Juniors
+Federico Andueza, Defensa central, 28, Uruguay, CA Chacarita Juniors
+Gonzalo Errecalde, Defensa central, 25, Argentina, CA Chacarita Juniors
+Tomás Oneto, Defensa central, 27, Argentina, CA Chacarita Juniors
+Agustín Quiroga, Defensa central, 23, Argentina, CA Chacarita Juniors
+Alejandro Rébola, Defensa central, 36, Argentina, CA Chacarita Juniors
+Federico Laurelli, Defensa central, 20, Argentina, CA Chacarita Juniors
+Tomás Migliore, Defensa central, 20, Argentina, CA Chacarita Juniors
+Juan González, Lateral derecho, 28, Argentina, CA Chacarita Juniors
+Luciano Perdomo, Pivote, 28, Argentina, CA Chacarita Juniors
+Maximiliano Meléndez, Mediocentro, 21, Argentina, CA Chacarita Juniors
+Federico Bravo, Mediocentro, 31, Argentina, CA Chacarita Juniors
+Tomás Ortiz, Mediocentro, 25, Argentina, CA Chacarita Juniors
+Antonio Napolitano, Mediocentro, 26, Argentina, CA Chacarita Juniors
+Tobías Fernández, Interior derecho, 24, Argentina, CA Chacarita Juniors
+Valentín Gargiulo, Interior izquierdo, 24, Argentina, CA Chacarita Juniors
+Ricardo Blanco, Mediocentro ofensivo, 34, Argentina, CA Chacarita Juniors
+Maico Quiroz, Mediocentro ofensivo, 23, Argentina, CA Chacarita Juniors
+Valentín Chocobar, Mediocentro ofensivo, 20, Argentina, CA Chacarita Juniors
+Matías Rodríguez, Mediocentro ofensivo, 32, Argentina, CA Chacarita Juniors
+Nicolás Chaves, Extremo izquierdo, 23, Argentina, CA Chacarita Juniors
+Lucas Brochero, Extremo derecho, 26, Argentina, CA Chacarita Juniors
+Leandro Ciccolini, Extremo derecho, 30, Argentina, CA Chacarita Juniors
+Agustín Araujo, Extremo derecho, 25, Argentina, CA Chacarita Juniors
+Víctor Figueroa, Extremo derecho, 41, Argentina, CA Chacarita Juniors
+Hernán Rivero, Delantero centro, 32, Argentina, CA Chacarita Juniors
+Ramiro Costa, Delantero centro, 32, Argentina, CA Chacarita Juniors
+Santiago Apa, Delantero centro, 25, Argentina, CA Chacarita Juniors
+Rodrigo Salinas, Delantero centro, 38, Argentina, CA Chacarita Juniors

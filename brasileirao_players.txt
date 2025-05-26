@@ -1,0 +1,669 @@
+Marcos Felipe, Portero, 29, Brasil, Esporte Clube Bahia
+Ronaldo, Portero, 28, Brasil, Esporte Clube Bahia
+Danilo Fernandes, Portero, 37, Brasil, Esporte Clube Bahia
+Gabriel Souza, Portero, 20, Brasil, Esporte Clube Bahia
+Santiago Ramos Mingo, Defensa central, 23, Argentina, Esporte Clube Bahia
+Gabriel Xavier, Defensa central, 24, Brasil, Esporte Clube Bahia
+Kanu, Defensa central, 28, Brasil, Esporte Clube Bahia
+David Duarte, Defensa central, 30, Brasil, Esporte Clube Bahia
+Iago, Lateral izquierdo, 28, Brasil, Esporte Clube Bahia
+Luciano Juba, Lateral izquierdo, 25, Brasil, Esporte Clube Bahia
+Gilberto, Lateral derecho, 32, Brasil, Esporte Clube Bahia
+Santiago Arias, Lateral derecho, 33, Colombia, Esporte Clube Bahia
+André Dhominique, Lateral derecho, 21, Brasil, Esporte Clube Bahia
+Caio Alexandre, Pivote, 26, Brasil, Esporte Clube Bahia
+Erick, Pivote, 27, Brasil, Esporte Clube Bahia
+Nicolás Acevedo, Pivote, 26, Uruguay, Esporte Clube Bahia
+Rezende, Pivote, 30, Brasil, Esporte Clube Bahia
+Jean Lucas, Mediocentro, 26, Brasil, Esporte Clube Bahia
+Rodrigo Nestor, Mediocentro, 24, Brasil, Esporte Clube Bahia
+Léo Cittadini, Mediocentro, 31, Brasil, Esporte Clube Bahia
+Cauly, Mediocentro ofensivo, 29, Brasil, Esporte Clube Bahia
+Everton Ribeiro, Mediocentro ofensivo, 36, Brasil, Esporte Clube Bahia
+Erick Pulga, Extremo izquierdo, 24, Brasil, Esporte Clube Bahia
+Michel Araújo, Extremo izquierdo, 28, Uruguay, Esporte Clube Bahia
+Kayky, Extremo derecho, 21, Brasil, Esporte Clube Bahia
+Ademir, Extremo derecho, 30, Brasil, Esporte Clube Bahia
+Luciano Rodríguez, Delantero centro, 21, Uruguay, Esporte Clube Bahia
+Willian José, Delantero centro, 33, Brasil, Esporte Clube Bahia
+Tiago, Delantero, 20, Brasil, Esporte Clube Bahia
+Caíque França, Portero, 29, Brasil, Sport Club do Recife
+Thiago Couto, Portero, 26, Brasil, Sport Club do Recife
+Denis, Portero, 38, Brasil, Sport Club do Recife
+Lucas Cunha, Defensa central, 28, Brasil, Sport Club do Recife
+João Silva, Defensa central, 26, Portugal, Sport Club do Recife
+Antônio Carlos, Defensa central, 32, Brasil, Sport Club do Recife
+Chico, Defensa central, 26, Brasil, Sport Club do Recife
+Rafael Thyere, Defensa central, 32, Brasil, Sport Club do Recife
+Renzo, Defensa central, 23, Brasil, Sport Club do Recife
+Dalbert, Lateral izquierdo, 31, Brasil, Sport Club do Recife
+Igor Cariús, Lateral izquierdo, 32, Brasil, Sport Club do Recife
+Matheus Alexandre, Lateral derecho, 26, Brasil, Sport Club do Recife
+Leonel Di Plácido, Lateral derecho, 31, Argentina, Sport Club do Recife
+Hereda, Lateral derecho, 26, Brasil, Sport Club do Recife
+Christian Rivera, Pivote, 29, Colombia, Sport Club do Recife
+Zé Lucas, Pivote, 17, Brasil, Sport Club do Recife
+Sérgio Oliveira, Mediocentro, 32, Portugal, Sport Club do Recife
+Du Queiroz, Mediocentro, 25, Brasil, Sport Club do Recife
+Fabricio Domínguez, Mediocentro, 26, Uruguay, Sport Club do Recife
+Hyoran, Mediocentro ofensivo, 32, Brasil, Sport Club do Recife
+Christian Ortíz, Mediocentro ofensivo, 32, Argentina, Sport Club do Recife
+Lucas Lima, Mediocentro ofensivo, 34, Brasil, Sport Club do Recife
+Lenny Lobato, Extremo izquierdo, 24, Brasil, Sport Club do Recife
+Gustavo Maia, Extremo izquierdo, 24, Brasil, Sport Club do Recife
+Rodrigo Atencio, Extremo derecho, 22, Argentina, Sport Club do Recife
+Chrystian Barletta, Extremo derecho, 23, Brasil, Sport Club do Recife
+Carlos Alberto, Extremo derecho, 23, Brasil, Sport Club do Recife
+Romarinho, Extremo derecho, 31, Brasil, Sport Club do Recife
+Gonçalo Paciência, Delantero centro, 30, Portugal, Sport Club do Recife
+Zé Roberto, Delantero centro, 31, Brasil, Sport Club do Recife
+Arthur Sousa, Delantero centro, 22, Brasil, Sport Club do Recife
+Pablo, Delantero centro, 32, Brasil, Sport Club do Recife
+Dieguinho, Delantero centro, 20, Brasil, Sport Club do Recife
+Léo Jardim, Portero, 30, Brasil, Clube de Regatas Vasco da Gama
+Daniel Fuzato, Portero, 27, Brasil, Clube de Regatas Vasco da Gama
+Pablo, Portero, 22, Brasil, Clube de Regatas Vasco da Gama
+João Victor, Defensa central, 26, Brasil, Clube de Regatas Vasco da Gama
+Mauricio Lemos, Defensa central, 29, Uruguay, Clube de Regatas Vasco da Gama
+Lucas Oliveira, Defensa central, 29, Brasil, Clube de Regatas Vasco da Gama
+Manuel Capasso, Defensa central, 29, Argentina, Clube de Regatas Vasco da Gama
+Lucas Freitas, Defensa central, 24, Brasil, Clube de Regatas Vasco da Gama
+Souza, Defensa central, 36, Brasil, Clube de Regatas Vasco da Gama
+Lucas Piton, Lateral izquierdo, 24, Italia, Clube de Regatas Vasco da Gama
+Riquelme, Lateral izquierdo, 22, Brasil, Clube de Regatas Vasco da Gama
+Victor Luís, Lateral izquierdo, 31, Brasil, Clube de Regatas Vasco da Gama
+José Luis Rodríguez, Lateral derecho, 28, Uruguay, Clube de Regatas Vasco da Gama
+Paulo Henrique, Lateral derecho, 28, Brasil, Clube de Regatas Vasco da Gama
+Juan Sforza, Pivote, 23, Argentina, Clube de Regatas Vasco da Gama
+Jair, Pivote, 30, Brasil, Clube de Regatas Vasco da Gama
+Hugo Moura, Pivote, 27, Brasil, Clube de Regatas Vasco da Gama
+Mateus Carvalho, Pivote, 23, Brasil, Clube de Regatas Vasco da Gama
+Tchê Tchê, Mediocentro, 32, Brasil, Clube de Regatas Vasco da Gama
+Paulinho Paula, Mediocentro, 28, Brasil, Clube de Regatas Vasco da Gama
+Philippe Coutinho, Mediocentro ofensivo, 32, Brasil, Clube de Regatas Vasco da Gama
+Dimitri Payet, Mediocentro ofensivo, 38, Francia, Clube de Regatas Vasco da Gama
+Guilherme Estrella, Mediocentro ofensivo, 20, Brasil, Clube de Regatas Vasco da Gama
+Nuno Moreira, Extremo izquierdo, 25, Portugal, Clube de Regatas Vasco da Gama
+Jean Meneses, Extremo izquierdo, 32, Chile, Clube de Regatas Vasco da Gama
+David, Extremo izquierdo, 29, Brasil, Clube de Regatas Vasco da Gama
+Benjamín Garré, Extremo derecho, 24, Argentina, Clube de Regatas Vasco da Gama
+Adson, Extremo derecho, 24, Brasil, Clube de Regatas Vasco da Gama
+Loide Augusto, Extremo derecho, 25, Angola, Clube de Regatas Vasco da Gama
+Alex Teixeira, Mediapunta, 35, Brasil, Clube de Regatas Vasco da Gama
+Rayan, Delantero centro, 18, Brasil, Clube de Regatas Vasco da Gama
+Pablo Vegetti, Delantero centro, 36, Argentina, Clube de Regatas Vasco da Gama
+Gabriel Brazão, Portero, 24, Brasil, Santos FC
+João Paulo, Portero, 29, Brasil, Santos FC
+Diógenes, Portero, 24, Brasil, Santos FC
+Zé Ivaldo, Defensa central, 28, Brasil, Santos FC
+Basso, Defensa central, 28, Brasil, Santos FC
+Luan Peres, Defensa central, 30, Brasil, Santos FC
+Luisão, Defensa central, 21, Brasil, Santos FC
+Gil, Defensa central, 37, Brasil, Santos FC
+Souza, Lateral izquierdo, 18, Brasil, Santos FC
+Kevyson, Lateral izquierdo, 21, Brasil, Santos FC
+Vinicius Lira, Lateral izquierdo, 17, Brasil, Santos FC
+Gonzalo Escobar, Lateral izquierdo, 28, Argentina, Santos FC
+JP Chermont, Lateral derecho, 19, Brasil, Santos FC
+Leonardo Godoy, Lateral derecho, 30, Argentina, Santos FC
+Aderlan, Lateral derecho, 34, Brasil, Santos FC
+João Schmidt, Pivote, 32, Brasil, Santos FC
+Tomás Rincón, Pivote, 37, Venezuela, Santos FC
+Zé Rafael, Mediocentro, 31, Brasil, Santos FC
+Gabriel Bontempo, Mediocentro, 20, Brasil, Santos FC
+Diego Pituca, Mediocentro, 32, Brasil, Santos FC
+Hyan, Mediocentro, 21, Brasil, Santos FC
+Neymar, Mediocentro ofensivo, 33, Brasil, Santos FC
+Thaciano, Mediocentro ofensivo, 30, Brasil, Santos FC
+Yeferson Soteldo, Extremo izquierdo, 27, Venezuela, Santos FC
+Álvaro Barreal, Extremo izquierdo, 24, Argentina, Santos FC
+Guilherme, Extremo izquierdo, 30, Brasil, Santos FC
+Mateus Xavier, Extremo izquierdo, 17, Brasil, Santos FC
+Benjamín Rollheiser, Extremo derecho, 25, Argentina, Santos FC
+Gabriel Veron, Extremo derecho, 22, Brasil, Santos FC
+Deivid Washington, Delantero centro, 19, Brasil, Santos FC
+Tiquinho Soares, Delantero centro, 34, Brasil, Santos FC
+Luca Meirelles, Delantero centro, 18, Brasil, Santos FC
+Julio Furch, Delantero centro, 35, Argentina, Santos FC
+Cleiton, Portero, 27, Brasil, Red Bull Bragantino
+Lucão, Portero, 24, Brasil, Red Bull Bragantino
+Fabrício, Portero, 24, Brasil, Red Bull Bragantino
+Pedro Henrique, Defensa central, 29, Brasil, Red Bull Bragantino
+Guzmán Rodríguez, Defensa central, 25, Uruguay, Red Bull Bragantino
+Douglas Mendes, Defensa central, 20, Brasil, Red Bull Bragantino
+Eduardo, Defensa central, 27, Brasil, Red Bull Bragantino
+Juninho Capixaba, Lateral izquierdo, 27, Brasil, Red Bull Bragantino
+Guilherme Lopes, Lateral izquierdo, 23, Brasil, Red Bull Bragantino
+Agustín Sant'Anna, Lateral derecho, 27, Uruguay, Red Bull Bragantino
+José Andrés Hurtado, Lateral derecho, 23, Ecuador, Red Bull Bragantino
+Nathan Mendes, Lateral derecho, 22, Brasil, Red Bull Bragantino
+Fabinho, Pivote, 23, Brasil, Red Bull Bragantino
+Matheus Fernandes, Pivote, 26, Brasil, Red Bull Bragantino
+Gabriel, Pivote, 32, Brasil, Red Bull Bragantino
+Eric Ramires, Mediocentro, 24, Brasil, Red Bull Bragantino
+Praxedes, Mediocentro, 23, Brasil, Red Bull Bragantino
+Gustavo Neves, Mediocentro, 21, Brasil, Red Bull Bragantino
+João Neto, Mediocentro, 22, Brasil, Red Bull Bragantino
+Jhon Jhon, Mediocentro ofensivo, 22, Brasil, Red Bull Bragantino
+Vitinho, Mediocentro ofensivo, 27, Brasil, Red Bull Bragantino
+Vinicinho, Extremo izquierdo, 21, Brasil, Red Bull Bragantino
+Henry Mosquera, Extremo izquierdo, 23, Colombia, Red Bull Bragantino
+Lucas Barbosa, Extremo derecho, 24, Brasil, Red Bull Bragantino
+Ignacio Laquintana, Extremo derecho, 26, Uruguay, Red Bull Bragantino
+Kawê, Extremo derecho, 22, Brasil, Red Bull Bragantino
+Thiago Borbas, Delantero centro, 23, Uruguay, Red Bull Bragantino
+Isidro Pitta, Delantero centro, 25, Paraguay, Red Bull Bragantino
+Fernando, Delantero centro, 26, Brasil, Red Bull Bragantino
+Eduardo Sasha, Delantero centro, 33, Brasil, Red Bull Bragantino
+John Victor, Portero, 29, Brasil, Botafogo de Futebol e Regatas
+Léo Linck, Portero, 24, Brasil, Botafogo de Futebol e Regatas
+Raul, Portero, 27, Brasil, Botafogo de Futebol e Regatas
+Jair Cunha, Defensa central, 20, Brasil, Botafogo de Futebol e Regatas
+Alexander Barboza, Defensa central, 30, Argentina, Botafogo de Futebol e Regatas
+David Ricardo, Defensa central, 22, Brasil, Botafogo de Futebol e Regatas
+Bastos, Defensa central, 34, Angola, Botafogo de Futebol e Regatas
+Philipe Sampaio, Defensa central, 30, Brasil, Botafogo de Futebol e Regatas
+Alex Telles, Lateral izquierdo, 32, Brasil, Botafogo de Futebol e Regatas
+Cuiabano, Lateral izquierdo, 22, Brasil, Botafogo de Futebol e Regatas
+Marçal, Lateral izquierdo, 36, Brasil, Botafogo de Futebol e Regatas
+Vitinho, Lateral derecho, 25, Brasil, Botafogo de Futebol e Regatas
+Mateo Ponte, Lateral derecho, 22, Uruguay, Botafogo de Futebol e Regatas
+Marlon Freitas, Pivote, 30, Brasil, Botafogo de Futebol e Regatas
+Gregore, Pivote, 31, Brasil, Botafogo de Futebol e Regatas
+Danilo Barbosa, Pivote, 29, Brasil, Botafogo de Futebol e Regatas
+Allan, Pivote, 34, Brasil, Botafogo de Futebol e Regatas
+Patrick de Paula, Pivote, 25, Brasil, Botafogo de Futebol e Regatas
+Newton, Pivote, 25, Brasil, Botafogo de Futebol e Regatas
+Kauê, Mediocentro, 20, Brasil, Botafogo de Futebol e Regatas
+Jefferson Savarino, Mediocentro ofensivo, 28, Venezuela, Botafogo de Futebol e Regatas
+Santiago Rodríguez, Mediocentro ofensivo, 25, Uruguay, Botafogo de Futebol e Regatas
+Kauan Lindes, Mediocentro ofensivo, 21, Brasil, Botafogo de Futebol e Regatas
+Matheus Martins, Extremo izquierdo, 21, Brasil, Botafogo de Futebol e Regatas
+Jeffinho, Extremo izquierdo, 25, Brasil, Botafogo de Futebol e Regatas
+Yarlen, Extremo izquierdo, 19, Brasil, Botafogo de Futebol e Regatas
+Artur, Extremo derecho, 27, Brasil, Botafogo de Futebol e Regatas
+Nathan Fernandes, Extremo derecho, 20, Brasil, Botafogo de Futebol e Regatas
+Rafael Lobato, Extremo derecho, 19, Brasil, Botafogo de Futebol e Regatas
+Igor Jesus, Delantero centro, 24, Brasil, Botafogo de Futebol e Regatas
+Rwan Cruz, Delantero centro, 24, Brasil, Botafogo de Futebol e Regatas
+Elias Manoel, Delantero centro, 23, Brasil, Botafogo de Futebol e Regatas
+Gonzalo Mastriani, Delantero centro, 32, Uruguay, Botafogo de Futebol e Regatas
+Kayke, Delantero centro, 18, Brasil, Botafogo de Futebol e Regatas
+Sergio Rochet, Portero, 32, Uruguay, Sport Club Internacional
+Anthoni, Portero, 23, Brasil, Sport Club Internacional
+Ivan, Portero, 27, Brasil, Sport Club Internacional
+Kauan, Portero, 22, Brasil, Sport Club Internacional
+Vitão, Defensa central, 25, Brasil, Sport Club Internacional
+Kaique Rocha, Defensa central, 24, Brasil, Sport Club Internacional
+Victor Gabriel, Defensa central, 21, Brasil, Sport Club Internacional
+Juninho, Defensa central, 30, Brasil, Sport Club Internacional
+Clayton, Defensa central, 25, Brasil, Sport Club Internacional
+Agustín Rogel, Defensa central, 27, Uruguay, Sport Club Internacional
+Gabriel Mercado, Defensa central, 38, Argentina, Sport Club Internacional
+Pedro Kauã, Defensa central, 19, Brasil, Sport Club Internacional
+Alexandro Bernabei, Lateral izquierdo, 24, Argentina, Sport Club Internacional
+Ramon, Lateral izquierdo, 24, Brasil, Sport Club Internacional
+Pablo, Lateral izquierdo, 18, Brasil, Sport Club Internacional
+Bruno Gomes, Lateral derecho, 24, Brasil, Sport Club Internacional
+Nathan, Lateral derecho, 23, Brasil, Sport Club Internacional
+Braian Aguirre, Lateral derecho, 24, Argentina, Sport Club Internacional
+Thiago Maia, Pivote, 28, Brasil, Sport Club Internacional
+Fernando, Pivote, 37, Brasil, Sport Club Internacional
+Ronaldo, Pivote, 28, Brasil, Sport Club Internacional
+Diego Rosa, Pivote, 22, Brasil, Sport Club Internacional
+Luis Otávio, Pivote, 18, Brasil, Sport Club Internacional
+Bernardo Jacob, Pivote, 19, Brasil, Sport Club Internacional
+Gustavo, Pivote, 18, Brasil, Sport Club Internacional
+Bruno Henrique, Mediocentro, 35, Brasil, Sport Club Internacional
+Alan Patrick, Mediocentro ofensivo, 34, Brasil, Sport Club Internacional
+Óscar Romero, Mediocentro ofensivo, 32, Paraguay, Sport Club Internacional
+Yago Noal, Mediocentro ofensivo, 18, Brasil, Sport Club Internacional
+Wesley, Extremo izquierdo, 26, Brasil, Sport Club Internacional
+Vitinho, Extremo izquierdo, 26, Brasil, Sport Club Internacional
+Johan Carbonero, Extremo izquierdo, 25, Colombia, Sport Club Internacional
+Gabriel Carvalho, Extremo derecho, 17, Brasil, Sport Club Internacional
+Bruno Tabata, Extremo derecho, 28, Brasil, Sport Club Internacional
+Gustavo Prado, Extremo derecho, 19, Brasil, Sport Club Internacional
+Marlinho, Extremo derecho, 19, Brasil, Sport Club Internacional
+Rafael Borré, Delantero centro, 29, Colombia, Sport Club Internacional
+Enner Valencia, Delantero centro, 35, Ecuador, Sport Club Internacional
+Lucca, Delantero centro, 22, Brasil, Sport Club Internacional
+Ricardo Mathias, Delantero centro, 18, Brasil, Sport Club Internacional
+Lucca Drummond, Delantero centro, 21, Brasil, Sport Club Internacional
+Lucas Arcanjo, Portero, 26, Brasil, Esporte Clube Vitória
+Gabriel, Portero, 32, Brasil, Esporte Clube Vitória
+Fintelman, Portero, 23, Brasil, Esporte Clube Vitória
+Lucas Halter, Defensa central, 25, Brasil, Esporte Clube Vitória
+Zé Marcos, Defensa central, 27, Brasil, Esporte Clube Vitória
+Edu Ribeiro, Defensa central, 24, Brasil, Esporte Clube Vitória
+Neris, Defensa central, 32, Brasil, Esporte Clube Vitória
+Bruno Uvini, Defensa central, 33, Brasil, Esporte Clube Vitória
+Hugo, Lateral izquierdo, 23, Brasil, Esporte Clube Vitória
+Jamerson, Lateral izquierdo, 26, Brasil, Esporte Clube Vitória
+Felipe Vieira, Lateral izquierdo, 26, Brasil, Esporte Clube Vitória
+Maykon Jesus, Lateral izquierdo, 19, Brasil, Esporte Clube Vitória
+Claudinho, Lateral derecho, 24, Brasil, Esporte Clube Vitória
+Raúl Cáceres, Lateral derecho, 33, Paraguay, Esporte Clube Vitória
+Baralhas, Pivote, 26, Brasil, Esporte Clube Vitória
+Willian Oliveira, Pivote, 32, Brasil, Esporte Clube Vitória
+Ronald, Pivote, 27, Brasil, Esporte Clube Vitória
+Ricardo Ryller, Pivote, 31, Brasil, Esporte Clube Vitória
+Pepê, Mediocentro, 27, Brasil, Esporte Clube Vitória
+Matheuzinho, Mediocentro ofensivo, 27, Brasil, Esporte Clube Vitória
+Daniel Jr, Mediocentro ofensivo, 23, Brasil, Esporte Clube Vitória
+Bruno Xavier, Mediocentro ofensivo, 28, Brasil, Esporte Clube Vitória
+Felipe Cardoso, Mediocentro ofensivo, 22, Brasil, Esporte Clube Vitória
+Lucas Braga, Extremo izquierdo, 28, Brasil, Esporte Clube Vitória
+Léo Pereira, Extremo izquierdo, 24, Brasil, Esporte Clube Vitória
+Fábio Soares, Extremo izquierdo, 20, Brasil, Esporte Clube Vitória
+Alisson Santos, Extremo derecho, 22, Brasil, Esporte Clube Vitória
+Gustavo Silva, Extremo derecho, 27, Brasil, Esporte Clube Vitória
+Erick, Extremo derecho, 27, Brasil, Esporte Clube Vitória
+Wellington Rato, Extremo derecho, 32, Brasil, Esporte Clube Vitória
+Carlos Eduardo, Extremo derecho, 28, Brasil, Esporte Clube Vitória
+Osvaldo, Extremo derecho, 38, Brasil, Esporte Clube Vitória
+Carlinhos, Delantero centro, 28, Brasil, Esporte Clube Vitória
+Janderson, Delantero centro, 26, Brasil, Esporte Clube Vitória
+Fabri, Delantero centro, 24, Brasil, Esporte Clube Vitória
+Renato Kayzer, Delantero centro, 29, Brasil, Esporte Clube Vitória
+Gabriel Grando, Portero, 25, Brasil, Grêmio Foot-Ball Porto Alegrense
+Tiago Volpi, Portero, 34, Brasil, Grêmio Foot-Ball Porto Alegrense
+Jorge, Portero, 24, Brasil, Grêmio Foot-Ball Porto Alegrense
+Gustavo Martins, Defensa central, 22, Brasil, Grêmio Foot-Ball Porto Alegrense
+Wagner Leonardo, Defensa central, 25, Brasil, Grêmio Foot-Ball Porto Alegrense
+Rodrigo Ely, Defensa central, 31, Brasil, Grêmio Foot-Ball Porto Alegrense
+Jemerson, Defensa central, 32, Brasil, Grêmio Foot-Ball Porto Alegrense
+Walter Kannemann, Defensa central, 34, Argentina, Grêmio Foot-Ball Porto Alegrense
+Viery, Defensa central, 20, Brasil, Grêmio Foot-Ball Porto Alegrense
+Luan Cândido, Lateral izquierdo, 24, Brasil, Grêmio Foot-Ball Porto Alegrense
+Marlon, Lateral izquierdo, 28, Brasil, Grêmio Foot-Ball Porto Alegrense
+Lucas Esteves, Lateral izquierdo, 24, Brasil, Grêmio Foot-Ball Porto Alegrense
+Mayk, Lateral izquierdo, 25, Brasil, Grêmio Foot-Ball Porto Alegrense
+João Pedro, Lateral derecho, 28, Brasil, Grêmio Foot-Ball Porto Alegrense
+João Lucas, Lateral derecho, 27, Brasil, Grêmio Foot-Ball Porto Alegrense
+Igor Serrote, Lateral derecho, 20, Brasil, Grêmio Foot-Ball Porto Alegrense
+Mathías Villasanti, Pivote, 28, Paraguay, Grêmio Foot-Ball Porto Alegrense
+Gustavo Cuéllar, Pivote, 32, Colombia, Grêmio Foot-Ball Porto Alegrense
+Ronald, Pivote, 22, Brasil, Grêmio Foot-Ball Porto Alegrense
+Camilo, Pivote, 26, Brasil, Grêmio Foot-Ball Porto Alegrense
+Dodi, Pivote, 29, Brasil, Grêmio Foot-Ball Porto Alegrense
+Edenilson, Mediocentro, 35, Brasil, Grêmio Foot-Ball Porto Alegrense
+Franco Cristaldo, Mediocentro ofensivo, 28, Argentina, Grêmio Foot-Ball Porto Alegrense
+Miguel Monsalve, Mediocentro ofensivo, 21, Colombia, Grêmio Foot-Ball Porto Alegrense
+Nathan, Mediocentro ofensivo, 29, Brasil, Grêmio Foot-Ball Porto Alegrense
+Gabriel Silva, Mediocentro ofensivo, 22, Brasil, Grêmio Foot-Ball Porto Alegrense
+Gabriel Mec, Mediocentro ofensivo, 17, Brasil, Grêmio Foot-Ball Porto Alegrense
+Alexander Aravena, Extremo izquierdo, 22, Chile, Grêmio Foot-Ball Porto Alegrense
+Francis Amuzu, Extremo izquierdo, 25, Bélgica, Grêmio Foot-Ball Porto Alegrense
+Cristian Olivera, Extremo derecho, 23, Uruguay, Grêmio Foot-Ball Porto Alegrense
+Cristian Pavón, Extremo derecho, 29, Argentina, Grêmio Foot-Ball Porto Alegrense
+Alysson, Extremo derecho, 19, Brasil, Grêmio Foot-Ball Porto Alegrense
+Matías Arezo, Delantero centro, 22, Uruguay, Grêmio Foot-Ball Porto Alegrense
+Martin Braithwaite, Delantero centro, 33, Dinamarca, Grêmio Foot-Ball Porto Alegrense
+André Henrique, Delantero centro, 23, Brasil, Grêmio Foot-Ball Porto Alegrense
+Gustavo, Portero, 32, Brasil, Esporte Clube Juventude
+Mateus Claus, Portero, 30, Brasil, Esporte Clube Juventude
+Marcão, Portero, 33, Brasil, Esporte Clube Juventude
+Ruan Carneiro, Portero, 35, Brasil, Esporte Clube Juventude
+Natã, Defensa central, 23, Brasil, Esporte Clube Juventude
+Abner, Defensa central, 21, Brasil, Esporte Clube Juventude
+Adriano Martins, Defensa central, 28, Brasil, Esporte Clube Juventude
+Rodrigo Sam, Defensa central, 29, Brasil, Esporte Clube Juventude
+Wilker Ángel, Defensa central, 32, Venezuela, Esporte Clube Juventude
+Cipriano, Defensa central, 22, Brasil, Esporte Clube Juventude
+Kawan, Defensa central, 22, Brasil, Esporte Clube Juventude
+Felipinho, Lateral izquierdo, 28, Brasil, Esporte Clube Juventude
+Marcos Paulo, Lateral izquierdo, 22, Brasil, Esporte Clube Juventude
+Alan Ruschel, Lateral izquierdo, 35, Brasil, Esporte Clube Juventude
+Ewerthon, Lateral derecho, 24, Brasil, Esporte Clube Juventude
+Reginaldo, Lateral derecho, 32, Brasil, Esporte Clube Juventude
+Gabriel Souza, Lateral derecho, 22, Brasil, Esporte Clube Juventude
+Caíque Gonçalves, Pivote, 29, Brasil, Esporte Clube Juventude
+Daniel Giraldo, Pivote, 32, Colombia, Esporte Clube Juventude
+Kelvi Gomes, Pivote, 22, Brasil, Esporte Clube Juventude
+Davi Góes, Pivote, 19, Brasil, Esporte Clube Juventude
+Daniel Peixoto, Pivote, 27, Brasil, Esporte Clube Juventude
+Mandaca, Mediocentro, 23, Brasil, Esporte Clube Juventude
+Jádson, Mediocentro, 31, Brasil, Esporte Clube Juventude
+Jean Carlos, Mediocentro ofensivo, 33, Brasil, Esporte Clube Juventude
+Rafinha, Mediocentro ofensivo, 22, Brasil, Esporte Clube Juventude
+Nenê, Mediocentro ofensivo, 43, Brasil, Esporte Clube Juventude
+Maurício Garcez, Extremo izquierdo, 28, Brasil, Esporte Clube Juventude
+Petterson, Extremo izquierdo, 21, Brasil, Esporte Clube Juventude
+Giovanny, Extremo izquierdo, 27, Brasil, Esporte Clube Juventude
+Ênio, Extremo izquierdo, 24, Brasil, Esporte Clube Juventude
+Emerson Batalla, Extremo derecho, 23, Colombia, Esporte Clube Juventude
+Vitor Pernambuco, Extremo derecho, 27, Brasil, Esporte Clube Juventude
+Emerson Galego, Extremo derecho, 25, Brasil, Esporte Clube Juventude
+Gabriel Taliari, Delantero centro, 28, Brasil, Esporte Clube Juventude
+Matheus Babi, Delantero centro, 27, Brasil, Esporte Clube Juventude
+Gilberto, Delantero centro, 35, Brasil, Esporte Clube Juventude
+Rafael, Portero, 35, Brasil, São Paulo FC
+Jandrei, Portero, 32, Brasil, São Paulo FC
+Young, Portero, 23, Brasil, São Paulo FC
+Leandro Mathias, Portero, 20, Brasil, São Paulo FC
+Alan Franco, Defensa central, 28, Argentina, São Paulo FC
+Nahuel Ferraresi, Defensa central, 26, Venezuela, São Paulo FC
+Ruan, Defensa central, 25, Brasil, São Paulo FC
+Robert Arboleda, Defensa central, 33, Ecuador, São Paulo FC
+Sabino, Defensa central, 28, Brasil, São Paulo FC
+Matheus Belém, Defensa central, 22, Brasil, São Paulo FC
+Igão, Defensa central, 17, Brasil, São Paulo FC
+Wendell, Lateral izquierdo, 31, Brasil, São Paulo FC
+Enzo Díaz, Lateral izquierdo, 29, Argentina, São Paulo FC
+Patryck, Lateral izquierdo, 22, Brasil, São Paulo FC
+Igor Vinícius, Lateral derecho, 28, Brasil, São Paulo FC
+Cédric Soares, Lateral derecho, 33, Portugal, São Paulo FC
+Pablo Maia, Pivote, 23, Brasil, São Paulo FC
+Luan Santos, Pivote, 26, Brasil, São Paulo FC
+Felipe Negrucci, Pivote, 21, Brasil, São Paulo FC
+Luiz Gustavo, Pivote, 37, Brasil, São Paulo FC
+Marcos Antônio, Mediocentro, 24, Brasil, São Paulo FC
+Rodriguinho, Mediocentro, 21, Brasil, São Paulo FC
+Damián Bobadilla, Mediocentro, 23, Paraguay, São Paulo FC
+Alisson, Mediocentro, 31, Brasil, São Paulo FC
+Liziero, Mediocentro, 27, Brasil, São Paulo FC
+Pedro Vilhena, Mediocentro, 23, Brasil, São Paulo FC
+Oscar, Mediocentro ofensivo, 33, Brasil, São Paulo FC
+Matheus Alves, Mediocentro ofensivo, 20, Brasil, São Paulo FC
+Ferreirinha, Extremo izquierdo, 27, Brasil, São Paulo FC
+Lucca, Extremo izquierdo, 17, Brasil, São Paulo FC
+Lucas Moura, Extremo derecho, 32, Brasil, São Paulo FC
+Henrique Carmo, Extremo derecho, 18, Brasil, São Paulo FC
+Lucas Ferreira, Extremo derecho, 19, Brasil, São Paulo FC
+Luciano, Mediapunta, 32, Brasil, São Paulo FC
+André Silva, Delantero centro, 27, Brasil, São Paulo FC
+Ryan Francisco, Delantero centro, 18, Brasil, São Paulo FC
+Jonathan Calleri, Delantero centro, 31, Argentina, São Paulo FC
+Hugo Souza, Portero, 26, Brasil, SC Corinthians
+Matheus Donelli, Portero, 23, Brasil, SC Corinthians
+Felipe Longo, Portero, 20, Brasil, SC Corinthians
+Kauê, Portero, 21, Brasil, SC Corinthians
+Félix Torres, Defensa central, 28, Ecuador, SC Corinthians
+Cacá, Defensa central, 26, Brasil, SC Corinthians
+André Ramalho, Defensa central, 33, Brasil, SC Corinthians
+Tchoca, Defensa central, 21, Brasil, SC Corinthians
+Gustavo Henrique, Defensa central, 32, Brasil, SC Corinthians
+Matheus Bidu, Lateral izquierdo, 26, Brasil, SC Corinthians
+Diego Palacios, Lateral izquierdo, 25, Ecuador, SC Corinthians
+Hugo, Lateral izquierdo, 27, Brasil, SC Corinthians
+Fabrizio Angileri, Lateral izquierdo, 31, Argentina, SC Corinthians
+Matheuzinho, Lateral derecho, 24, Brasil, SC Corinthians
+Léo Mana, Lateral derecho, 21, Brasil, SC Corinthians
+Raniele, Pivote, 28, Brasil, SC Corinthians
+José Martínez, Pivote, 30, Venezuela, SC Corinthians
+Ryan, Pivote, 21, Brasil, SC Corinthians
+Breno Bidon, Mediocentro, 20, Brasil, SC Corinthians
+Maycon, Mediocentro, 27, Brasil, SC Corinthians
+Alex Santana, Mediocentro, 30, Brasil, SC Corinthians
+André Carrillo, Mediocentro, 33, Perú, SC Corinthians
+Charles, Mediocentro, 28, Brasil, SC Corinthians
+Rodrigo Garro, Mediocentro ofensivo, 27, Argentina, SC Corinthians
+Igor Coronado, Mediocentro ofensivo, 32, Italia, SC Corinthians
+Talles Magno, Extremo izquierdo, 22, Brasil, SC Corinthians
+Ángel Romero, Extremo izquierdo, 32, Paraguay, SC Corinthians
+Kayke, Extremo derecho, 21, Brasil, SC Corinthians
+Yuri Alberto, Delantero centro, 24, Brasil, SC Corinthians
+Memphis Depay, Delantero centro, 31, Países Bajos, SC Corinthians
+Giovane, Delantero centro, 21, Brasil, SC Corinthians
+Héctor Hernández, Delantero centro, 29, España, SC Corinthians
+Keiller, Portero, 28, Brasil, Ceará Sporting Club
+Bruno, Portero, 31, Brasil, Ceará Sporting Club
+Richard, Portero, 34, Brasil, Ceará Sporting Club
+Fernando Miguel, Portero, 40, Brasil, Ceará Sporting Club
+Ramon Menezes, Defensa central, 30, Brasil, Ceará Sporting Club
+Éder, Defensa central, 30, Brasil, Ceará Sporting Club
+Willian Machado, Defensa central, 28, Brasil, Ceará Sporting Club
+Gabriel Lacerda, Defensa central, 25, Brasil, Ceará Sporting Club
+Marllon, Defensa central, 33, Brasil, Ceará Sporting Club
+Marcos Victor, Defensa central, 23, Brasil, Ceará Sporting Club
+Luiz Otávio, Defensa central, 36, Brasil, Ceará Sporting Club
+Matheus Bahia, Lateral izquierdo, 25, Brasil, Ceará Sporting Club
+Nicolas, Lateral izquierdo, 28, Brasil, Ceará Sporting Club
+Fabiano, Lateral derecho, 25, Brasil, Ceará Sporting Club
+Dieguinho, Lateral derecho, 30, Brasil, Ceará Sporting Club
+Rafael Ramos, Lateral derecho, 30, Portugal, Ceará Sporting Club
+Richardson, Pivote, 33, Brasil, Ceará Sporting Club
+Lucas Lima, Pivote, 24, Brasil, Ceará Sporting Club
+Lourenço, Mediocentro, 27, Brasil, Ceará Sporting Club
+Fernando Sobral, Mediocentro, 30, Brasil, Ceará Sporting Club
+Léo Rafael, Mediocentro, 24, Brasil, Ceará Sporting Club
+Matheus Araújo, Mediocentro ofensivo, 23, Brasil, Ceará Sporting Club
+Rômulo, Mediocentro ofensivo, 23, Brasil, Ceará Sporting Club
+Jorge Recalde, Mediocentro ofensivo, 33, Paraguay, Ceará Sporting Club
+Lucas Mugni, Mediocentro ofensivo, 33, Argentina, Ceará Sporting Club
+Alejandro Martínez, Extremo izquierdo, 28, Argentina, Ceará Sporting Club
+Fernandinho, Extremo izquierdo, 27, Brasil, Ceará Sporting Club
+João Victor, Extremo izquierdo, 21, Brasil, Ceará Sporting Club
+Antonio Galeano, Extremo derecho, 25, Paraguay, Ceará Sporting Club
+Pedro Henrique, Extremo derecho, 34, Brasil, Ceará Sporting Club
+Bruno Tubarão, Extremo derecho, 30, Brasil, Ceará Sporting Club
+Zé Neto, Extremo derecho, 19, Brasil, Ceará Sporting Club
+Pedro Raul, Delantero centro, 28, Brasil, Ceará Sporting Club
+Lelê, Delantero centro, 27, Brasil, Ceará Sporting Club
+Aylon, Delantero centro, 33, Brasil, Ceará Sporting Club
+Guilherme Luiz, Delantero centro, 20, Brasil, Ceará Sporting Club
+Vitor Eudes, Portero, 26, Brasil, Fluminense Football Club
+Marcelo Pitaluga, Portero, 22, Brasil, Fluminense Football Club
+Fábio, Portero, 44, Brasil, Fluminense Football Club
+Gustavo Ramalho, Portero, 22, Brasil, Fluminense Football Club
+Ignácio, Defensa central, 28, Brasil, Fluminense Football Club
+Juan Pablo Freytes, Defensa central, 25, Argentina, Fluminense Football Club
+Thiago Silva, Defensa central, 40, Brasil, Fluminense Football Club
+Manoel, Defensa central, 35, Brasil, Fluminense Football Club
+Thiago Santos, Defensa central, 35, Brasil, Fluminense Football Club
+Gabriel Fuentes, Lateral izquierdo, 28, Colombia, Fluminense Football Club
+Renê, Lateral izquierdo, 32, Brasil, Fluminense Football Club
+Guga, Lateral derecho, 26, Brasil, Fluminense Football Club
+Samuel Xavier, Lateral derecho, 34, Brasil, Fluminense Football Club
+Martinelli, Pivote, 23, Brasil, Fluminense Football Club
+Otávio, Pivote, 31, Brasil, Fluminense Football Club
+Facundo Bernal, Pivote, 21, Uruguay, Fluminense Football Club
+Wallace Davi, Pivote, 18, Brasil, Fluminense Football Club
+Hércules, Mediocentro, 24, Brasil, Fluminense Football Club
+Nonato, Mediocentro, 27, Brasil, Fluminense Football Club
+Victor Hugo, Mediocentro, 21, Brasil, Fluminense Football Club
+Gustavo Apis, Mediocentro, 25, Brasil, Fluminense Football Club
+Rubén Lezcano, Mediocentro ofensivo, 21, Paraguay, Fluminense Football Club
+Lima, Mediocentro ofensivo, 28, Brasil, Fluminense Football Club
+Ganso, Mediocentro ofensivo, 35, Brasil, Fluminense Football Club
+Isaque, Mediocentro ofensivo, 18, Brasil, Fluminense Football Club
+Agustín Canobbio, Extremo izquierdo, 26, Uruguay, Fluminense Football Club
+Joaquín Lavega, Extremo izquierdo, 20, Uruguay, Fluminense Football Club
+Keno, Extremo izquierdo, 35, Brasil, Fluminense Football Club
+Paulo Baya, Extremo izquierdo, 25, Brasil, Fluminense Football Club
+Jhon Arias, Extremo derecho, 27, Colombia, Fluminense Football Club
+Riquelme, Extremo derecho, 18, Brasil, Fluminense Football Club
+Kevin Serna, Extremo derecho, 27, Colombia, Fluminense Football Club
+Germán Cano, Delantero centro, 37, Argentina, Fluminense Football Club
+Everaldo, Delantero centro, 33, Brasil, Fluminense Football Club
+Agustín Rossi, Portero, 29, Argentina, CR Flamengo
+Matheus Cunha, Portero, 24, Brasil, CR Flamengo
+Dyogo Alves, Portero, 21, Brasil, CR Flamengo
+Léo Ortiz, Defensa central, 29, Brasil, CR Flamengo
+Léo Pereira, Defensa central, 29, Brasil, CR Flamengo
+Danilo, Defensa central, 33, Brasil, CR Flamengo
+Pablo, Defensa central, 33, Brasil, CR Flamengo
+Cleiton, Defensa central, 22, Brasil, CR Flamengo
+Matías Viña, Lateral izquierdo, 27, Uruguay, CR Flamengo
+Ayrton Lucas, Lateral izquierdo, 27, Brasil, CR Flamengo
+Alex Sandro, Lateral izquierdo, 34, Brasil, CR Flamengo
+Zé Welinton, Lateral izquierdo, 21, Brasil, CR Flamengo
+Wesley, Lateral derecho, 21, Brasil, CR Flamengo
+Guillermo Varela, Lateral derecho, 32, Uruguay, CR Flamengo
+Erick Pulgar, Pivote, 31, Chile, CR Flamengo
+Allan, Pivote, 28, Brasil, CR Flamengo
+Evertton Araújo, Pivote, 22, Brasil, CR Flamengo
+Caio Garcia, Pivote, 21, Brasil, CR Flamengo
+Gerson, Mediocentro, 28, Brasil, CR Flamengo
+Nicolás de la Cruz, Mediocentro, 27, Uruguay, CR Flamengo
+Giorgian de Arrascaeta, Mediocentro ofensivo, 30, Uruguay, CR Flamengo
+Lorran, Mediocentro ofensivo, 18, Brasil, CR Flamengo
+Everton, Extremo izquierdo, 29, Brasil, CR Flamengo
+Michael, Extremo izquierdo, 29, Brasil, CR Flamengo
+Gonzalo Plata, Extremo derecho, 24, Ecuador, CR Flamengo
+Luiz Araújo, Extremo derecho, 28, Brasil, CR Flamengo
+Matheus Gonçalves, Extremo derecho, 19, Brasil, CR Flamengo
+Pedro, Delantero centro, 27, Brasil, CR Flamengo
+Wallace Yan, Delantero centro, 20, Brasil, CR Flamengo
+Juninho, Delantero centro, 28, Brasil, CR Flamengo
+Bruno Henrique, Delantero centro, 34, Brasil, CR Flamengo
+Everson, Portero, 34, Brasil, Clube Atlético Mineiro
+Gabriel Delfim, Portero, 22, Brasil, Clube Atlético Mineiro
+Gabriel Átila, Portero, 22, Brasil, Clube Atlético Mineiro
+Robert, Portero, 20, Brasil, Clube Atlético Mineiro
+Lyanco, Defensa central, 28, Brasil, Clube Atlético Mineiro
+Júnior Alonso, Defensa central, 32, Paraguay, Clube Atlético Mineiro
+Igor Rabello, Defensa central, 30, Brasil, Clube Atlético Mineiro
+Iván Román, Defensa central, 18, Chile, Clube Atlético Mineiro
+Vitor Hugo, Defensa central, 34, Brasil, Clube Atlético Mineiro
+Rômulo, Defensa central, 21, Brasil, Clube Atlético Mineiro
+Guilherme Arana, Lateral izquierdo, 28, Brasil, Clube Atlético Mineiro
+Caio Paulista, Lateral izquierdo, 27, Brasil, Clube Atlético Mineiro
+Natanael, Lateral derecho, 23, Brasil, Clube Atlético Mineiro
+Renzo Saravia, Lateral derecho, 31, Argentina, Clube Atlético Mineiro
+Fausto Vera, Pivote, 25, Argentina, Clube Atlético Mineiro
+Patrick, Pivote, 21, Brasil, Clube Atlético Mineiro
+Gabriel Menino, Mediocentro, 24, Brasil, Clube Atlético Mineiro
+Alan Franco, Mediocentro, 26, Ecuador, Clube Atlético Mineiro
+Rubens, Interior izquierdo, 23, Brasil, Clube Atlético Mineiro
+Gustavo Scarpa, Mediocentro ofensivo, 31, Brasil, Clube Atlético Mineiro
+Igor Gomes, Mediocentro ofensivo, 26, Brasil, Clube Atlético Mineiro
+Tomás Cuello, Extremo izquierdo, 25, Argentina, Clube Atlético Mineiro
+Dudu, Extremo izquierdo, 33, Brasil, Clube Atlético Mineiro
+Bernard, Extremo izquierdo, 32, Brasil, Clube Atlético Mineiro
+Júnior Santos, Extremo derecho, 30, Brasil, Clube Atlético Mineiro
+Brahian Palacios, Extremo derecho, 22, Colombia, Clube Atlético Mineiro
+Rony, Delantero centro, 30, Brasil, Clube Atlético Mineiro
+João Marcelo, Delantero centro, 20, Brasil, Clube Atlético Mineiro
+Hulk, Delantero centro, 38, Brasil, Clube Atlético Mineiro
+Cadu, Delantero centro, 21, Brasil, Clube Atlético Mineiro
+Brenno, Portero, 26, Brasil, Fortaleza Esporte Clube
+João Ricardo, Portero, 36, Brasil, Fortaleza Esporte Clube
+Magrão, Portero, 25, Brasil, Fortaleza Esporte Clube
+Gastón Ávila, Defensa central, 23, Argentina, Fortaleza Esporte Clube
+Benjamín Kuscevic, Defensa central, 29, Chile, Fortaleza Esporte Clube
+Emanuel Brítez, Defensa central, 33, Argentina, Fortaleza Esporte Clube
+David Luiz, Defensa central, 38, Brasil, Fortaleza Esporte Clube
+Titi, Defensa central, 37, Brasil, Fortaleza Esporte Clube
+Gustavo Mancha, Defensa central, 20, Brasil, Fortaleza Esporte Clube
+Felipe Jonatan, Lateral izquierdo, 27, Brasil, Fortaleza Esporte Clube
+Bruno Pacheco, Lateral izquierdo, 33, Brasil, Fortaleza Esporte Clube
+Diogo Barbosa, Lateral izquierdo, 32, Brasil, Fortaleza Esporte Clube
+Eros Mancuso, Lateral derecho, 26, Argentina, Fortaleza Esporte Clube
+Tinga, Lateral derecho, 31, Brasil, Fortaleza Esporte Clube
+Zé Welison, Pivote, 30, Brasil, Fortaleza Esporte Clube
+Lucas Sasha, Pivote, 35, Brasil, Fortaleza Esporte Clube
+Rodrigo Santos, Pivote, 24, Brasil, Fortaleza Esporte Clube
+Pedro Augusto, Mediocentro, 28, Brasil, Fortaleza Esporte Clube
+Matheus Rossetto, Mediocentro, 28, Brasil, Fortaleza Esporte Clube
+Pol Fernández, Mediocentro, 33, Argentina, Fortaleza Esporte Clube
+Tomás Pochettino, Mediocentro ofensivo, 29, Argentina, Fortaleza Esporte Clube
+Calebe, Mediocentro ofensivo, 25, Brasil, Fortaleza Esporte Clube
+Emmanuel Martínez, Mediocentro ofensivo, 30, Argentina, Fortaleza Esporte Clube
+Kervin Andrade, Mediocentro ofensivo, 20, Venezuela, Fortaleza Esporte Clube
+Moisés, Extremo izquierdo, 28, Brasil, Fortaleza Esporte Clube
+Breno Lopes, Extremo izquierdo, 29, Brasil, Fortaleza Esporte Clube
+Dylan Borrero, Extremo izquierdo, 23, Colombia, Fortaleza Esporte Clube
+Allanzinho, Extremo izquierdo, 25, Brasil, Fortaleza Esporte Clube
+Yago Pikachu, Extremo derecho, 32, Brasil, Fortaleza Esporte Clube
+Marinho, Extremo derecho, 34, Brasil, Fortaleza Esporte Clube
+Juan Martín Lucero, Delantero centro, 33, Argentina, Fortaleza Esporte Clube
+Deyverson, Delantero centro, 34, Brasil, Fortaleza Esporte Clube
+Cássio, Portero, 37, Brasil, Cruzeiro Esporte Clube
+Léo Aragão, Portero, 23, Brasil, Cruzeiro Esporte Clube
+Otávio Costa, Portero, 19, Brasil, Cruzeiro Esporte Clube
+Fabrício Bruno, Defensa central, 29, Brasil, Cruzeiro Esporte Clube
+João Marcelo, Defensa central, 24, Brasil, Cruzeiro Esporte Clube
+Mateo Gamarra, Defensa central, 24, Paraguay, Cruzeiro Esporte Clube
+Lucas Villalba, Defensa central, 30, Argentina, Cruzeiro Esporte Clube
+Jonathan Jesus, Defensa central, 20, Brasil, Cruzeiro Esporte Clube
+Kaiki, Lateral izquierdo, 22, Brasil, Cruzeiro Esporte Clube
+Kauã Prates, Lateral izquierdo, 16, Brasil, Cruzeiro Esporte Clube
+William, Lateral derecho, 30, Brasil, Cruzeiro Esporte Clube
+Fagner, Lateral derecho, 35, Brasil, Cruzeiro Esporte Clube
+Walace, Pivote, 30, Brasil, Cruzeiro Esporte Clube
+Lucas Romero, Pivote, 31, Argentina, Cruzeiro Esporte Clube
+Lucas Silva, Pivote, 32, Brasil, Cruzeiro Esporte Clube
+Murilo Rhikman, Pivote, 19, Brasil, Cruzeiro Esporte Clube
+Matheus Henrique, Mediocentro, 27, Brasil, Cruzeiro Esporte Clube
+Christian, Mediocentro, 24, Brasil, Cruzeiro Esporte Clube
+Japa, Mediocentro, 21, Brasil, Cruzeiro Esporte Clube
+Matheus Pereira, Mediocentro ofensivo, 29, Brasil, Cruzeiro Esporte Clube
+Eduardo, Mediocentro ofensivo, 35, Brasil, Cruzeiro Esporte Clube
+Wanderson, Extremo izquierdo, 30, Brasil, Cruzeiro Esporte Clube
+Kenji, Extremo izquierdo, 19, Brasil, Cruzeiro Esporte Clube
+Rodriguinho, Extremo izquierdo, 21, Brasil, Cruzeiro Esporte Clube
+Yannick Bolasie, Extremo izquierdo, 36, RD del Congo, Cruzeiro Esporte Clube
+Marquinhos, Extremo derecho, 22, Brasil, Cruzeiro Esporte Clube
+Gabriel Barbosa, Delantero centro, 28, Brasil, Cruzeiro Esporte Clube
+Kaio Jorge, Delantero centro, 23, Brasil, Cruzeiro Esporte Clube
+Juan Dinenno, Delantero centro, 30, Argentina, Cruzeiro Esporte Clube
+Lautaro Díaz, Delantero centro, 27, Argentina, Cruzeiro Esporte Clube
+Weverton, Portero, 37, Brasil, SE Palmeiras
+Marcelo Lomba, Portero, 38, Brasil, SE Palmeiras
+Mateus, Portero, 23, Brasil, SE Palmeiras
+Murilo, Defensa central, 28, Brasil, SE Palmeiras
+Gustavo Gómez, Defensa central, 32, Paraguay, SE Palmeiras
+Micael, Defensa central, 24, Brasil, SE Palmeiras
+Bruno Fuchs, Defensa central, 26, Brasil, SE Palmeiras
+Naves, Defensa central, 23, Brasil, SE Palmeiras
+Luis Benedetti, Defensa central, 18, Brasil, SE Palmeiras
+Joaquín Piquerez, Lateral izquierdo, 26, Uruguay, SE Palmeiras
+Vanderlan, Lateral izquierdo, 22, Brasil, SE Palmeiras
+Agustín Giay, Lateral derecho, 21, Argentina, SE Palmeiras
+Mayke, Lateral derecho, 32, Brasil, SE Palmeiras
+Marcos Rocha, Lateral derecho, 36, Brasil, SE Palmeiras
+Aníbal Moreno, Pivote, 26, Argentina, SE Palmeiras
+Emiliano Martínez, Pivote, 25, Uruguay, SE Palmeiras
+Richard Ríos, Mediocentro, 24, Colombia, SE Palmeiras
+Lucas Evangelista, Mediocentro, 30, Brasil, SE Palmeiras
+Allan, Mediocentro, 21, Brasil, SE Palmeiras
+Figueiredo, Mediocentro, 19, Brasil, SE Palmeiras
+Raphael Veiga, Mediocentro ofensivo, 29, Brasil, SE Palmeiras
+Mauricio, Mediocentro ofensivo, 23, Brasil, SE Palmeiras
+Paulinho, Extremo izquierdo, 24, Brasil, SE Palmeiras
+Facundo Torres, Extremo izquierdo, 25, Uruguay, SE Palmeiras
+Bruno Rodrigues, Extremo izquierdo, 28, Brasil, SE Palmeiras
+Estêvão, Extremo derecho, 18, Brasil, SE Palmeiras
+Felipe Anderson, Extremo derecho, 32, Brasil, SE Palmeiras
+Vitor Roque, Delantero centro, 20, Brasil, SE Palmeiras
+José Manuel López, Delantero centro, 24, Argentina, SE Palmeiras
+Luighi, Delantero centro, 19, Brasil, SE Palmeiras
+Thalys, Delantero centro, 20, Brasil, SE Palmeiras
+Walter, Portero, 37, Brasil, Mirassol Futebol Clube (SP)
+Alex Muralha, Portero, 35, Brasil, Mirassol Futebol Clube (SP)
+Sidnei, Portero, 22, Brasil, Mirassol Futebol Clube (SP)
+Thomazella, Portero, 34, Brasil, Mirassol Futebol Clube (SP)
+Luiz Otávio, Defensa central, 32, Brasil, Mirassol Futebol Clube (SP)
+Gabriel, Defensa central, 21, Brasil, Mirassol Futebol Clube (SP)
+João Victor, Defensa central, 27, Brasil, Mirassol Futebol Clube (SP)
+Jemmes, Defensa central, 25, Brasil, Mirassol Futebol Clube (SP)
+David Braz, Defensa central, 38, Brasil, Mirassol Futebol Clube (SP)
+Da Silva, Defensa central, 24, Brasil, Mirassol Futebol Clube (SP)
+Leonan Santos, Defensa central, 24, Brasil, Mirassol Futebol Clube (SP)
+Reinaldo, Lateral izquierdo, 35, Brasil, Mirassol Futebol Clube (SP)
+Lucas Ramon, Lateral derecho, 31, Brasil, Mirassol Futebol Clube (SP)
+Daniel Borges, Lateral derecho, 32, Brasil, Mirassol Futebol Clube (SP)
+Wesley Santos, Lateral derecho, 20, Brasil, Mirassol Futebol Clube (SP)
+Roni, Pivote, 26, Brasil, Mirassol Futebol Clube (SP)
+Neto Moura, Pivote, 28, Brasil, Mirassol Futebol Clube (SP)
+Matheus Sales, Pivote, 30, Brasil, Mirassol Futebol Clube (SP)
+Yago Felipe, Mediocentro, 30, Brasil, Mirassol Futebol Clube (SP)
+Danielzinho, Mediocentro, 30, Brasil, Mirassol Futebol Clube (SP)
+Matheus Bianqui, Mediocentro, 27, Brasil, Mirassol Futebol Clube (SP)
+José Aldo, Mediocentro, 26, Brasil, Mirassol Futebol Clube (SP)
+Zé Vitor, Mediocentro, 25, Brasil, Mirassol Futebol Clube (SP)
+Chico Kim, Mediocentro ofensivo, 34, Corea del Sur, Mirassol Futebol Clube (SP)
+Gabriel, Mediocentro ofensivo, 35, Brasil, Mirassol Futebol Clube (SP)
+Clayson, Extremo izquierdo, 30, Brasil, Mirassol Futebol Clube (SP)
+Negueba, Extremo derecho, 25, Brasil, Mirassol Futebol Clube (SP)
+Fabrício Daniel, Extremo derecho, 27, Brasil, Mirassol Futebol Clube (SP)
+Luiz Filipe, Extremo derecho, 23, Brasil, Mirassol Futebol Clube (SP)
+Maceió, Extremo derecho, 21, Brasil, Mirassol Futebol Clube (SP)
+Matheus Davó, Delantero centro, 25, Brasil, Mirassol Futebol Clube (SP)
+Iury Castilho, Delantero centro, 29, Brasil, Mirassol Futebol Clube (SP)
+Edson Carioca, Delantero centro, 27, Brasil, Mirassol Futebol Clube (SP)
+Rafa Silva, Delantero centro, 33, Brasil, Mirassol Futebol Clube (SP)
+Léo Gamalho, Delantero centro, 39, Brasil, Mirassol Futebol Clube (SP)
+Cristian Renato, Delantero centro, 25, Brasil, Mirassol Futebol Clube (SP)
