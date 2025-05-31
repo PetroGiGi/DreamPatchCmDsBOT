@@ -122,7 +122,7 @@ if __name__ == '__main__':
     cargar_datos_desde_txt_a_db('laliga_players.txt', "LaLiga", "España")
 
     print("\n--- Cargando Premier League ---")
-    cargar_datos_desde_txt_a_db('premierleague_players.txt', "LaLiga", "España")
+    cargar_datos_desde_txt_a_db('premierleague_players.txt', "Premier League", "Inglaterra")
 
     print("\n--- Cargando Primera Nacional ---")
     cargar_datos_desde_txt_a_db('bnacional_players.txt', "Primera Nacional", "Argentina") # Asumiendo Argentina
