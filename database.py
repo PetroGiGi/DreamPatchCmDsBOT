@@ -113,13 +113,14 @@ def init_db():
     cursor.execute('''
         CREATE TABLE IF NOT EXISTS partidos (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
-            jornada_id INTEGER NOT NULL,
+            jornada_id INTEGER, -- Puede ser NULL para partidos eliminatorios especiales
             equipo_local_id INTEGER NOT NULL,
             equipo_visitante_id INTEGER NOT NULL,
             resultado_local INTEGER DEFAULT NULL,
             resultado_visitante INTEGER DEFAULT NULL,
             simulado INTEGER DEFAULT 0,
             zona TEXT, -- ¡NUEVA COLUMNA AÑADIDA AQUÍ para partidos!
+            tipo_partido TEXT DEFAULT 'liga', -- 'liga', 'final_ascenso', 'reducido_cuartos', 'reducido_semis', 'reducido_final'
             FOREIGN KEY (jornada_id) REFERENCES jornadas(id),
             FOREIGN KEY (equipo_local_id) REFERENCES equipos(id),
             FOREIGN KEY (equipo_visitante_id) REFERENCES equipos(id)
@@ -132,9 +133,26 @@ def init_db():
             liga_id INTEGER NOT NULL,
             temporada INTEGER NOT NULL,
             equipo_campeon_id INTEGER NOT NULL,
-            UNIQUE(liga_id, temporada),
+            tipo_titulo TEXT DEFAULT 'Campeón de Liga', -- 'Campeón de Liga', 'Campeón Primera Nacional - Ascenso Directo', 'Ganador Reducido - Ascenso', 'Libertadores', 'Sudamericana'
+            UNIQUE(liga_id, temporada, tipo_titulo), -- Para permitir múltiples "campeones" de una liga en una temporada (ej. campeón de liga y campeón reducido)
             FOREIGN KEY (liga_id) REFERENCES ligas(id),
             FOREIGN KEY (equipo_campeon_id) REFERENCES equipos(id)
+        )
+    ''')
+
+    # Tabla ascensos_descensos: Se recomienda crear una tabla dedicada
+    cursor.execute('''
+        CREATE TABLE IF NOT EXISTS ascensos_descensos (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            equipo_id INTEGER NOT NULL,
+            liga_origen_id INTEGER NOT NULL,
+            liga_destino_id INTEGER NOT NULL,
+            temporada INTEGER NOT NULL,
+            tipo TEXT NOT NULL, -- 'ascenso_directo', 'ascenso_reducido', 'descenso_directo', 'descenso_promocion'
+            FOREIGN KEY (equipo_id) REFERENCES equipos(id),
+            FOREIGN KEY (liga_origen_id) REFERENCES ligas(id),
+            FOREIGN KEY (liga_destino_id) REFERENCES ligas(id),
+            UNIQUE(equipo_id, liga_origen_id, liga_destino_id, temporada, tipo) -- Para evitar duplicados de movimientos
         )
     ''')
 
@@ -153,12 +171,13 @@ def _close_conn_if_created(conn, was_created_here):
         conn.close()
 
 # Funciones de palmares
-def add_campeon(liga_id, temporada, equipo_campeon_id, conn=None):
+# MODIFICADA: Añadido tipo_titulo
+def add_campeon(liga_id, temporada, equipo_campeon_id, tipo_titulo='Campeón de Liga', conn=None): #
     conn_actual, close_conn = _get_conn(conn)
     cursor = conn_actual.cursor()
     try:
-        cursor.execute("INSERT OR IGNORE INTO palmares (liga_id, temporada, equipo_campeon_id) VALUES (?, ?, ?)",
-                       (liga_id, temporada, equipo_campeon_id))
+        cursor.execute("INSERT OR IGNORE INTO palmares (liga_id, temporada, equipo_campeon_id, tipo_titulo) VALUES (?, ?, ?, ?)",
+                       (liga_id, temporada, equipo_campeon_id, tipo_titulo))
         if close_conn: conn_actual.commit()
         return cursor.lastrowid
     except sqlite3.Error as e:
@@ -167,46 +186,100 @@ def add_campeon(liga_id, temporada, equipo_campeon_id, conn=None):
     finally:
         _close_conn_if_created(conn_actual, close_conn)
 
-def get_palmares_liga(liga_id, conn=None):
+# MODIFICADA: Ahora se puede obtener palmarés por tipo de título si se desea, aunque por defecto es general.
+def get_palmares_liga(liga_id, tipo_titulo=None, conn=None):
     conn_actual, close_conn = _get_conn(conn)
     cursor = conn_actual.cursor()
-    cursor.execute("""
-        SELECT p.temporada, e.nombre AS equipo_campeon_nombre
+    sql = """
+        SELECT p.temporada, e.nombre AS equipo_campeon_nombre, p.tipo_titulo
         FROM palmares p
         JOIN equipos e ON p.equipo_campeon_id = e.id
         WHERE p.liga_id = ?
-        ORDER BY p.temporada ASC
-    """, (liga_id,))
+    """
+    params = [liga_id]
+    if tipo_titulo:
+        sql += " AND p.tipo_titulo = ?"
+        params.append(tipo_titulo)
+    sql += " ORDER BY p.temporada ASC"
+    cursor.execute(sql, tuple(params))
     palmares = cursor.fetchall()
     _close_conn_if_created(conn_actual, close_conn)
     return [dict(row) for row in palmares]
 
-def get_campeon_temporada(liga_id, temporada, conn=None):
+# MODIFICADA: Ahora se puede obtener campeón por tipo de título
+def get_campeon_temporada(liga_id, temporada, tipo_titulo=None, conn=None):
     conn_actual, close_conn = _get_conn(conn)
     cursor = conn_actual.cursor()
-    cursor.execute("""
-        SELECT e.nombre AS equipo_campeon_nombre
+    sql = """
+        SELECT e.nombre AS equipo_campeon_nombre, p.tipo_titulo
         FROM palmares p
         JOIN equipos e ON p.equipo_campeon_id = e.id
         WHERE p.liga_id = ? AND p.temporada = ?
-    """, (liga_id, temporada))
+    """
+    params = [liga_id, temporada]
+    if tipo_titulo:
+        sql += " AND p.tipo_titulo = ?"
+        params.append(tipo_titulo)
+    cursor.execute(sql, tuple(params))
     campeon = cursor.fetchone()
     _close_conn_if_created(conn_actual, close_conn)
     return dict(campeon) if campeon else None
 
+# MODIFICADA: Ahora muestra también el tipo de título
 def get_campeonatos_equipo(equipo_id, conn=None):
     conn_actual, close_conn = _get_conn(conn)
     cursor = conn_actual.cursor()
     cursor.execute("""
-        SELECT p.temporada, l.nombre AS liga_nombre
+        SELECT p.temporada, l.nombre AS liga_nombre, p.tipo_titulo
         FROM palmares p
         JOIN ligas l ON p.liga_id = l.id
         WHERE p.equipo_campeon_id = ?
-        ORDER BY p.temporada ASC, l.nombre ASC
+        ORDER BY p.temporada ASC, l.nombre ASC, p.tipo_titulo ASC
     """, (equipo_id,))
     campeonatos = cursor.fetchall()
     _close_conn_if_created(conn_actual, close_conn)
     return [dict(row) for row in campeonatos]
+
+# Funciones de ascensos_descensos
+# Se recomienda crear una tabla dedicada en database.py para registrar ascensos y descensos
+def add_ascenso_descenso(equipo_id, liga_origen_id, liga_destino_nombre, temporada, tipo, conn=None): #
+    conn_actual, close_conn = _get_conn(conn)
+    cursor = conn_actual.cursor()
+    try:
+        liga_destino_id = get_liga_id(liga_destino_nombre, conn_actual)
+        if not liga_destino_id:
+            print(f"Error: Liga de destino '{liga_destino_nombre}' no encontrada para registrar ascenso/descenso.")
+            return None
+        cursor.execute("INSERT OR IGNORE INTO ascensos_descensos (equipo_id, liga_origen_id, liga_destino_id, temporada, tipo) VALUES (?, ?, ?, ?, ?)",
+                       (equipo_id, liga_origen_id, liga_destino_id, temporada, tipo))
+        if close_conn: conn_actual.commit()
+        return cursor.lastrowid
+    except sqlite3.Error as e:
+        print(f"Error al añadir ascenso/descenso: {e}")
+        return None
+    finally:
+        _close_conn_if_created(conn_actual, close_conn)
+
+def get_ascensos_descensos_por_temporada(temporada, conn=None):
+    conn_actual, close_conn = _get_conn(conn)
+    cursor = conn_actual.cursor()
+    cursor.execute("""
+        SELECT
+            ad.temporada,
+            e.nombre AS equipo_nombre,
+            lo.nombre AS liga_origen_nombre,
+            ld.nombre AS liga_destino_nombre,
+            ad.tipo
+        FROM ascensos_descensos ad
+        JOIN equipos e ON ad.equipo_id = e.id
+        JOIN ligas lo ON ad.liga_origen_id = lo.id
+        JOIN ligas ld ON ad.liga_destino_id = ld.id
+        WHERE ad.temporada = ?
+        ORDER BY ad.tipo, e.nombre
+    """, (temporada,))
+    movimientos = cursor.fetchall()
+    _close_conn_if_created(conn_actual, close_conn)
+    return [dict(row) for row in movimientos]
 
 # Funciones de ligas
 def add_liga(nombre, pais, num_equipos, conn=None):
@@ -581,36 +654,21 @@ def update_clasificacion(liga_id, equipo_id, temporada, pj, pg, pe, pp, gf, gc, 
     cursor = conn_actual.cursor()
     try:
         # Se asegura de que la columna 'zona' se use si está presente
-        if zona_nombre:
-            cursor.execute('''
-                INSERT INTO clasificaciones (liga_id, equipo_id, temporada, zona, pj, pg, pe, pp, gf, gc, dg, pts)
-                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-                ON CONFLICT(liga_id, equipo_id, temporada) DO UPDATE SET
-                    zona = excluded.zona,
-                    pj = excluded.pj,
-                    pg = excluded.pg,
-                    pe = excluded.pe,
-                    pp = excluded.pp,
-                    gf = excluded.gf,
-                    gc = excluded.gc,
-                    dg = excluded.dg,
-                    pts = excluded.pts
-            ''', (liga_id, equipo_id, temporada, zona_nombre, pj, pg, pe, pp, gf, gc, dg, pts))
-        else: # Si no se pasa zona, inserta NULL para la zona
-            cursor.execute('''
-                INSERT INTO clasificaciones (liga_id, equipo_id, temporada, zona, pj, pg, pe, pp, gf, gc, dg, pts)
-                VALUES (?, ?, ?, NULL, ?, ?, ?, ?, ?, ?, ?, ?)
-                ON CONFLICT(liga_id, equipo_id, temporada) DO UPDATE SET
-                    zona = excluded.zona, -- Actualiza zona a NULL
-                    pj = excluded.pj,
-                    pg = excluded.pg,
-                    pe = excluded.pe,
-                    pp = excluded.pp,
-                    gf = excluded.gf,
-                    gc = excluded.gc,
-                    dg = excluded.dg,
-                    pts = excluded.pts
-            ''', (liga_id, equipo_id, temporada, pj, pg, pe, pp, gf, gc, dg, pts))
+        # Se ha modificado para que el ON CONFLICT también actualice la zona
+        cursor.execute('''
+            INSERT INTO clasificaciones (liga_id, equipo_id, temporada, zona, pj, pg, pe, pp, gf, gc, dg, pts)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            ON CONFLICT(liga_id, equipo_id, temporada) DO UPDATE SET
+                zona = excluded.zona,
+                pj = excluded.pj,
+                pg = excluded.pg,
+                pe = excluded.pe,
+                pp = excluded.pp,
+                gf = excluded.gf,
+                gc = excluded.gc,
+                dg = excluded.dg,
+                pts = excluded.pts
+        ''', (liga_id, equipo_id, temporada, zona_nombre, pj, pg, pe, pp, gf, gc, dg, pts))
         
         if close_conn: conn_actual.commit()
         return True
@@ -664,13 +722,14 @@ def reset_clasificacion_liga(liga_id, temporada, conn=None):
 
         for equipo in equipos:
             # Reinsertar o actualizar a 0, con zona en NULL
+            # Se ha modificado para que el ON CONFLICT también actualice la zona a NULL
             cursor.execute('''
                 INSERT INTO clasificaciones (liga_id, equipo_id, temporada, zona, pj, pg, pe, pp, gf, gc, dg, pts)
-                VALUES (?, ?, ?, NULL, 0, 0, 0, 0, 0, 0, 0, 0)
+                VALUES (?, ?, ?, ?, 0, 0, 0, 0, 0, 0, 0, 0)
                 ON CONFLICT(liga_id, equipo_id, temporada) DO UPDATE SET
-                    zona = NULL, -- Reinicia la zona a NULL
+                    zona = excluded.zona, -- Asegura que la zona se reinicie a NULL
                     pj = 0, pg = 0, pe = 0, pp = 0, gf = 0, gc = 0, dg = 0, pts = 0
-            ''', (liga_id, equipo['id'], temporada))
+            ''', (liga_id, equipo['id'], temporada, None)) # Pasar None explícitamente para la zona
         
         if close_conn: conn_actual.commit()
         return True
@@ -721,14 +780,15 @@ def get_jornada_by_numero(liga_id, temporada, numero_jornada, conn=None):
     _close_conn_if_created(conn_actual, close_conn)
     return dict(jornada) if jornada else None
 
-def add_partido(jornada_id, equipo_local_id, equipo_visitante_id, conn=None, zona=None):
+# MODIFICADA: Añadido tipo_partido a add_partido
+def add_partido(jornada_id, equipo_local_id, equipo_visitante_id, conn=None, zona=None, tipo_partido='liga'): #
     conn_actual, close_conn = _get_conn(conn)
     cursor = conn_actual.cursor()
     try:
         cursor.execute('''
-            INSERT OR IGNORE INTO partidos (jornada_id, equipo_local_id, equipo_visitante_id, simulado, zona)
-            VALUES (?, ?, ?, 0, ?)
-        ''', (jornada_id, equipo_local_id, equipo_visitante_id, zona))
+            INSERT OR IGNORE INTO partidos (jornada_id, equipo_local_id, equipo_visitante_id, simulado, zona, tipo_partido)
+            VALUES (?, ?, ?, 0, ?, ?)
+        ''', (jornada_id, equipo_local_id, equipo_visitante_id, zona, tipo_partido))
         if close_conn: conn_actual.commit()
         return cursor.lastrowid
     except sqlite3.Error as e:
@@ -799,6 +859,7 @@ def get_all_partidos_carrera(user_id, conn=None):
             j.fecha_simulacion AS fecha_partido,
             p.simulado AS jugado,
             p.zona, -- Seleccionar la zona
+            p.tipo_partido, -- Seleccionar tipo de partido
             c.equipo_id AS id_equipo_usuario
         FROM partidos p
         JOIN jornadas j ON p.jornada_id = j.id
@@ -850,7 +911,8 @@ def get_proximo_partido_tu_equipo(user_id, tu_equipo_id, dia_actual, conn=None):
             el.nombre AS equipo_local_nombre, el.nivel_general AS equipo_local_ovr,
             ev.nombre AS equipo_visitante_nombre, ev.nivel_general AS equipo_visitante_ovr,
             j.numero_jornada, j.id as jornada_db_id,
-            p.zona -- Seleccionar la zona
+            p.zona, -- Seleccionar la zona
+            p.tipo_partido -- Seleccionar tipo de partido
         FROM partidos p
         JOIN equipos el ON p.equipo_local_id = el.id
         JOIN equipos ev ON p.equipo_visitante_id = ev.id
@@ -907,7 +969,8 @@ def get_partido_pendiente(user_id, tu_equipo_id, fecha_str, conn=None):
             el.nombre AS equipo_local_nombre,
             ev.nombre AS equipo_visitante_nombre,
             j.numero_jornada, j.id as jornada_db_id,
-            p.zona -- Seleccionar la zona
+            p.zona, -- Seleccionar la zona
+            p.tipo_partido -- Seleccionar tipo de partido
         FROM partidos p
         JOIN jornadas j ON p.jornada_id = j.id
         JOIN equipos el ON p.equipo_local_id = el.id
@@ -946,7 +1009,8 @@ def get_partidos_por_dia(user_id, fecha_str, conn=None):
             el.nombre AS equipo_local_nombre,
             ev.nombre AS equipo_visitante_nombre,
             p.simulado,
-            p.zona -- Asegúrate de seleccionar la zona
+            p.zona, -- Asegúrate de seleccionar la zona
+            p.tipo_partido -- Seleccionar tipo de partido
         FROM partidos p
         JOIN jornadas j ON p.jornada_id = j.id
         JOIN equipos el ON p.equipo_local_id = el.id
@@ -980,27 +1044,3 @@ def delete_jornadas_y_partidos_liga_temporada(liga_id, temporada, conn=None):
         return False
     finally:
         _close_conn_if_created(conn_actual, close_conn)
-
-
-if __name__ == '__main__':
-    print("Inicializando base de datos para pruebas...")
-    init_db()
-    print("Base de datos de prueba lista. No se cargaron datos principales ni fixture completo.")
-
-    # Prueba de adición de liga con la nueva lógica de conexión
-    print("\n--- Prueba de adición de liga con manejo de conexión ---")
-    test_liga_id = get_liga_id("Liga Test Nueva")
-    if not test_liga_id:
-        test_liga_id = add_liga("Liga Test Nueva", "Testland", 2)
-        print(f"Liga Test Nueva añadida con ID: {test_liga_id}")
-    else:
-        print(f"Liga Test Nueva ya existe con ID: {test_liga_id}")
-
-    # Prueba de get_liga_by_id con y sin pasar conexión
-    liga_info_1 = get_liga_by_id(test_liga_id)
-    print(f"Liga info (sin conn): {liga_info_1['nombre'] if liga_info_1 else 'No encontrada'}")
-
-    conn_test = connect_db()
-    liga_info_2 = get_liga_by_id(test_liga_id, conn_test)
-    print(f"Liga info (con conn): {liga_info_2['nombre'] if liga_info_2 else 'No encontrada'}")
-    _close_conn_if_created(conn_test, True) # Usar la nueva función de cierre

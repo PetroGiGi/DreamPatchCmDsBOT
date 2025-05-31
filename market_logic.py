@@ -66,7 +66,8 @@ def activar_mercado_pases(usuario_id, duracion_dias=30):
 
 def es_mercado_abierto(usuario_id):
     """Verifica si el mercado de pases está abierto para una carrera."""
-    dias = database.get_dias_mercado_abierto(usuario_id) # Corregido: usar get_dias_mercado_abierto
+    dias = database.get_dias_mercado_abierto(usuario_id)
+    print(f"DEBUG: es_mercado_abierto para user_id {usuario_id}: Días restantes = {dias}") # AÑADE ESTA LÍNEA
     return dias > 0
 
 def intentar_fichar_jugador_ia(usuario_id, jugador_id, monto_oferta):
@@ -221,11 +222,86 @@ def simular_transferencias_ia_entre_ellos(liga_id):
     """
     noticias = []
     # Probabilidad de que haya transferencias IA-IA un día dado
-    if random.random() > 0.15: # Solo un 15% de probabilidad en un día dado
+    print(f"DEBUG IA-IA: Intentando simular transferencias en liga {liga_id}.") # NUEVO
+    if random.random() > 0.15:
+        print(f"DEBUG IA-IA: Salida temprana, probabilidad no cumplida.") # NUEVO
         return noticias
 
     equipos_en_liga = database.get_equipos_by_liga(liga_id)
+    if not equipos_en_liga:
+        print(f"DEBUG IA-IA: No hay equipos en liga {liga_id} para simular.") # NUEVO
+        return noticias
+
+    print(f"DEBUG IA-IA: Encontrados {len(equipos_en_liga)} equipos en liga {liga_id}.") # NUEVO
+
     random.shuffle(equipos_en_liga) # Mezclar para no favorecer a nadie
+
+    for i, (equipo_comprador) in enumerate(equipos_en_liga): # Iterar directamente sobre los equipos
+        print(f"DEBUG IA-IA: Equipo comprador: {equipo_comprador['nombre']} (ID: {equipo_comprador['id']})") # NUEVO
+        if random.random() > 0.3:
+            print(f"DEBUG IA-IA: {equipo_comprador['nombre']} decidió no intentar fichar.") # NUEVO
+            continue
+
+        jugador_target = None
+        equipo_vendedor = None # Inicializar
+        for j_attempt in range(5):
+            # Asegúrate de que equipo_vendedor sea diferente a equipo_comprador
+            temp_equipos_vendedores = [e for e in equipos_en_liga if e['id'] != equipo_comprador['id']]
+            if not temp_equipos_vendedores:
+                print(f"DEBUG IA-IA: No hay equipos vendedores disponibles para {equipo_comprador['nombre']}.")
+                break # No hay otros equipos para comprar
+            equipo_vendedor = random.choice(temp_equipos_vendedores)
+            print(f"DEBUG IA-IA: {equipo_comprador['nombre']} considera comprar de {equipo_vendedor['nombre']}.") # NUEVO
+
+            jugadores_vendedor = database.get_jugadores_por_equipo(equipo_vendedor['id'])
+            if not jugadores_vendedor:
+                print(f"DEBUG IA-IA: {equipo_vendedor['nombre']} no tiene jugadores.") # NUEVO
+                continue
+
+            jugador_target = random.choice(jugadores_vendedor)
+            jugador_target_details = database.get_jugador_by_id(jugador_target['id'])
+            print(f"DEBUG IA-IA: Jugador target: {jugador_target_details['nombre']} (OVR: {jugador_target_details['valoracion']})") # NUEVO
+
+            if jugador_target_details['equipo_id'] is None:
+                print(f"DEBUG IA-IA: Jugador {jugador_target_details['nombre']} está libre, saltando.") # NUEVO
+                jugador_target = None # Marcar como no válido
+                continue
+
+            if jugador_target_details['valoracion'] > (equipo_vendedor['nivel_general'] + 5) and random.random() > 0.7:
+                print(f"DEBUG IA-IA: {equipo_vendedor['nombre']} no quiere vender a {jugador_target_details['nombre']} (demasiado bueno).") # NUEVO
+                jugador_target = None
+                continue
+
+            print(f"DEBUG IA-IA: Encontrado jugador válido: {jugador_target_details['nombre']} del {equipo_vendedor['nombre']}.") # NUEVO
+            break # Encontramos un jugador
+
+        if not jugador_target:
+            print(f"DEBUG IA-IA: No se encontró un jugador adecuado para {equipo_comprador['nombre']} después de 5 intentos.") # NUEVO
+            continue
+
+        valor_mercado = calcular_valor_mercado(jugador_target_details)
+        oferta_monto = int(valor_mercado * random.uniform(0.8, 1.3))
+        print(f"DEBUG IA-IA: Oferta de {equipo_comprador['nombre']} por {jugador_target_details['nombre']}: {format_money(oferta_monto)} (VM: {format_money(valor_mercado)})") # NUEVO
+
+        prob_aceptacion_vendedor = 0.0
+        if oferta_monto >= valor_mercado * 1.2: prob_aceptacion_vendedor = 0.9
+        elif oferta_monto >= valor_mercado * 1.0: prob_aceptacion_vendedor = 0.6
+        elif oferta_monto >= valor_mercado * 0.9: prob_aceptacion_vendedor = 0.3
+        else: prob_aceptacion_vendedor = 0.1
+
+        actual_random_roll = random.random() # Captura el valor aleatorio para el debug
+        print(f"DEBUG IA-IA: Probabilidad de aceptación por {equipo_vendedor['nombre']}: {prob_aceptacion_vendedor*100:.2f}%. Roll: {actual_random_roll:.4f}") # NUEVO
+
+        if actual_random_roll < prob_aceptacion_vendedor:
+            print(f"DEBUG IA-IA: ¡Oferta aceptada! {jugador_target_details['nombre']} se mueve de {equipo_vendedor['nombre']} a {equipo_comprador['nombre']}.") # NUEVO
+            transferencia_exitosa = database.update_jugador_equipo(jugador_target_details['id'], equipo_comprador['id'])
+            if transferencia_exitosa:
+                noticias.append(f"**¡BOMBAZO EN EL MERCADO!** El **{equipo_comprador['nombre']}** ha fichado a **{jugador_target_details['nombre']}** ({jugador_target_details['posicion']} OVR:{jugador_target_details['valoracion']}) del **{equipo_vendedor['nombre']}** por **{format_money(oferta_monto)}**.")
+            else:
+                print(f"DEBUG: Falló la actualización DB para transferencia IA: {jugador_target_details['nombre']} a {equipo_comprador['nombre']}")
+        else:
+            print(f"DEBUG IA-IA: Oferta rechazada por {equipo_vendedor['nombre']}.") # NUEVO
+
 
     # Ojo: Aquí es donde podríamos filtrar el equipo del usuario si no queremos que participe en IA-IA
     # Pero si el usuario es el único equipo activo, esto es para la liga en general.
@@ -245,7 +321,7 @@ def simular_transferencias_ia_entre_ellos(liga_id):
         # Si no, asumimos que este módulo solo afecta a equipos IA.
 
         # Oportunidad de que un equipo IA intente fichar
-        if random.random() > 0.3: # 70% de chance de que un equipo IA intente fichar
+        if random.random() > 0.1: # 70% de chance de que un equipo IA intente fichar
             continue
 
         # Identificar una necesidad del equipo comprador (simplificado por ahora)

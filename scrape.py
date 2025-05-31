@@ -60,7 +60,7 @@ def scrape_brasileirao():
     base_url = "https://www.transfermarkt.es"
     # Mantener en 2025 si la liga principal de Transfermarkt ya muestra datos de 2025.
     # Si sigue fallando, prueba a volver a 2024 aquí también.
-    liga_url = f"{base_url}/primera-nacional/startseite/wettbewerb/ARG2/plus/?saison_id=2025" 
+    liga_url = f"{base_url}/premier-league/startseite/wettbewerb/GB1/plus/?saison_id=2024"
 
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
@@ -241,9 +241,9 @@ if __name__ == "__main__":
     
     if player_lines:
         # CAMBIO CRÍTICO AQUÍ: Cambiar 'w' (write) a 'a' (append)
-        with open('bnacional_players.txt', 'a', encoding='utf-8') as f: #
+        with open('premierleague_players.txt', 'a', encoding='utf-8') as f: #
             for line in player_lines:
                 f.write(line + '\n')
-        print(f"\nDatos del Brasileirão AGREGADOS a bnacional_players.txt con {len(player_lines)} jugadores.")
+        print(f"\nDatos de PremierLeague AGREGADOS a premierleague_players.txt con {len(player_lines)} jugadores.")
     else:
         print("No se encontraron datos de jugadores para AGREGAR.")

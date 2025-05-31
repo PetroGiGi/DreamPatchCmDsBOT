@@ -445,39 +445,39 @@ Marcos Echeverría, Delantero centro, 21, Argentina, CA Atlanta
 Jonathan Bauman, Delantero centro, 34, Argentina, CA Atlanta
 Érik Bodencer, Delantero centro, 25, Argentina, CA Atlanta
 Cristian Cuenca, Delantero centro, 24, Argentina, CA Atlanta
-Jerónimo Pourtau, Portero, 25, Argentina, Arsenal FC
-Franco Herrera, Portero, 21, Argentina, Arsenal FC
-Iván Cabrera, Defensa central, 22, Argentina, Arsenal FC
-Balthazar Bernardi, Defensa central, 23, Argentina, Arsenal FC
-Alexis Sosa, Defensa central, 25, Argentina, Arsenal FC
-Nazareno Roselli, Defensa central, 18, Argentina, Arsenal FC
-Ramiro Cáceres, Defensa central, 20, Argentina, Arsenal FC
-Agustín Álvarez, Defensa central, 21, Argentina, Arsenal FC
-Manuel Cocca, Defensa central, 22, Argentina, Arsenal FC
-Gonzalo Rocaniere, Defensa central, 37, Argentina, Arsenal FC
-Emiliano Purita, Lateral derecho, 28, Argentina, Arsenal FC
-Matías Vera, Lateral derecho, 26, Argentina, Arsenal FC
-Abel Amaya, Lateral derecho, 22, Argentina, Arsenal FC
-Andrés Ayala, Pivote, 25, Argentina, Arsenal FC
-Julián Vila, Pivote, 24, Argentina, Arsenal FC
-Matías Abbruzzesse, Centrocampista, 24, Argentina, Arsenal FC
-Nahuel Frascone, Mediocentro, 22, Argentina, Arsenal FC
-Matteo Trombini, Mediocentro, 22, Italia, Arsenal FC
-Talo Colletta, Mediocentro, 22, Argentina, Arsenal FC
-Matías Lucero, Interior derecho, 21, Argentina, Arsenal FC
-Valentín Serrano, Interior izquierdo, 21, Argentina, Arsenal FC
-Esteban Fernández, Mediocentro ofensivo, 23, Argentina, Arsenal FC
-Juan Pablo Krilanovich, Mediocentro ofensivo, 23, Argentina, Arsenal FC
-Matías Flores, Mediocentro ofensivo, 24, México, Arsenal FC
-Facundo Brestt, Mediocentro ofensivo, 21, Argentina, Arsenal FC
-Ángel Stringa, Extremo izquierdo, 29, Argentina, Arsenal FC
-Claudio Villagra, Extremo derecho, 29, Argentina, Arsenal FC
-Ignacio Sabatini, Extremo derecho, 25, Argentina, Arsenal FC
-Ciro Rius, Extremo derecho, 36, Argentina, Arsenal FC
-Fabián Bordagaray, Extremo derecho, 38, Argentina, Arsenal FC
-Facundo Echevarría, Delantero centro, 22, Argentina, Arsenal FC
-Manuel López, Delantero centro, 21, Argentina, Arsenal FC
-Gonzalo Klusener, Delantero centro, 41, Argentina, Arsenal FC
+Jerónimo Pourtau, Portero, 25, Argentina, Arsenal (Sarandí)
+Franco Herrera, Portero, 21, Argentina, Arsenal (Sarandí)
+Iván Cabrera, Defensa central, 22, Argentina, Arsenal (Sarandí)
+Balthazar Bernardi, Defensa central, 23, Argentina, Arsenal (Sarandí)
+Alexis Sosa, Defensa central, 25, Argentina, Arsenal (Sarandí)
+Nazareno Roselli, Defensa central, 18, Argentina, Arsenal (Sarandí)
+Ramiro Cáceres, Defensa central, 20, Argentina, Arsenal (Sarandí)
+Agustín Álvarez, Defensa central, 21, Argentina, Arsenal (Sarandí)
+Manuel Cocca, Defensa central, 22, Argentina, Arsenal (Sarandí)
+Gonzalo Rocaniere, Defensa central, 37, Argentina, Arsenal (Sarandí)
+Emiliano Purita, Lateral derecho, 28, Argentina, Arsenal (Sarandí)
+Matías Vera, Lateral derecho, 26, Argentina, Arsenal (Sarandí)
+Abel Amaya, Lateral derecho, 22, Argentina, Arsenal (Sarandí)
+Andrés Ayala, Pivote, 25, Argentina, Arsenal (Sarandí)
+Julián Vila, Pivote, 24, Argentina, Arsenal (Sarandí)
+Matías Abbruzzesse, Centrocampista, 24, Argentina, Arsenal (Sarandí)
+Nahuel Frascone, Mediocentro, 22, Argentina, Arsenal (Sarandí)
+Matteo Trombini, Mediocentro, 22, Italia, Arsenal (Sarandí)
+Talo Colletta, Mediocentro, 22, Argentina, Arsenal (Sarandí)
+Matías Lucero, Interior derecho, 21, Argentina, Arsenal (Sarandí)
+Valentín Serrano, Interior izquierdo, 21, Argentina, Arsenal (Sarandí)
+Esteban Fernández, Mediocentro ofensivo, 23, Argentina, Arsenal (Sarandí)
+Juan Pablo Krilanovich, Mediocentro ofensivo, 23, Argentina, Arsenal (Sarandí)
+Matías Flores, Mediocentro ofensivo, 24, México, Arsenal (Sarandí)
+Facundo Brestt, Mediocentro ofensivo, 21, Argentina, Arsenal (Sarandí)
+Ángel Stringa, Extremo izquierdo, 29, Argentina, Arsenal (Sarandí)
+Claudio Villagra, Extremo derecho, 29, Argentina, Arsenal (Sarandí)
+Ignacio Sabatini, Extremo derecho, 25, Argentina, Arsenal (Sarandí)
+Ciro Rius, Extremo derecho, 36, Argentina, Arsenal (Sarandí)
+Fabián Bordagaray, Extremo derecho, 38, Argentina, Arsenal (Sarandí)
+Facundo Echevarría, Delantero centro, 22, Argentina, Arsenal (Sarandí)
+Manuel López, Delantero centro, 21, Argentina, Arsenal (Sarandí)
+Gonzalo Klusener, Delantero centro, 41, Argentina, Arsenal (Sarandí)
 Tomás Giménez, Portero, 26, Argentina, CA Colón
 Marcos Díaz, Portero, 39, Argentina, CA Colón
 Guillermo Ortiz, Defensa central, 32, Argentina, CA Colón

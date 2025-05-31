@@ -1,0 +1,500 @@
+Paulo Gazzaniga, Portero, 33, Argentina, Girona FC
+Vladyslav Krapyvtsov, Portero, 19, Ucrania, Girona FC
+Juan Carlos, Portero, 37, España, Girona FC
+Ladislav Krejci, Defensa central, 26, República Checa, Girona FC
+David López, Defensa central, 35, España, Girona FC
+Daley Blind, Defensa central, 35, Países Bajos, Girona FC
+Juanpe, Defensa central, 34, España, Girona FC
+Miguel Gutiérrez, Lateral izquierdo, 23, España, Girona FC
+Arnau Martínez, Lateral derecho, 22, España, Girona FC
+Alejandro Francés, Lateral derecho, 22, España, Girona FC
+Arthur Melo, Pivote, 28, Brasil, Girona FC
+Oriol Romeu, Pivote, 33, España, Girona FC
+Yangel Herrera, Mediocentro, 27, Venezuela, Girona FC
+Donny van de Beek, Mediocentro, 28, Países Bajos, Girona FC
+Jhon Solís, Mediocentro, 20, Colombia, Girona FC
+Iván Martín, Mediocentro ofensivo, 26, España, Girona FC
+Gabriel Misehouy, Mediocentro ofensivo, 19, Países Bajos, Girona FC
+Bryan Gil, Extremo izquierdo, 24, España, Girona FC
+Arnaut Danjuma, Extremo izquierdo, 28, Países Bajos, Girona FC
+Min-su Kim, Extremo izquierdo, 19, Corea del Sur, Girona FC
+Viktor Tsygankov, Extremo derecho, 27, Ucrania, Girona FC
+Yáser Asprilla, Extremo derecho, 21, Colombia, Girona FC
+Portu, Extremo derecho, 33, España, Girona FC
+Abel Ruiz, Delantero centro, 25, España, Girona FC
+Bojan Miovski, Delantero centro, 25, Macedonia del Norte, Girona FC
+Cristhian Stuani, Delantero centro, 38, Uruguay, Girona FC
+Unai Simón, Portero, 27, España, Athletic Club
+Julen Agirrezabala, Portero, 24, España, Athletic Club
+Dani Vivian, Defensa central, 25, España, Athletic Club
+Aitor Paredes, Defensa central, 25, España, Athletic Club
+Yeray Álvarez, Defensa central, 30, España, Athletic Club
+Unai Núñez, Defensa central, 28, España, Athletic Club
+Adama Boiro, Lateral izquierdo, 22, España, Athletic Club
+Yuri Berchiche, Lateral izquierdo, 35, España, Athletic Club
+Andoni Gorosabel, Lateral derecho, 28, España, Athletic Club
+Iñigo Lekue, Lateral derecho, 32, España, Athletic Club
+Óscar de Marcos, Lateral derecho, 36, España, Athletic Club
+Mikel Vesga, Pivote, 32, España, Athletic Club
+Mikel Jauregizar, Mediocentro, 21, España, Athletic Club
+Beñat Prados, Mediocentro, 24, España, Athletic Club
+Iñigo Ruiz de Galarreta, Mediocentro, 31, España, Athletic Club
+Oihan Sancet, Mediocentro ofensivo, 25, España, Athletic Club
+Unai Gómez, Mediocentro ofensivo, 22, España, Athletic Club
+Peio Canales, Mediocentro ofensivo, 20, España, Athletic Club
+Nico Williams, Extremo izquierdo, 22, España, Athletic Club
+Álex Berenguer, Extremo izquierdo, 29, España, Athletic Club
+Álvaro Djaló, Extremo izquierdo, 25, España, Athletic Club
+Iñaki Williams, Extremo derecho, 30, Ghana, Athletic Club
+Gorka Guruzeta, Delantero centro, 28, España, Athletic Club
+Maroan Sannadi, Delantero centro, 24, Marruecos, Athletic Club
+Dinko Horkas, Portero, 26, Croacia, UD Las Palmas
+Jasper Cillessen, Portero, 36, Países Bajos, UD Las Palmas
+Mika Mármol, Defensa central, 23, España, UD Las Palmas
+Scott McKenna, Defensa central, 28, Escocia, UD Las Palmas
+Juanma Herzog, Defensa central, 21, España, UD Las Palmas
+Alex Suárez, Defensa central, 32, España, UD Las Palmas
+Álex Muñoz, Lateral izquierdo, 30, España, UD Las Palmas
+Andy Pelmard, Lateral derecho, 25, Francia, UD Las Palmas
+Viti Rozada, Lateral derecho, 27, España, UD Las Palmas
+Marvin Park, Lateral derecho, 24, España, UD Las Palmas
+Dário Essugo, Pivote, 20, Portugal, UD Las Palmas
+Stefan Bajcetic, Pivote, 20, España, UD Las Palmas
+Javi Muñoz, Mediocentro, 30, España, UD Las Palmas
+Enzo Loiodice, Mediocentro, 24, Francia, UD Las Palmas
+José Campaña, Mediocentro, 32, España, UD Las Palmas
+Kirian Rodríguez, Mediocentro ofensivo, 29, España, UD Las Palmas
+Alberto Moleiro, Extremo izquierdo, 21, España, UD Las Palmas
+Manu Fuster, Extremo izquierdo, 27, España, UD Las Palmas
+Benito Ramírez, Extremo izquierdo, 29, España, UD Las Palmas
+Adnan Januzaj, Extremo derecho, 30, Bélgica, UD Las Palmas
+Fábio Silva, Delantero centro, 22, Portugal, UD Las Palmas
+Oli McBurnie, Delantero centro, 28, Escocia, UD Las Palmas
+Sandro Ramírez, Delantero centro, 29, España, UD Las Palmas
+Marc Cardona, Delantero centro, 29, España, UD Las Palmas
+Jaime Mata, Delantero centro, 36, España, UD Las Palmas
+Sergio Herrera, Portero, 31, España, CA Osasuna
+Aitor Fernández, Portero, 34, España, CA Osasuna
+Enzo Boyomo, Defensa central, 23, Camerún, CA Osasuna
+Jorge Herrando, Defensa central, 24, España, CA Osasuna
+Alejandro Catena, Defensa central, 30, España, CA Osasuna
+Unai García, Defensa central, 33, España, CA Osasuna
+Abel Bretones, Lateral izquierdo, 24, España, CA Osasuna
+Juan Cruz, Lateral izquierdo, 32, España, CA Osasuna
+Jesús Areso, Lateral derecho, 25, España, CA Osasuna
+Rubén Peña, Lateral derecho, 33, España, CA Osasuna
+Lucas Torró, Pivote, 30, España, CA Osasuna
+Iker Muñoz, Pivote, 22, España, CA Osasuna
+Jon Moncayola, Mediocentro, 27, España, CA Osasuna
+Pablo Ibáñez, Mediocentro, 26, España, CA Osasuna
+Aimar Oroz, Mediocentro ofensivo, 23, España, CA Osasuna
+Bryan Zaragoza, Extremo izquierdo, 23, España, CA Osasuna
+Moi Gómez, Extremo izquierdo, 30, España, CA Osasuna
+José Manuel Arnáiz, Extremo izquierdo, 30, España, CA Osasuna
+Rubén García, Extremo derecho, 31, España, CA Osasuna
+Kike Barja, Extremo derecho, 28, España, CA Osasuna
+Ante Budimir, Delantero centro, 33, Croacia, CA Osasuna
+Raúl García, Delantero centro, 24, España, CA Osasuna
+Marc-André ter Stegen, Portero, 33, Alemania, FC Barcelona
+Iñaki Peña, Portero, 26, España, FC Barcelona
+Wojciech Szczesny, Portero, 35, Polonia, FC Barcelona
+Pau Cubarsí, Defensa central, 18, España, FC Barcelona
+Ronald Araujo, Defensa central, 26, Uruguay, FC Barcelona
+Andreas Christensen, Defensa central, 29, Dinamarca, FC Barcelona
+Eric García, Defensa central, 24, España, FC Barcelona
+Iñigo Martínez, Defensa central, 34, España, FC Barcelona
+Alejandro Balde, Lateral izquierdo, 21, España, FC Barcelona
+Gerard Martín, Lateral izquierdo, 23, España, FC Barcelona
+Jules Koundé, Lateral derecho, 26, Francia, FC Barcelona
+Héctor Fort, Lateral derecho, 18, España, FC Barcelona
+Marc Casadó, Pivote, 21, España, FC Barcelona
+Marc Bernal, Pivote, 18, España, FC Barcelona
+Pedri, Mediocentro, 22, España, FC Barcelona
+Gavi, Mediocentro, 20, España, FC Barcelona
+Frenkie de Jong, Mediocentro, 28, Países Bajos, FC Barcelona
+Dani Olmo, Mediocentro ofensivo, 27, España, FC Barcelona
+Fermín López, Mediocentro ofensivo, 22, España, FC Barcelona
+Pablo Torre, Mediocentro ofensivo, 22, España, FC Barcelona
+Raphinha, Extremo izquierdo, 28, Brasil, FC Barcelona
+Ansu Fati, Extremo izquierdo, 22, España, FC Barcelona
+Lamine Yamal, Extremo derecho, 17, España, FC Barcelona
+Ferran Torres, Delantero centro, 25, España, FC Barcelona
+Robert Lewandowski, Delantero centro, 36, Polonia, FC Barcelona
+Pau Víctor, Delantero centro, 23, España, FC Barcelona
+Álvaro Fernández, Portero, 27, España, Sevilla FC
+Ørjan Nyland, Portero, 34, Noruega, Sevilla FC
+Loïc Badé, Defensa central, 25, Francia, Sevilla FC
+Kike Salas, Defensa central, 23, España, Sevilla FC
+Marcão, Defensa central, 28, Brasil, Sevilla FC
+Tanguy Nianzou, Defensa central, 22, Francia, Sevilla FC
+Ramón Martínez, Defensa central, 22, España, Sevilla FC
+Adrià Pedrosa, Lateral izquierdo, 27, España, Sevilla FC
+José Ángel Carmona, Lateral derecho, 23, España, Sevilla FC
+Juanlu Sánchez, Lateral derecho, 21, España, Sevilla FC
+Lucien Agoumé, Pivote, 23, Francia, Sevilla FC
+Nemanja Gudelj, Pivote, 33, Serbia, Sevilla FC
+Albert Sambi Lokonga, Mediocentro, 25, Bélgica, Sevilla FC
+Djibril Sow, Mediocentro, 28, Suiza, Sevilla FC
+Saúl Ñíguez, Mediocentro, 30, España, Sevilla FC
+Manu Bueno, Mediocentro, 20, España, Sevilla FC
+Stanis Idumbo, Mediocentro ofensivo, 19, Bélgica, Sevilla FC
+Rubén Vargas, Extremo izquierdo, 26, Suiza, Sevilla FC
+Chidera Ejuke, Extremo izquierdo, 27, Nigeria, Sevilla FC
+Dodi Lukébakio, Extremo derecho, 27, Bélgica, Sevilla FC
+Suso, Extremo derecho, 31, España, Sevilla FC
+Peque Fernández, Mediapunta, 22, España, Sevilla FC
+Isaac Romero, Delantero centro, 25, España, Sevilla FC
+Akor Adams, Delantero centro, 25, Nigeria, Sevilla FC
+Kelechi Iheanacho, Delantero centro, 28, Nigeria, Sevilla FC
+García Pascual, Delantero centro, 22, España, Sevilla FC
+Joan García, Portero, 24, España, RCD Espanyol
+Fernando Pacheco, Portero, 33, España, RCD Espanyol
+Ángel Fortuño, Portero, 23, España, RCD Espanyol
+Marash Kumbulla, Defensa central, 25, Albania, RCD Espanyol
+Fernando Calero, Defensa central, 29, España, RCD Espanyol
+Leandro Cabrera, Defensa central, 33, Uruguay, RCD Espanyol
+Sergi Gómez, Defensa central, 33, España, RCD Espanyol
+Pablo Ramón, Defensa central, 23, España, RCD Espanyol
+Carlos Romero, Lateral izquierdo, 23, España, RCD Espanyol
+Brian Oliván, Lateral izquierdo, 31, España, RCD Espanyol
+Omar El Hilali, Lateral derecho, 21, Marruecos, RCD Espanyol
+Álvaro Tejero, Lateral derecho, 28, España, RCD Espanyol
+Urko González de Zárate, Pivote, 24, España, RCD Espanyol
+Alex Král, Mediocentro, 27, República Checa, RCD Espanyol
+Pol Lozano, Mediocentro, 25, España, RCD Espanyol
+José Gragera, Mediocentro, 25, España, RCD Espanyol
+Álvaro Aguado, Mediocentro, 29, España, RCD Espanyol
+Edu Expósito, Mediocentro, 28, España, RCD Espanyol
+Justin Smith, Mediocentro, 22, Canadá, RCD Espanyol
+Rafel Bauzà, Mediocentro, 20, España, RCD Espanyol
+Javi Puado, Extremo izquierdo, 27, España, RCD Espanyol
+Pere Milla, Extremo izquierdo, 32, España, RCD Espanyol
+Jofre Carreras, Extremo derecho, 23, España, RCD Espanyol
+Antoniu Roca, Extremo derecho, 22, España, RCD Espanyol
+Roberto Fernández, Delantero centro, 22, España, RCD Espanyol
+Walid Cheddira, Delantero centro, 27, Marruecos, RCD Espanyol
+Alejo Veliz, Delantero centro, 21, Argentina, RCD Espanyol
+Omar Sadik, Delantero centro, 21, Marruecos, RCD Espanyol
+Iván Villar, Portero, 27, España, RC Celta de Vigo
+Vicente Guaita, Portero, 38, España, RC Celta de Vigo
+Javi Rodríguez, Defensa central, 21, España, RC Celta de Vigo
+Carl Starfelt, Defensa central, 29, Suecia, RC Celta de Vigo
+Carlos Domínguez, Defensa central, 24, España, RC Celta de Vigo
+Yoel Lago, Defensa central, 21, España, RC Celta de Vigo
+Marcos Alonso, Lateral izquierdo, 34, España, RC Celta de Vigo
+Mihailo Ristic, Lateral izquierdo, 29, Serbia, RC Celta de Vigo
+Óscar Mingueza, Lateral derecho, 26, España, RC Celta de Vigo
+Sergio Carreira, Lateral derecho, 24, España, RC Celta de Vigo
+Javier Manquillo, Lateral derecho, 31, España, RC Celta de Vigo
+Damián Rodríguez, Pivote, 22, España, RC Celta de Vigo
+Jailson, Pivote, 29, Brasil, RC Celta de Vigo
+Fran Beltrán, Mediocentro, 26, España, RC Celta de Vigo
+Hugo Sotelo, Mediocentro, 21, España, RC Celta de Vigo
+Ilaix Moriba, Mediocentro, 22, Guinea, RC Celta de Vigo
+Hugo Álvarez, Extremo izquierdo, 21, España, RC Celta de Vigo
+Williot Swedberg, Extremo izquierdo, 21, Suecia, RC Celta de Vigo
+Alfon González, Extremo izquierdo, 26, España, RC Celta de Vigo
+Franco Cervi, Extremo izquierdo, 31, Argentina, RC Celta de Vigo
+Fer López, Extremo derecho, 21, España, RC Celta de Vigo
+Iker Losada, Mediapunta, 23, España, RC Celta de Vigo
+Pablo Durán, Delantero centro, 24, España, RC Celta de Vigo
+Borja Iglesias, Delantero centro, 32, España, RC Celta de Vigo
+Iago Aspas, Delantero centro, 37, España, RC Celta de Vigo
+Thibaut Courtois, Portero, 33, Bélgica, Real Madrid CF
+Andriy Lunin, Portero, 26, Ucrania, Real Madrid CF
+Fran González, Portero, 19, España, Real Madrid CF
+Éder Militão, Defensa central, 27, Brasil, Real Madrid CF
+Raúl Asencio, Defensa central, 22, España, Real Madrid CF
+Antonio Rüdiger, Defensa central, 32, Alemania, Real Madrid CF
+David Alaba, Defensa central, 32, Austria, Real Madrid CF
+Jesús Vallejo, Defensa central, 28, España, Real Madrid CF
+Ferland Mendy, Lateral izquierdo, 29, Francia, Real Madrid CF
+Fran García, Lateral izquierdo, 25, España, Real Madrid CF
+Daniel Carvajal, Lateral derecho, 33, España, Real Madrid CF
+Lucas Vázquez, Lateral derecho, 33, España, Real Madrid CF
+Aurélien Tchouaméni, Pivote, 25, Francia, Real Madrid CF
+Federico Valverde, Mediocentro, 26, Uruguay, Real Madrid CF
+Eduardo Camavinga, Mediocentro, 22, Francia, Real Madrid CF
+Dani Ceballos, Mediocentro, 28, España, Real Madrid CF
+Luka Modrić, Mediocentro, 39, Croacia, Real Madrid CF
+Jude Bellingham, Mediocentro ofensivo, 21, Inglaterra, Real Madrid CF
+Vinicius Junior, Extremo izquierdo, 24, Brasil, Real Madrid CF
+Rodrygo, Extremo derecho, 24, Brasil, Real Madrid CF
+Arda Güler, Extremo derecho, 20, Turquía, Real Madrid CF
+Brahim Díaz, Extremo derecho, 25, Marruecos, Real Madrid CF
+Kylian Mbappé, Delantero centro, 26, Francia, Real Madrid CF
+Endrick, Delantero centro, 18, Brasil, Real Madrid CF
+Álex Remiro, Portero, 30, España, Real Sociedad
+Unai Marrero, Portero, 23, España, Real Sociedad
+Nayef Aguerd, Defensa central, 29, Marruecos, Real Sociedad
+Igor Zubeldia, Defensa central, 28, España, Real Sociedad
+Jon Pacheco, Defensa central, 24, España, Real Sociedad
+Aritz Elustondo, Defensa central, 31, España, Real Sociedad
+Jon Martín, Defensa central, 19, España, Real Sociedad
+Javi López, Lateral izquierdo, 23, España, Real Sociedad
+Aihen Muñoz, Lateral izquierdo, 27, España, Real Sociedad
+Jon Aramburu, Lateral derecho, 22, Venezuela, Real Sociedad
+Hamari Traoré, Lateral derecho, 33, Malí, Real Sociedad
+Álvaro Odriozola, Lateral derecho, 29, España, Real Sociedad
+Martín Zubimendi, Pivote, 26, España, Real Sociedad
+Luka Sucic, Mediocentro, 22, Croacia, Real Sociedad
+Beñat Turrientes, Mediocentro, 23, España, Real Sociedad
+Jon Ander Olasagasti, Mediocentro, 24, España, Real Sociedad
+Brais Méndez, Mediocentro ofensivo, 28, España, Real Sociedad
+Arsen Zakharyan, Mediocentro ofensivo, 22, Rusia, Real Sociedad
+Pablo Marín, Mediocentro ofensivo, 21, España, Real Sociedad
+Sergio Gómez, Extremo izquierdo, 24, España, Real Sociedad
+Ander Barrenetxea, Extremo izquierdo, 23, España, Real Sociedad
+Sheraldo Becker, Extremo izquierdo, 30, Surinam, Real Sociedad
+Arkaitz Mariezkurrena, Extremo izquierdo, 20, España, Real Sociedad
+Takefusa Kubo, Extremo derecho, 23, Japón, Real Sociedad
+Mikel Oyarzabal, Delantero centro, 28, España, Real Sociedad
+Orri Óskarsson, Delantero centro, 20, Islandia, Real Sociedad
+Giorgi Mamardashvili, Portero, 24, Georgia, Valencia CF
+Stole Dimitrievski, Portero, 31, Macedonia del Norte, Valencia CF
+Jaume Doménech, Portero, 34, España, Valencia CF
+Cristhian Mosquera, Defensa central, 20, España, Valencia CF
+Yarek Gasiorowski, Defensa central, 20, España, Valencia CF
+César Tárrega, Defensa central, 23, España, Valencia CF
+Mouctar Diakhaby, Defensa central, 28, Guinea, Valencia CF
+José Gayà, Lateral izquierdo, 30, España, Valencia CF
+Jesús Vázquez, Lateral izquierdo, 22, España, Valencia CF
+Max Aarons, Lateral derecho, 25, Inglaterra, Valencia CF
+Thierry Correia, Lateral derecho, 26, Portugal, Valencia CF
+Dimitri Foulquier, Lateral derecho, 32, Guadalupe, Valencia CF
+Pepelu, Pivote, 26, España, Valencia CF
+Enzo Barrenechea, Pivote, 24, Argentina, Valencia CF
+Hugo Guillamón, Pivote, 25, España, Valencia CF
+Javi Guerra, Mediocentro, 22, España, Valencia CF
+André Almeida, Mediocentro ofensivo, 25, Portugal, Valencia CF
+Iván Jaime, Mediocentro ofensivo, 24, España, Valencia CF
+Martín Tejón, Mediocentro ofensivo, 21, España, Valencia CF
+Luis Rioja, Extremo izquierdo, 31, España, Valencia CF
+Sergi Canós, Extremo izquierdo, 28, España, Valencia CF
+Diego López, Extremo derecho, 23, España, Valencia CF
+Fran Pérez, Extremo derecho, 22, España, Valencia CF
+Hugo Duro, Delantero centro, 25, España, Valencia CF
+Umar Sadiq, Delantero centro, 28, Nigeria, Valencia CF
+Rafa Mir, Delantero centro, 27, España, Valencia CF
+Juan Soriano, Portero, 27, España, CD Leganés
+Marko Dmitrovic, Portero, 33, Serbia, CD Leganés
+Sergio González, Defensa central, 33, España, CD Leganés
+Jorge Sáenz, Defensa central, 28, España, CD Leganés
+Matija Nastasić, Defensa central, 32, Serbia, CD Leganés
+Javi Hernández, Lateral izquierdo, 27, España, CD Leganés
+Enric Franquesa, Lateral izquierdo, 28, España, CD Leganés
+Borna Barisic, Lateral izquierdo, 32, Croacia, CD Leganés
+Valentin Rosier, Lateral derecho, 28, Francia, CD Leganés
+Adrià Altimira, Lateral derecho, 24, España, CD Leganés
+Renato Tapia, Pivote, 29, Perú, CD Leganés
+Yvan Neyou, Pivote, 28, Camerún, CD Leganés
+Julián Chicco, Pivote, 27, Argentina, CD Leganés
+Seydouba Cissé, Mediocentro, 24, Guinea, CD Leganés
+Darko Brasanac, Mediocentro, 33, Serbia, CD Leganés
+Óscar Rodríguez, Mediocentro ofensivo, 26, España, CD Leganés
+Roberto López, Mediocentro ofensivo, 25, España, CD Leganés
+Juan Cruz, Extremo izquierdo, 25, España, CD Leganés
+Duk, Extremo izquierdo, 25, Cabo Verde, CD Leganés
+Yan Diomande, Extremo izquierdo, 18, Costa de Marfil, CD Leganés
+Dani Raba, Extremo derecho, 29, España, CD Leganés
+Munir El Haddadi, Extremo derecho, 29, Marruecos, CD Leganés
+Miguel de la Fuente, Delantero centro, 25, España, CD Leganés
+Diego García, Delantero centro, 25, España, CD Leganés
+Augusto Batalla, Portero, 29, Argentina, Rayo Vallecano
+Dani Cárdenas, Portero, 28, España, Rayo Vallecano
+Abdul Mumin, Defensa central, 26, Ghana, Rayo Vallecano
+Florian Lejeune, Defensa central, 34, Francia, Rayo Vallecano
+Pelayo Fernández, Defensa central, 22, España, Rayo Vallecano
+Aridane Hernández, Defensa central, 36, España, Rayo Vallecano
+Pep Chavarría, Lateral izquierdo, 27, España, Rayo Vallecano
+Alfonso Espino, Lateral izquierdo, 33, Uruguay, Rayo Vallecano
+Andrei Rațiu, Lateral derecho, 26, Rumania, Rayo Vallecano
+Iván Balliu, Lateral derecho, 33, Albania, Rayo Vallecano
+Gerard Gumbau, Pivote, 30, España, Rayo Vallecano
+Óscar Valentín, Mediocentro, 30, España, Rayo Vallecano
+Unai López, Mediocentro, 29, España, Rayo Vallecano
+Pedro Díaz, Mediocentro, 26, España, Rayo Vallecano
+Pathé Ciss, Mediocentro, 31, Senegal, Rayo Vallecano
+Randy Nteka, Mediocentro ofensivo, 27, Angola, Rayo Vallecano
+Joni Montiel, Mediocentro ofensivo, 26, España, Rayo Vallecano
+Oscar Trejo, Mediocentro ofensivo, 37, Argentina, Rayo Vallecano
+Álvaro García, Extremo izquierdo, 32, España, Rayo Vallecano
+Jorge de Frutos, Extremo derecho, 28, España, Rayo Vallecano
+Adrián Embarba, Extremo derecho, 33, España, Rayo Vallecano
+Isi Palazón, Mediapunta, 30, España, Rayo Vallecano
+Sergio Camello, Delantero centro, 24, España, Rayo Vallecano
+Raúl de Tomás, Delantero centro, 30, España, Rayo Vallecano
+Sergi Guardiola, Delantero centro, 34, España, Rayo Vallecano
+Antonio Sivera, Portero, 28, España, Deportivo Alavés
+Jesús Owono, Portero, 24, Guinea Ecuatorial, Deportivo Alavés
+Adrián Rodríguez, Portero, 24, Argentina, Deportivo Alavés
+Abdel Abqar, Defensa central, 26, Marruecos, Deportivo Alavés
+Santiago Mouriño, Defensa central, 23, Uruguay, Deportivo Alavés
+Moussa Diarra, Defensa central, 24, Malí, Deportivo Alavés
+Adrián Pica, Defensa central, 23, España, Deportivo Alavés
+Facundo Garcés, Defensa central, 25, Argentina, Deportivo Alavés
+Aleksandar Sedlar, Defensa central, 33, Serbia, Deportivo Alavés
+Manu Sánchez, Lateral izquierdo, 24, España, Deportivo Alavés
+Nahuel Tenaglia, Lateral derecho, 29, Argentina, Deportivo Alavés
+Hugo Novoa, Lateral derecho, 22, España, Deportivo Alavés
+Antonio Blanco, Pivote, 24, España, Deportivo Alavés
+Carlos Protesoni, Pivote, 27, Uruguay, Deportivo Alavés
+Ander Guevara, Mediocentro, 27, España, Deportivo Alavés
+Jon Guridi, Mediocentro, 30, España, Deportivo Alavés
+Carles Aleñá, Mediocentro, 27, España, Deportivo Alavés
+Joan Jordán, Mediocentro, 30, España, Deportivo Alavés
+Carlos Martín, Extremo izquierdo, 23, España, Deportivo Alavés
+Tomás Conechny, Extremo izquierdo, 27, Argentina, Deportivo Alavés
+Carlos Vicente, Extremo derecho, 26, España, Deportivo Alavés
+Toni Martínez, Delantero centro, 27, España, Deportivo Alavés
+Asier Villalibre, Delantero centro, 27, España, Deportivo Alavés
+Kike García, Delantero centro, 35, España, Deportivo Alavés
+Pau Cabanes, Delantero centro, 20, España, Deportivo Alavés
+Karl Hein, Portero, 23, Estonia, Real Valladolid CF
+André Ferreira, Portero, 29, Portugal, Real Valladolid CF
+Eray Cömert, Defensa central, 27, Suiza, Real Valladolid CF
+Javi Sánchez, Defensa central, 28, España, Real Valladolid CF
+Cenk Özkacar, Defensa central, 24, Turquía, Real Valladolid CF
+David Torres, Defensa central, 22, España, Real Valladolid CF
+Joseph Aidoo, Defensa central, 29, Ghana, Real Valladolid CF
+Henrique Silva, Lateral izquierdo, 31, Brasil, Real Valladolid CF
+Antonio Candela, Lateral derecho, 25, Italia, Real Valladolid CF
+Luis Pérez, Lateral derecho, 30, España, Real Valladolid CF
+Florian Grillitsch, Pivote, 29, Austria, Real Valladolid CF
+Mario Martín, Pivote, 21, España, Real Valladolid CF
+Stanko Juric, Pivote, 28, Croacia, Real Valladolid CF
+Tamás Nikitscher, Mediocentro, 25, Hungría, Real Valladolid CF
+Ibrahim Alani, Mediocentro, 18, Nigeria, Real Valladolid CF
+Selim Amallah, Mediocentro ofensivo, 28, Marruecos, Real Valladolid CF
+Chuki, Mediocentro ofensivo, 21, España, Real Valladolid CF
+Raúl Moro, Extremo izquierdo, 22, España, Real Valladolid CF
+Darwin Machís, Extremo izquierdo, 32, Venezuela, Real Valladolid CF
+Kenedy, Extremo izquierdo, 29, Brasil, Real Valladolid CF
+Amath Ndiaye, Extremo derecho, 28, Senegal, Real Valladolid CF
+Anuar, Extremo derecho, 30, Marruecos, Real Valladolid CF
+Iván Sánchez, Extremo derecho, 32, España, Real Valladolid CF
+Juanmi Latasa, Delantero centro, 24, España, Real Valladolid CF
+Mamadou Sylla, Delantero centro, 31, Senegal, Real Valladolid CF
+Marcos André, Delantero centro, 28, Brasil, Real Valladolid CF
+Dominik Greif, Portero, 28, Eslovaquia, RCD Mallorca
+Leo Román, Portero, 24, España, RCD Mallorca
+Iván Cuéllar, Portero, 41, España, RCD Mallorca
+Martin Valjent, Defensa central, 29, Eslovaquia, RCD Mallorca
+José Copete, Defensa central, 25, España, RCD Mallorca
+Antonio Raíllo, Defensa central, 33, España, RCD Mallorca
+David López, Defensa central, 22, España, RCD Mallorca
+Johan Mojica, Lateral izquierdo, 32, Colombia, RCD Mallorca
+Toni Lato, Lateral izquierdo, 27, España, RCD Mallorca
+Pablo Maffeo, Lateral derecho, 27, Argentina, RCD Mallorca
+Mateu Morey, Lateral derecho, 25, España, RCD Mallorca
+Samú Costa, Pivote, 24, Portugal, RCD Mallorca
+Omar Mascarell, Pivote, 32, Guinea Ecuatorial, RCD Mallorca
+Sergi Darder, Mediocentro, 31, España, RCD Mallorca
+Manu Morlanes, Mediocentro, 26, España, RCD Mallorca
+Antonio Sánchez, Mediocentro, 28, España, RCD Mallorca
+Robert Navarro, Mediocentro ofensivo, 23, España, RCD Mallorca
+Dani Rodríguez, Mediocentro ofensivo, 36, España, RCD Mallorca
+Chiquinho, Extremo izquierdo, 25, Portugal, RCD Mallorca
+Takuma Asano, Extremo derecho, 30, Japón, RCD Mallorca
+Valery Fernández, Extremo derecho, 25, España, RCD Mallorca
+Vedat Muriqi, Delantero centro, 31, Kosovo, RCD Mallorca
+Cyle Larin, Delantero centro, 30, Canadá, RCD Mallorca
+Abdón Prats, Delantero centro, 32, España, RCD Mallorca
+Marc Domènech, Delantero centro, 18, España, RCD Mallorca
+David Soria, Portero, 32, España, Getafe CF
+Jiri Letacek, Portero, 26, República Checa, Getafe CF
+Omar Alderete, Defensa central, 28, Paraguay, Getafe CF
+Djené, Defensa central, 33, Togo, Getafe CF
+Juan Berrocal, Defensa central, 26, España, Getafe CF
+Domingos Duarte, Defensa central, 30, Portugal, Getafe CF
+Juan Bernat, Lateral izquierdo, 32, España, Getafe CF
+Diego Rico, Lateral izquierdo, 32, España, Getafe CF
+Juan Iglesias, Lateral derecho, 26, España, Getafe CF
+Allan Nyom, Lateral derecho, 37, Camerún, Getafe CF
+Ismael Bekhoucha, Lateral derecho, 20, Marruecos, Getafe CF
+Mauro Arambarri, Mediocentro, 29, Uruguay, Getafe CF
+Ramón Terrats, Mediocentro, 24, España, Getafe CF
+Luis Milla, Mediocentro, 30, España, Getafe CF
+Yellu Santiago, Mediocentro, 21, España, Getafe CF
+Christantus Uche, Mediocentro ofensivo, 22, Nigeria, Getafe CF
+Alberto Risco, Mediocentro ofensivo, 19, España, Getafe CF
+Coba da Costa, Extremo izquierdo, 22, España, Getafe CF
+Juanmi, Extremo izquierdo, 32, España, Getafe CF
+Álex Sola, Extremo derecho, 25, España, Getafe CF
+Carles Pérez, Extremo derecho, 27, España, Getafe CF
+Peter Federico, Extremo derecho, 22, República Dominicana, Getafe CF
+Borja Mayoral, Delantero centro, 28, España, Getafe CF
+Bertuğ Yıldırım, Delantero centro, 22, Turquía, Getafe CF
+Álvaro Rodríguez, Delantero centro, 20, Uruguay, Getafe CF
+Diego Conde, Portero, 26, España, Villarreal CF
+Luiz Júnior, Portero, 24, Brasil, Villarreal CF
+Iker Álvarez, Portero, 23, Andorra, Villarreal CF
+Logan Costa, Defensa central, 24, Cabo Verde, Villarreal CF
+Willy Kambwala, Defensa central, 20, Francia, Villarreal CF
+Eric Bailly, Defensa central, 31, Costa de Marfil, Villarreal CF
+Raúl Albiol, Defensa central, 39, España, Villarreal CF
+Pau Navarro, Defensa central, 20, España, Villarreal CF
+Sergi Cardona, Lateral izquierdo, 25, España, Villarreal CF
+Alfonso Pedraza, Lateral izquierdo, 29, España, Villarreal CF
+Juan Foyth, Lateral derecho, 27, Argentina, Villarreal CF
+Kiko Femenía, Lateral derecho, 34, España, Villarreal CF
+Pape Gueye, Pivote, 26, Senegal, Villarreal CF
+Santi Comesaña, Mediocentro, 28, España, Villarreal CF
+Dani Parejo, Mediocentro, 36, España, Villarreal CF
+Denis Suárez, Mediocentro ofensivo, 31, España, Villarreal CF
+Álex Baena, Extremo izquierdo, 23, España, Villarreal CF
+Yéremy Pino, Extremo derecho, 22, España, Villarreal CF
+Ilias Akhomach, Extremo derecho, 21, Marruecos, Villarreal CF
+Tajon Buchanan, Extremo derecho, 26, Canadá, Villarreal CF
+Nicolas Pépé, Extremo derecho, 30, Costa de Marfil, Villarreal CF
+Thierno Barry, Delantero centro, 22, Francia, Villarreal CF
+Ayoze Pérez, Delantero centro, 31, España, Villarreal CF
+Gerard Moreno, Delantero centro, 33, España, Villarreal CF
+Fran Vieites, Portero, 26, España, Real Betis Balompié
+Adrián, Portero, 38, España, Real Betis Balompié
+Natan, Defensa central, 24, Brasil, Real Betis Balompié
+Diego Llorente, Defensa central, 31, España, Real Betis Balompié
+Marc Bartra, Defensa central, 34, España, Real Betis Balompié
+Romain Perraud, Lateral izquierdo, 27, Francia, Real Betis Balompié
+Ricardo Rodríguez, Lateral izquierdo, 32, Suiza, Real Betis Balompié
+Aitor Ruibal, Lateral derecho, 29, España, Real Betis Balompié
+Héctor Bellerín, Lateral derecho, 30, España, Real Betis Balompié
+Ángel Ortiz, Lateral derecho, 20, España, Real Betis Balompié
+Youssouf Sabaly, Lateral derecho, 32, Senegal, Real Betis Balompié
+Johnny Cardoso, Pivote, 23, Estados Unidos, Real Betis Balompié
+Marc Roca, Pivote, 28, España, Real Betis Balompié
+William Carvalho, Pivote, 33, Portugal, Real Betis Balompié
+Giovani Lo Celso, Mediocentro, 29, Argentina, Real Betis Balompié
+Sergi Altimira, Mediocentro, 23, España, Real Betis Balompié
+Mateo Flores, Mediocentro, 21, España, Real Betis Balompié
+Pablo Fornals, Mediocentro ofensivo, 29, España, Real Betis Balompié
+Isco, Mediocentro ofensivo, 33, España, Real Betis Balompié
+Abde Ezzalzouli, Extremo izquierdo, 23, Marruecos, Real Betis Balompié
+Jesús Rodríguez, Extremo izquierdo, 19, España, Real Betis Balompié
+Antony, Extremo derecho, 25, Brasil, Real Betis Balompié
+Cucho Hernández, Delantero centro, 26, Colombia, Real Betis Balompié
+Chimy Ávila, Delantero centro, 31, Argentina, Real Betis Balompié
+Cédric Bakambu, Delantero centro, 34, RD del Congo, Real Betis Balompié
+Jan Oblak, Portero, 32, Eslovenia, Atlético de Madrid
+Juan Musso, Portero, 31, Argentina, Atlético de Madrid
+Robin Le Normand, Defensa central, 28, España, Atlético de Madrid
+José María Giménez, Defensa central, 30, Uruguay, Atlético de Madrid
+Clément Lenglet, Defensa central, 29, Francia, Atlético de Madrid
+Axel Witsel, Defensa central, 36, Bélgica, Atlético de Madrid
+César Azpilicueta, Defensa central, 35, España, Atlético de Madrid
+Reinildo Mandava, Lateral izquierdo, 31, Mozambique, Atlético de Madrid
+Javi Galán, Lateral izquierdo, 30, España, Atlético de Madrid
+Nahuel Molina, Lateral derecho, 27, Argentina, Atlético de Madrid
+Pablo Barrios, Mediocentro, 21, España, Atlético de Madrid
+Conor Gallagher, Mediocentro, 25, Inglaterra, Atlético de Madrid
+Rodrigo De Paul, Mediocentro, 31, Argentina, Atlético de Madrid
+Koke, Mediocentro, 33, España, Atlético de Madrid
+Marcos Llorente, Interior derecho, 30, España, Atlético de Madrid
+Thomas Lemar, Mediocentro ofensivo, 29, Francia, Atlético de Madrid
+Samuel Lino, Extremo izquierdo, 25, Brasil, Atlético de Madrid
+Rodrigo Riquelme, Extremo izquierdo, 25, España, Atlético de Madrid
+Giuliano Simeone, Extremo derecho, 22, Argentina, Atlético de Madrid
+Ángel Correa, Extremo derecho, 30, Argentina, Atlético de Madrid
+Julián Alvarez, Delantero centro, 25, Argentina, Atlético de Madrid
+Alexander Sørloth, Delantero centro, 29, Noruega, Atlético de Madrid
+Antoine Griezmann, Delantero centro, 34, Francia, Atlético de Madrid

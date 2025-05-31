@@ -69,7 +69,7 @@ async def on_message(message):
                 partido_details_to_sim['liga_id'],
                 partido_details_to_sim['temporada'],
                 resultado_sim,
-                zona_nombre=partido_details_to_sim.get('zona') # ¡Pasando la zona!
+                zona_nombre=partido_details_to_sim.get('zona')
             )
             
             equipo_local_sim_nombre = database.get_equipo_by_id(partido_details_to_sim['equipo_local_id'])['nombre']
@@ -78,9 +78,10 @@ async def on_message(message):
                 f"¡Partido simulado por IA! Resultado: **{equipo_local_sim_nombre} {resultado_sim['goles_e1']} - {resultado_sim['goles_e2']} {equipo_visitante_sim_nombre}**."
             )
             
-            mensajes_avance = game_logic.avanzar_dia(user_id)
+            # DESPUÉS de simular el partido del usuario, AVANZA EL DÍA
+            # Esto evita la doble llamada a avanzar_dia
+            mensajes_avance = game_logic.avanzar_dia(user_id) # Llamada a avanzar_dia SÓLO AQUÍ para el usuario
             for msg in mensajes_avance:
-                # Discord tiene un límite de 2000 caracteres por mensaje.
                 if len(msg) > 1900:
                     chunks = [msg[i:i+1900] for i in range(0, len(msg), 1900)]
                     for chunk in chunks:
@@ -88,17 +89,18 @@ async def on_message(message):
                 else:
                     await message.channel.send(msg)
             
-            del setup_state[user_id]
+            del setup_state[user_id] # Limpia el estado después de procesar y avanzar
             return
         elif message.content.lower() == 'no':
-            await message.channel.send("Simulación cancelada. Ingresa el resultado de tu partido con `!resultado goles_local-goles_visitante` antes de avanzar.")
-            del setup_state[user_id]
+            await message.channel.send("Simulación cancelada. Ingresa el resultado de tu partido con `!resultado TusGoles-GolesRival` antes de avanzar.")
+            del setup_state[user_id] # Limpia el estado si el usuario no quiere simular
             return
         else:
             await message.channel.send("Respuesta no válida. Por favor, responde `si` para simular por IA y avanzar, o `no` para cancelar.")
             return
+            
 
-    # Lógica de confirmación de fichaje
+            # Lógica de confirmación de fichaje
     if user_id in setup_state and setup_state[user_id]['step'] == 'confirm_fichar':
         if message.content.lower() == 'si':
             offer_details = setup_state[user_id]
@@ -110,15 +112,16 @@ async def on_message(message):
             )
             await message.channel.send(msg)
             del setup_state[user_id]
-            return
+            return # <-- Este return es CRÍTICO
         elif message.content.lower() == 'no':
             await message.channel.send("Oferta cancelada.")
             del setup_state[user_id]
-            return
+            return # <-- Este return es CRÍTICO
         else:
             await message.channel.send("Respuesta no válida. Por favor, responde `si` para confirmar o `no` para cancelar la oferta.")
-            return
-
+            return # <-- Este return es CRÍTICO
+        
+        
     # --- Comandos generales ---
     if message.content == '!hola':
         await message.channel.send(f'¡Hola, {username}! Soy tu bot de modo carrera de Dream Patch.')
@@ -282,7 +285,7 @@ async def on_message(message):
 
 
 
-    # --- Lógica MEJORADA: !avanzar_dia (con confirmación) ---
+    # --- Lógica MEJORADA: !avanzar_dia (con aviso y confirmación para el partido del usuario) ---
     if message.content == '!avanzar_dia':
         carrera = database.get_carrera_by_user(user_id)
         if not carrera:
@@ -305,23 +308,24 @@ async def on_message(message):
             equipo_visitante_nombre_partido = database.get_equipo_by_id(partido_pendiente_hoy['equipo_visitante_id'])['nombre']
 
             setup_state[user_id] = {
-                'step': 'confirm_simular_partido_ia',
+                'step': 'confirm_simular_partido_ia', # Establece el estado de confirmación
                 'partido_id': partido_pendiente_hoy['id'],
                 'equipo_local_id': partido_pendiente_hoy['equipo_local_id'],
                 'equipo_visitante_id': partido_pendiente_hoy['equipo_visitante_id'],
                 'liga_id': carrera['liga_id'],
                 'temporada': carrera['temporada'],
-                'zona': partido_pendiente_hoy.get('zona') # <-- Asegúrate de pasar la zona aquí
+                'zona': partido_pendiente_hoy.get('zona')
             }
             await message.channel.send(
                 f"🚨 **¡ATENCIÓN {username.upper()}! ¡HOY JUEGA TU EQUIPO!** 🚨\n"
                 f"Tu partido de hoy es: **{equipo_local_nombre_partido} vs {equipo_visitante_nombre_partido}**.\n"
-                f"Si no ingresas el resultado con `!resultado goles_local-goles_visitante`, lo simulará la IA.\n\n"
+                f"Si no ingresas el resultado con `!resultado TusGoles-GolesRival`, lo simulará la IA.\n\n"
                 f"¿Quieres que simulemos este partido por IA y avancemos? Responde `si` o `no`."
             )
-            return
-
-        # Si no hay partido pendiente, simplemente avanzar el día normalmente
+            return # Detiene el procesamiento aquí, esperando la respuesta 'si' o 'no'
+        
+        # Si no hay partido pendiente del usuario, avanza el día normalmente
+        # Esta parte se ejecuta SÓLO si `partido_pendiente_hoy` es None.
         mensajes_avance = game_logic.avanzar_dia(user_id)
         for msg in mensajes_avance:
             if len(msg) > 1900:
@@ -331,6 +335,115 @@ async def on_message(message):
             else:
                 await message.channel.send(msg)
         return
+
+    # --- Comando: !avanzar_dias ---
+    if message.content.startswith('!avanzar_dias '):
+        carrera = database.get_carrera_by_user(user_id)
+        if not carrera:
+            await message.channel.send("No tienes una carrera iniciada. Usa `!iniciar_carrera` para comenzar.")
+            return
+
+        try:
+            num_dias_a_avanzar = int(message.content.split(' ')[1])
+            if num_dias_a_avanzar <= 0:
+                await message.channel.send("El número de días a avanzar debe ser positivo.")
+                return
+            if num_dias_a_avanzar > 90: # Límite para evitar procesamientos muy largos
+                await message.channel.send("No puedes avanzar más de 90 días a la vez. Elige un número menor.")
+                return
+        except (ValueError, IndexError):
+            await message.channel.send("Formato incorrecto. Usa `!avanzar_dias <numero_de_dias>` (ej: `!avanzar_dias 7`).")
+            return
+
+        await message.channel.send(f"Iniciando avance de {num_dias_a_avanzar} días. Esto puede tomar un momento...")
+        
+        total_mensajes_avance = []
+        dias_avanzados_efectivamente = 0
+
+        for i in range(num_dias_a_avanzar):
+            # Recargar carrera en cada iteración para obtener el día_actual más reciente
+            current_carrera_loop = database.get_carrera_by_user(user_id)
+            if not current_carrera_loop:
+                total_mensajes_avance.append("Error: Se perdió la referencia a tu carrera durante el avance.")
+                break
+    
+            tu_equipo_id_loop = current_carrera_loop['equipo_id']
+            dia_actual_loop = current_carrera_loop['dia_actual']
+            temporada_actual_loop = current_carrera_loop['temporada']
+    
+            fecha_base_simulacion_global = datetime.date(2025, 3, 1)
+            dias_totales_simulados_loop = (dia_actual_loop - 1) + (temporada_actual_loop - 1) * 365
+            fecha_actual_simulada_calendario_loop = fecha_base_simulacion_global + datetime.timedelta(days=dias_totales_simulados_loop)
+            fecha_str_actual_calendario_loop = fecha_actual_simulada_calendario_loop.strftime('%Y-%m-%d')
+    
+            # DEBUG: Imprimir estado antes de llamar a avanzar_dia
+            print(f"DEBUG MAIN: Iteración {i+1}/{num_dias_a_avanzar}. Dia actual (desde DB) ANTES de avanzar_dia: {dia_actual_loop}, Temporada: {temporada_actual_loop}, Fecha str: {fecha_str_actual_calendario_loop}")
+
+            partido_pendiente_hoy_loop = database.get_partido_pendiente(user_id, tu_equipo_id_loop, fecha_str_actual_calendario_loop)
+
+            if partido_pendiente_hoy_loop:
+                # Simular automáticamente el partido del usuario
+                if not any(f"--- Día {dia_actual_loop}" in msg for msg in total_mensajes_avance): # Evitar duplicar encabezado de día
+                    total_mensajes_avance.append(f"--- Día {dia_actual_loop} (Fecha: {fecha_str_actual_calendario_loop}) ---")
+                
+                equipo_local_nombre_partido = database.get_equipo_by_id(partido_pendiente_hoy_loop['equipo_local_id'])['nombre']
+                equipo_visitante_nombre_partido = database.get_equipo_by_id(partido_pendiente_hoy_loop['equipo_visitante_id'])['nombre']
+                total_mensajes_avance.append(f"⚠️ ¡Partido de tu equipo detectado! **{equipo_local_nombre_partido} vs {equipo_visitante_nombre_partido}**. Simulando automáticamente...")
+
+                resultado_sim_usuario, error_sim = game_logic.simular_partido(
+                    partido_pendiente_hoy_loop['equipo_local_id'],
+                    partido_pendiente_hoy_loop['equipo_visitante_id']
+                )
+                if error_sim:
+                    total_mensajes_avance.append(f"Error al simular tu partido: {error_sim}. Se continuará avanzando el día sin simular este partido.")
+                else:
+                    database.update_partido_resultado(
+                        partido_pendiente_hoy_loop['id'],
+                        resultado_sim_usuario['goles_e1'],
+                        resultado_sim_usuario['goles_e2']
+                    )
+                    game_logic.update_clasificacion(
+                        current_carrera_loop['liga_id'],
+                        current_carrera_loop['temporada'],
+                        resultado_sim_usuario,
+                        zona_nombre=partido_pendiente_hoy_loop.get('zona')
+                    )
+                    total_mensajes_avance.append(
+                        f"Resultado de tu partido simulado: **{equipo_local_nombre_partido} {resultado_sim_usuario['goles_e1']} - {resultado_sim_usuario['goles_e2']} {equipo_visitante_nombre_partido}**."
+                    )
+
+            mensajes_un_dia = game_logic.avanzar_dia(user_id)
+            
+            if partido_pendiente_hoy_loop and mensajes_un_dia: # Si hubo partido de usuario, omitir el encabezado de día de avanzar_dia
+                total_mensajes_avance.extend(mensajes_un_dia[1:]) 
+            elif mensajes_un_dia: # Si no hubo partido de usuario, incluir todos los mensajes de avanzar_dia
+                total_mensajes_avance.extend(mensajes_un_dia)
+                
+            # DEBUG: Imprimir estado después de llamar a avanzar_dia
+            current_carrera_after_avanzar = database.get_carrera_by_user(user_id)
+            if current_carrera_after_avanzar:
+                print(f"DEBUG MAIN: Iteración {i+1}/{num_dias_a_avanzar}. Dia actual (desde DB) DESPUÉS de avanzar_dia: {current_carrera_after_avanzar['dia_actual']}, Temporada: {current_carrera_after_avanzar['temporada']}")
+            dias_avanzados_efectivamente += 1
+
+        # Enviar todos los mensajes acumulados
+        for msg_block in total_mensajes_avance:
+            if len(msg_block) > 1900:
+                chunks = [msg_block[i:i+1900] for i in range(0, len(msg_block), 1900)]
+                for chunk in chunks:
+                    await message.channel.send(chunk)
+            else:
+                await message.channel.send(msg_block)
+        
+        # Mensaje final de estado
+        if dias_avanzados_efectivamente == num_dias_a_avanzar:
+            await message.channel.send(f"🗓️ Se avanzaron con éxito los {num_dias_a_avanzar} días solicitados. Los partidos de tu equipo en este período fueron simulados automáticamente.")
+        elif dias_avanzados_efectivamente > 0 and dias_avanzados_efectivamente < num_dias_a_avanzar:
+             await message.channel.send(f"🗓️ Proceso de avance de días finalizado. Se avanzaron {dias_avanzados_efectivamente} de los {num_dias_a_avanzar} solicitados (posiblemente interrumpido por un error o fin de temporada). Los partidos de tu equipo en este período fueron simulados automáticamente.")
+        elif num_dias_a_avanzar > 0 and dias_avanzados_efectivamente == 0:
+            await message.channel.send(f"🗓️ No se avanzó ningún día. Verifica si hay un error en la simulación.")
+
+        return
+
 
     if user_id in setup_state and setup_state[user_id]['step'] == 'confirm_simular_partido_ia':
         if message.content.lower() == 'si':
@@ -404,7 +517,7 @@ async def on_message(message):
             if local_score < 0 or visitante_score < 0:
                  raise ValueError("Los resultados no pueden ser negativos.")
         except ValueError:
-            await message.channel.send("Formato de resultado inválido. Usa `!resultado goles_locales-goles_visitantes` (ej: `!resultado 2-1`).")
+            await message.channel.send("Formato de resultado inválido. Usa `!resultado TusGoles-GolesRival` (ej: `!resultado 2-1`).")
             return
 
         if partido_a_reportar['equipo_local_id'] == tu_equipo_id:
@@ -709,6 +822,7 @@ async def on_message(message):
 
         if not market_logic.es_mercado_abierto(user_id):
             await message.channel.send("El mercado de pases no está abierto en este momento. Espera a que se abra para hacer ofertas.")
+            print(f"DEBUG: Intento de fichar con mercado cerrado para user_id {user_id}. Es mercado abierto? {market_logic.es_mercado_abierto(user_id)}") # AÑADE ESTA LÍNEA
             return
 
         if user_id in setup_state and setup_state[user_id].get('step') == 'confirm_fichar':

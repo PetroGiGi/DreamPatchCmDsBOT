@@ -13,7 +13,7 @@ CA San Telmo
 CA Güemes
 Club Almagro
 CA Atlanta
-Arsenal FC
+Arsenal (Sarandí)
 CA Colón
 CA Agropecuario
 CA Central Norte
@@ -34,3 +34,43 @@ CA Temperley
 CA Talleres (Remedios de Escalada)
 Club Almirante Brown
 CA Chacarita Juniors
+Girona FC
+Athletic Club
+UD Las Palmas
+CA Osasuna
+FC Barcelona
+Sevilla FC
+RCD Espanyol
+RC Celta de Vigo
+Real Madrid CF
+Real Sociedad
+Valencia CF
+CD Leganés
+Rayo Vallecano
+Deportivo Alavés
+Real Valladolid CF
+RCD Mallorca
+Getafe CF
+Villarreal CF
+Real Betis Balompié
+Atlético de Madrid
+Ipswich Town
+Crystal Palace
+West Ham United
+Leicester City
+Liverpool FC
+Newcastle United
+Nottingham Forest
+Arsenal FC
+Manchester City
+Fulham FC
+Manchester United
+Chelsea FC
+Everton FC
+Brighton & Hove Albion
+Brentford FC
+Wolverhampton Wanderers
+Tottenham Hotspur
+Aston Villa
+AFC Bournemouth
+Southampton FC

@@ -65,12 +65,19 @@ def cargar_datos_desde_txt_a_db(ruta_archivo, liga_nombre, pais_liga):
                 
                 if liga_nombre == "Brasileirão Serie A":
                     valoracion = min(86, valoracion)
+                    valoracion = max(62, valoracion)
                 elif liga_nombre == "Primera Nacional":
                     valoracion = min(71, valoracion)
+                    valoracion = max(40, valoracion)
+                elif liga_nombre == "LaLiga":
+                    valoracion = min(96, valoracion)
+                    valoracion = max(79, valoracion)
+                elif liga_nombre == "Premier League":
+                    valoracion = min(96, valoracion)
+                    valoracion = max(79, valoracion)
                 else:
                     valoracion = min(80, valoracion)
-                
-                valoracion = max(40, valoracion)
+                    valoracion = max(40, valoracion)
 
                 current_year = date.today().year
                 est_birth_year = current_year - edad
@@ -111,13 +118,13 @@ if __name__ == '__main__':
     print("\n--- Cargando Brasileirão Serie A ---")
     cargar_datos_desde_txt_a_db('brasileirao_players.txt', "Brasileirão Serie A", "Brasil")
 
-    # --- NUEVO: Cargar Primera Nacional ---
+    print("\n--- Cargando LaLiga ---")
+    cargar_datos_desde_txt_a_db('laliga_players.txt', "LaLiga", "España")
+
+    print("\n--- Cargando Premier League ---")
+    cargar_datos_desde_txt_a_db('premierleague_players.txt', "LaLiga", "España")
+
     print("\n--- Cargando Primera Nacional ---")
-    # NECESITARÁS CREAR 'primera_nacional_players.txt' con el formato:
-    # Nombre, Posicion, Edad, Nacionalidad, Nombre Equipo
-    # Ejemplo: Juan Perez, Delantero, 25, Argentina, Chacarita Juniors, Zona A
-    # OJO: Si la Primera Nacional no tiene un país "Argentina" diferente en la DB,
-    # asegúrate de usar el mismo país que otras ligas argentinas para consistencia.
     cargar_datos_desde_txt_a_db('bnacional_players.txt', "Primera Nacional", "Argentina") # Asumiendo Argentina
 
 
@@ -134,6 +141,21 @@ if __name__ == '__main__':
     brasileirao_id = database.get_liga_id("Brasileirão Serie A")
     if brasileirao_id:
         print(f"\nLiga 'Brasileirão Serie A' (ID: {brasileirao_id}, Equipos: {database.get_liga_by_id(brasileirao_id)['num_equipos']})")
+        # Puedes añadir una verificación de algunos equipos/jugadores si quieres
+
+    laliga_id = database.get_liga_id("LaLiga")
+    if laliga_id:
+        print(f"\nLiga 'LaLiga' (ID: {laliga_id}, Equipos: {database.get_liga_by_id(laliga_id)['num_equipos']})")
+        # Puedes añadir una verificación de algunos equipos/jugadores si quieres
+
+    premierleague_id = database.get_liga_id("Premier League")
+    if premierleague_id:
+        print(f"\nLiga 'Premier League' (ID: {premierleague_id}, Equipos: {database.get_liga_by_id(premierleague_id)['num_equipos']})")
+        # Puedes añadir una verificación de algunos equipos/jugadores si quieres
+
+    bnacional_id = database.get_liga_id("Primera Nacional")
+    if bnacional_id:
+        print(f"\nLiga 'Primera División' (ID: {bnacional_id}, Equipos: {database.get_liga_by_id(bnacional_id)['num_equipos']})")
         # Puedes añadir una verificación de algunos equipos/jugadores si quieres
 
     print("\nVerificación de datos completada.")

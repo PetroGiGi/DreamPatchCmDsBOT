@@ -1,0 +1,371 @@
+David Raya, Portero, 29, España, Arsenal FC
+Neto, Portero, 35, Brasil, Arsenal FC
+William Saliba, Defensa central, 24, Francia, Arsenal FC
+Gabriel Magalhães, Defensa central, 27, Brasil, Arsenal FC
+Jakub Kiwior, Defensa central, 25, Polonia, Arsenal FC
+Myles Lewis-Skelly, Lateral izquierdo, 18, Inglaterra, Arsenal FC
+Riccardo Calafiori, Lateral izquierdo, 23, Italia, Arsenal FC
+Oleksandr Zinchenko, Lateral izquierdo, 28, Ucrania, Arsenal FC
+Kieran Tierney, Lateral izquierdo, 27, Escocia, Arsenal FC
+Jurrien Timber, Lateral derecho, 23, Países Bajos, Arsenal FC
+Ben White, Lateral derecho, 27, Inglaterra, Arsenal FC
+Takehiro Tomiyasu, Lateral derecho, 26, Japón, Arsenal FC
+Thomas Partey, Pivote, 31, Ghana, Arsenal FC
+Jorginho, Pivote, 33, Italia, Arsenal FC
+Declan Rice, Mediocentro, 26, Inglaterra, Arsenal FC
+Mikel Merino, Mediocentro, 28, España, Arsenal FC
+Martin Ødegaard, Mediocentro ofensivo, 26, Noruega, Arsenal FC
+Gabriel Martinelli, Extremo izquierdo, 23, Brasil, Arsenal FC
+Leandro Trossard, Extremo izquierdo, 30, Bélgica, Arsenal FC
+Bukayo Saka, Extremo derecho, 23, Inglaterra, Arsenal FC
+Ethan Nwaneri, Extremo derecho, 18, Inglaterra, Arsenal FC
+Raheem Sterling, Extremo derecho, 30, Inglaterra, Arsenal FC
+Kai Havertz, Delantero centro, 25, Alemania, Arsenal FC
+Gabriel Jesus, Delantero centro, 28, Brasil, Arsenal FC
+Ederson, Portero, 31, Brasil, Manchester City
+Stefan Ortega, Portero, 32, Alemania, Manchester City
+Scott Carson, Portero, 39, Inglaterra, Manchester City
+Rúben Dias, Defensa central, 28, Portugal, Manchester City
+Abdukodir Khusanov, Defensa central, 21, Uzbekistán, Manchester City
+Vitor Reis, Defensa central, 19, Brasil, Manchester City
+Manuel Akanji, Defensa central, 29, Suiza, Manchester City
+John Stones, Defensa central, 31, Inglaterra, Manchester City
+Nathan Aké, Defensa central, 30, Países Bajos, Manchester City
+Josko Gvardiol, Lateral izquierdo, 23, Croacia, Manchester City
+Rico Lewis, Lateral derecho, 20, Inglaterra, Manchester City
+Rodri, Pivote, 28, España, Manchester City
+Nico González, Mediocentro, 23, España, Manchester City
+Matheus Nunes, Mediocentro, 26, Portugal, Manchester City
+Mateo Kovacic, Mediocentro, 31, Croacia, Manchester City
+İlkay Gündoğan, Mediocentro, 34, Alemania, Manchester City
+Bernardo Silva, Mediocentro ofensivo, 30, Portugal, Manchester City
+Kevin De Bruyne, Mediocentro ofensivo, 33, Bélgica, Manchester City
+James McAtee, Mediocentro ofensivo, 22, Inglaterra, Manchester City
+Claudio Echeverri, Mediocentro ofensivo, 19, Argentina, Manchester City
+Nico O'Reilly, Mediocentro ofensivo, 20, Inglaterra, Manchester City
+Jérémy Doku, Extremo izquierdo, 23, Bélgica, Manchester City
+Jack Grealish, Extremo izquierdo, 29, Inglaterra, Manchester City
+Phil Foden, Extremo derecho, 25, Inglaterra, Manchester City
+Savinho, Extremo derecho, 21, Brasil, Manchester City
+Oscar Bobb, Extremo derecho, 21, Noruega, Manchester City
+Erling Haaland, Delantero centro, 24, Noruega, Manchester City
+Omar Marmoush, Delantero centro, 26, Egipto, Manchester City
+Bernd Leno, Portero, 33, Alemania, Fulham FC
+Steven Benda, Portero, 26, Alemania, Fulham FC
+Joachim Andersen, Defensa central, 29, Dinamarca, Fulham FC
+Calvin Bassey, Defensa central, 25, Nigeria, Fulham FC
+Issa Diop, Defensa central, 28, Francia, Fulham FC
+Jorge Cuenca, Defensa central, 25, España, Fulham FC
+Antonee Robinson, Lateral izquierdo, 27, Estados Unidos, Fulham FC
+Ryan Sessegnon, Lateral izquierdo, 25, Inglaterra, Fulham FC
+Kenny Tete, Lateral derecho, 29, Países Bajos, Fulham FC
+Timothy Castagne, Lateral derecho, 29, Bélgica, Fulham FC
+Sander Berge, Pivote, 27, Noruega, Fulham FC
+Saša Lukić, Mediocentro, 28, Serbia, Fulham FC
+Harrison Reed, Mediocentro, 30, Inglaterra, Fulham FC
+Tom Cairney, Mediocentro, 34, Escocia, Fulham FC
+Josh King, Mediocentro, 18, Inglaterra, Fulham FC
+Emile Smith Rowe, Mediocentro ofensivo, 24, Inglaterra, Fulham FC
+Alex Iwobi, Mediocentro ofensivo, 29, Nigeria, Fulham FC
+Andreas Pereira, Mediocentro ofensivo, 29, Brasil, Fulham FC
+Willian, Extremo izquierdo, 36, Brasil, Fulham FC
+Martial Godo, Extremo izquierdo, 22, Inglaterra, Fulham FC
+Reiss Nelson, Extremo derecho, 25, Inglaterra, Fulham FC
+Harry Wilson, Extremo derecho, 28, Gales, Fulham FC
+Adama Traoré, Extremo derecho, 29, España, Fulham FC
+Rodrigo Muniz, Delantero centro, 24, Brasil, Fulham FC
+Raúl Jiménez, Delantero centro, 34, México, Fulham FC
+Carlos Vinícius, Delantero centro, 30, Brasil, Fulham FC
+André Onana, Portero, 29, Camerún, Manchester United
+Altay Bayındır, Portero, 27, Turquía, Manchester United
+Tom Heaton, Portero, 39, Inglaterra, Manchester United
+Leny Yoro, Defensa central, 19, Francia, Manchester United
+Lisandro Martínez, Defensa central, 27, Argentina, Manchester United
+Matthijs de Ligt, Defensa central, 25, Países Bajos, Manchester United
+Harry Maguire, Defensa central, 32, Inglaterra, Manchester United
+Victor Lindelöf, Defensa central, 30, Suecia, Manchester United
+Ayden Heaven, Defensa central, 18, Inglaterra, Manchester United
+Jonny Evans, Defensa central, 37, Irlanda del Norte, Manchester United
+Luke Shaw, Lateral izquierdo, 29, Inglaterra, Manchester United
+Harry Amass, Lateral izquierdo, 18, Inglaterra, Manchester United
+Diogo Dalot, Lateral derecho, 26, Portugal, Manchester United
+Noussair Mazraoui, Lateral derecho, 27, Marruecos, Manchester United
+Manuel Ugarte, Pivote, 24, Uruguay, Manchester United
+Casemiro, Pivote, 33, Brasil, Manchester United
+Toby Collyer, Pivote, 21, Inglaterra, Manchester United
+Kobbie Mainoo, Mediocentro, 20, Inglaterra, Manchester United
+Christian Eriksen, Mediocentro, 33, Dinamarca, Manchester United
+Daniel Gore, Mediocentro, 20, Inglaterra, Manchester United
+Patrick Dorgu, Interior izquierdo, 20, Dinamarca, Manchester United
+Bruno Fernandes, Mediocentro ofensivo, 30, Portugal, Manchester United
+Alejandro Garnacho, Mediocentro ofensivo, 20, Argentina, Manchester United
+Mason Mount, Mediocentro ofensivo, 26, Inglaterra, Manchester United
+Amad Diallo, Extremo derecho, 22, Costa de Marfil, Manchester United
+Rasmus Højlund, Delantero centro, 22, Dinamarca, Manchester United
+Joshua Zirkzee, Delantero centro, 24, Países Bajos, Manchester United
+Chido Obi, Delantero centro, 17, Dinamarca, Manchester United
+Ethan Wheatley, Delantero centro, 19, Inglaterra, Manchester United
+Robert Sánchez, Portero, 27, España, Chelsea FC
+Filip Jørgensen, Portero, 23, Dinamarca, Chelsea FC
+Mike Penders, Portero, 19, Bélgica, Chelsea FC
+Lucas Bergström, Portero, 22, Finlandia, Chelsea FC
+Marcus Bettinelli, Portero, 33, Inglaterra, Chelsea FC
+Levi Colwill, Defensa central, 22, Inglaterra, Chelsea FC
+Trevoh Chalobah, Defensa central, 25, Inglaterra, Chelsea FC
+Wesley Fofana, Defensa central, 24, Francia, Chelsea FC
+Benoît Badiashile, Defensa central, 24, Francia, Chelsea FC
+Tosin Adarabioyo, Defensa central, 27, Inglaterra, Chelsea FC
+Aarón Anselmino, Defensa central, 20, Argentina, Chelsea FC
+Marc Cucurella, Lateral izquierdo, 26, España, Chelsea FC
+Malo Gusto, Lateral derecho, 22, Francia, Chelsea FC
+Reece James, Lateral derecho, 25, Inglaterra, Chelsea FC
+Josh Acheampong, Lateral derecho, 19, Inglaterra, Chelsea FC
+Moisés Caicedo, Pivote, 23, Ecuador, Chelsea FC
+Roméo Lavia, Pivote, 21, Bélgica, Chelsea FC
+Enzo Fernández, Mediocentro, 24, Argentina, Chelsea FC
+Kiernan Dewsbury-Hall, Mediocentro, 26, Inglaterra, Chelsea FC
+Mathis Amougou, Mediocentro, 19, Francia, Chelsea FC
+Cole Palmer, Mediocentro ofensivo, 23, Inglaterra, Chelsea FC
+Omari Kellyman, Mediocentro ofensivo, 19, Inglaterra, Chelsea FC
+Jadon Sancho, Extremo izquierdo, 25, Inglaterra, Chelsea FC
+Mykhaylo Mudryk, Extremo izquierdo, 24, Ucrania, Chelsea FC
+Tyrique George, Extremo izquierdo, 19, Inglaterra, Chelsea FC
+Pedro Neto, Extremo derecho, 25, Portugal, Chelsea FC
+Noni Madueke, Extremo derecho, 23, Inglaterra, Chelsea FC
+Nicolas Jackson, Delantero centro, 23, Senegal, Chelsea FC
+Christopher Nkunku, Delantero centro, 27, Francia, Chelsea FC
+Marc Guiu, Delantero centro, 19, España, Chelsea FC
+David Datro Fofana, Delantero centro, 22, Costa de Marfil, Chelsea FC
+Jordan Pickford, Portero, 31, Inglaterra, Everton FC
+João Virgínia, Portero, 25, Portugal, Everton FC
+Asmir Begovic, Portero, 37, Bosnia y Herzegovina, Everton FC
+Jarrad Branthwaite, Defensa central, 22, Inglaterra, Everton FC
+James Tarkowski, Defensa central, 32, Inglaterra, Everton FC
+Michael Keane, Defensa central, 32, Inglaterra, Everton FC
+Vitaliy Mykolenko, Lateral izquierdo, 26, Ucrania, Everton FC
+Jake O'Brien, Lateral derecho, 24, Irlanda, Everton FC
+Nathan Patterson, Lateral derecho, 23, Escocia, Everton FC
+Ashley Young, Lateral derecho, 39, Inglaterra, Everton FC
+Séamus Coleman, Lateral derecho, 36, Irlanda, Everton FC
+Orel Mangala, Pivote, 27, Bélgica, Everton FC
+James Garner, Pivote, 24, Inglaterra, Everton FC
+Idrissa Gueye, Pivote, 35, Senegal, Everton FC
+Carlos Alcaraz, Mediocentro, 22, Argentina, Everton FC
+Tim Iroegbunam, Mediocentro, 21, Inglaterra, Everton FC
+Abdoulaye Doucouré, Mediocentro, 32, Malí, Everton FC
+Dwight McNeil, Extremo izquierdo, 25, Inglaterra, Everton FC
+Iliman Ndiaye, Extremo izquierdo, 25, Senegal, Everton FC
+Jesper Lindstrøm, Extremo derecho, 25, Dinamarca, Everton FC
+Jack Harrison, Extremo derecho, 28, Inglaterra, Everton FC
+Beto, Delantero centro, 27, Guinea-Bissau, Everton FC
+Dominic Calvert-Lewin, Delantero centro, 28, Inglaterra, Everton FC
+Armando Broja, Delantero centro, 23, Albania, Everton FC
+Chermiti, Delantero centro, 21, Portugal, Everton FC
+Bart Verbruggen, Portero, 22, Países Bajos, Brighton & Hove Albion
+Carl Rushworth, Portero, 23, Inglaterra, Brighton & Hove Albion
+Jason Steele, Portero, 34, Inglaterra, Brighton & Hove Albion
+Tom McGill, Portero, 25, Canadá, Brighton & Hove Albion
+Jan Paul van Hecke, Defensa central, 24, Países Bajos, Brighton & Hove Albion
+Igor, Defensa central, 27, Brasil, Brighton & Hove Albion
+Adam Webster, Defensa central, 30, Inglaterra, Brighton & Hove Albion
+Eiran Cashin, Defensa central, 23, Irlanda, Brighton & Hove Albion
+Lewis Dunk, Defensa central, 33, Inglaterra, Brighton & Hove Albion
+Pervis Estupiñán, Lateral izquierdo, 27, Ecuador, Brighton & Hove Albion
+Ferdi Kadıoğlu, Lateral izquierdo, 25, Turquía, Brighton & Hove Albion
+Tariq Lamptey, Lateral derecho, 24, Ghana, Brighton & Hove Albion
+Joël Veltman, Lateral derecho, 33, Países Bajos, Brighton & Hove Albion
+Odeluga Offiah, Lateral derecho, 22, Inglaterra, Brighton & Hove Albion
+Carlos Baleba, Pivote, 21, Camerún, Brighton & Hove Albion
+Mats Wieffer, Pivote, 25, Países Bajos, Brighton & Hove Albion
+Jack Hinshelwood, Mediocentro, 20, Inglaterra, Brighton & Hove Albion
+Yasin Ayari, Mediocentro, 21, Suecia, Brighton & Hove Albion
+Matt O'Riley, Mediocentro, 24, Dinamarca, Brighton & Hove Albion
+Diego Gómez, Mediocentro, 22, Paraguay, Brighton & Hove Albion
+James Milner, Mediocentro, 39, Inglaterra, Brighton & Hove Albion
+Kaoru Mitoma, Extremo izquierdo, 28, Japón, Brighton & Hove Albion
+Simon Adingra, Extremo izquierdo, 23, Costa de Marfil, Brighton & Hove Albion
+Jeremy Sarmiento, Extremo izquierdo, 22, Ecuador, Brighton & Hove Albion
+Yankuba Minteh, Extremo derecho, 20, Gambia, Brighton & Hove Albion
+Brajan Gruda, Extremo derecho, 21, Alemania, Brighton & Hove Albion
+Solly March, Extremo derecho, 30, Inglaterra, Brighton & Hove Albion
+Amario Cozier-Duberry, Extremo derecho, 20, Inglaterra, Brighton & Hove Albion
+João Pedro, Delantero centro, 23, Brasil, Brighton & Hove Albion
+Georginio Rutter, Delantero centro, 23, Francia, Brighton & Hove Albion
+Danny Welbeck, Delantero centro, 34, Inglaterra, Brighton & Hove Albion
+Mark Flekken, Portero, 31, Países Bajos, Brentford FC
+Hákon Rafn Valdimarsson, Portero, 23, Islandia, Brentford FC
+Matthew Cox, Portero, 22, Inglaterra, Brentford FC
+Ben Winterbottom, Portero, 23, Inglaterra, Brentford FC
+Nathan Collins, Defensa central, 24, Irlanda, Brentford FC
+Sepp van den Berg, Defensa central, 23, Países Bajos, Brentford FC
+Kristoffer Ajer, Defensa central, 27, Noruega, Brentford FC
+Ethan Pinnock, Defensa central, 32, Jamaica, Brentford FC
+Ben Mee, Defensa central, 35, Inglaterra, Brentford FC
+Ji-soo Kim, Defensa central, 20, Corea del Sur, Brentford FC
+Keane Lewis-Potter, Lateral izquierdo, 24, Inglaterra, Brentford FC
+Rico Henry, Lateral izquierdo, 27, Inglaterra, Brentford FC
+Michael Kayode, Lateral derecho, 20, Italia, Brentford FC
+Aaron Hickey, Lateral derecho, 22, Escocia, Brentford FC
+Vitaly Janelt, Pivote, 27, Alemania, Brentford FC
+Christian Nørgaard, Pivote, 31, Dinamarca, Brentford FC
+Yunus Emre Konak, Pivote, 19, Turquía, Brentford FC
+Yegor Yarmolyuk, Mediocentro, 21, Ucrania, Brentford FC
+Mathias Jensen, Mediocentro, 29, Dinamarca, Brentford FC
+Josh Dasilva, Mediocentro, 26, Inglaterra, Brentford FC
+Paris Maghoma, Mediocentro, 24, Inglaterra, Brentford FC
+Ryan Trevitt, Mediocentro, 22, Inglaterra, Brentford FC
+Mikkel Damsgaard, Mediocentro ofensivo, 24, Dinamarca, Brentford FC
+Fábio Carvalho, Mediocentro ofensivo, 22, Portugal, Brentford FC
+Kevin Schade, Extremo izquierdo, 23, Alemania, Brentford FC
+Gustavo Nunes, Extremo izquierdo, 19, Brasil, Brentford FC
+Myles Peart-Harris, Extremo izquierdo, 22, Jamaica, Brentford FC
+Bryan Mbeumo, Extremo derecho, 25, Camerún, Brentford FC
+Yoane Wissa, Delantero centro, 28, RD del Congo, Brentford FC
+Igor Thiago, Delantero centro, 23, Brasil, Brentford FC
+José Sá, Portero, 32, Portugal, Wolverhampton Wanderers
+Sam Johnstone, Portero, 32, Inglaterra, Wolverhampton Wanderers
+Daniel Bentley, Portero, 31, Inglaterra, Wolverhampton Wanderers
+Tom King, Portero, 30, Gales, Wolverhampton Wanderers
+Toti, Defensa central, 26, Portugal, Wolverhampton Wanderers
+Emmanuel Agbadou, Defensa central, 27, Costa de Marfil, Wolverhampton Wanderers
+Santiago Bueno, Defensa central, 26, Uruguay, Wolverhampton Wanderers
+Nasser Djiga, Defensa central, 22, Burkina Faso, Wolverhampton Wanderers
+Yerson Mosquera, Defensa central, 24, Colombia, Wolverhampton Wanderers
+Bastien Meupiyou, Defensa central, 19, Francia, Wolverhampton Wanderers
+Craig Dawson, Defensa central, 35, Inglaterra, Wolverhampton Wanderers
+Rayan Aït-Nouri, Lateral izquierdo, 23, Argelia, Wolverhampton Wanderers
+Nélson Semedo, Lateral derecho, 31, Portugal, Wolverhampton Wanderers
+Pedro Lima, Lateral derecho, 18, Brasil, Wolverhampton Wanderers
+Matt Doherty, Lateral derecho, 33, Irlanda, Wolverhampton Wanderers
+André, Pivote, 23, Brasil, Wolverhampton Wanderers
+Boubacar Traoré, Pivote, 23, Malí, Wolverhampton Wanderers
+Joe Hodge, Pivote, 22, Irlanda, Wolverhampton Wanderers
+João Gomes, Mediocentro, 24, Brasil, Wolverhampton Wanderers
+Jean-Ricner Bellegarde, Mediocentro, 26, Francia, Wolverhampton Wanderers
+Marshall Munetsi, Mediocentro, 28, Zimbabue, Wolverhampton Wanderers
+Tommy Doyle, Mediocentro, 23, Inglaterra, Wolverhampton Wanderers
+Rodrigo Gomes, Interior derecho, 21, Portugal, Wolverhampton Wanderers
+Chem Campbell, Mediocentro ofensivo, 22, Gales, Wolverhampton Wanderers
+Tawanda Chirewa, Mediocentro ofensivo, 21, Zimbabue, Wolverhampton Wanderers
+Gonçalo Guedes, Extremo izquierdo, 28, Portugal, Wolverhampton Wanderers
+Carlos Forbs, Extremo izquierdo, 21, Portugal, Wolverhampton Wanderers
+Enso González, Extremo izquierdo, 20, Paraguay, Wolverhampton Wanderers
+Pablo Sarabia, Extremo derecho, 33, España, Wolverhampton Wanderers
+Matheus Cunha, Mediapunta, 26, Brasil, Wolverhampton Wanderers
+Jørgen Strand Larsen, Delantero centro, 25, Noruega, Wolverhampton Wanderers
+Hee-chan Hwang, Delantero centro, 29, Corea del Sur, Wolverhampton Wanderers
+Sasa Kalajdzic, Delantero centro, 27, Austria, Wolverhampton Wanderers
+Nathan Fraser, Delantero centro, 20, Irlanda, Wolverhampton Wanderers
+Guglielmo Vicario, Portero, 28, Italia, Tottenham Hotspur
+Antonín Kinský, Portero, 22, República Checa, Tottenham Hotspur
+Fraser Forster, Portero, 37, Inglaterra, Tottenham Hotspur
+Brandon Austin, Portero, 26, Inglaterra, Tottenham Hotspur
+Alfie Whiteman, Portero, 26, Inglaterra, Tottenham Hotspur
+Cristian Romero, Defensa central, 27, Argentina, Tottenham Hotspur
+Micky van de Ven, Defensa central, 24, Países Bajos, Tottenham Hotspur
+Kevin Danso, Defensa central, 26, Austria, Tottenham Hotspur
+Radu Drăgușin, Defensa central, 23, Rumania, Tottenham Hotspur
+Ben Davies, Defensa central, 32, Gales, Tottenham Hotspur
+Destiny Udogie, Lateral izquierdo, 22, Italia, Tottenham Hotspur
+Djed Spence, Lateral izquierdo, 24, Inglaterra, Tottenham Hotspur
+Sergio Reguilón, Lateral izquierdo, 28, España, Tottenham Hotspur
+Pedro Porro, Lateral derecho, 25, España, Tottenham Hotspur
+Archie Gray, Pivote, 19, Inglaterra, Tottenham Hotspur
+Rodrigo Bentancur, Pivote, 27, Uruguay, Tottenham Hotspur
+Yves Bissouma, Pivote, 28, Malí, Tottenham Hotspur
+Lucas Bergvall, Mediocentro, 19, Suecia, Tottenham Hotspur
+Pape Matar Sarr, Mediocentro, 22, Senegal, Tottenham Hotspur
+Dejan Kulusevski, Mediocentro ofensivo, 25, Suecia, Tottenham Hotspur
+James Maddison, Mediocentro ofensivo, 28, Inglaterra, Tottenham Hotspur
+Heung-min Son, Extremo izquierdo, 32, Corea del Sur, Tottenham Hotspur
+Mikey Moore, Extremo izquierdo, 17, Inglaterra, Tottenham Hotspur
+Timo Werner, Extremo izquierdo, 29, Alemania, Tottenham Hotspur
+Brennan Johnson, Extremo derecho, 24, Gales, Tottenham Hotspur
+Wilson Odobert, Extremo derecho, 20, Francia, Tottenham Hotspur
+Dominic Solanke, Delantero centro, 27, Inglaterra, Tottenham Hotspur
+Mathys Tel, Delantero centro, 20, Francia, Tottenham Hotspur
+Richarlison, Delantero centro, 28, Brasil, Tottenham Hotspur
+Dane Scarlett, Delantero centro, 21, Inglaterra, Tottenham Hotspur
+Emiliano Martínez, Portero, 32, Argentina, Aston Villa
+Robin Olsen, Portero, 35, Suecia, Aston Villa
+Ezri Konsa, Defensa central, 27, Inglaterra, Aston Villa
+Pau Torres, Defensa central, 28, España, Aston Villa
+Tyrone Mings, Defensa central, 32, Inglaterra, Aston Villa
+Kortney Hause, Defensa central, 29, Inglaterra, Aston Villa
+Ian Maatsen, Lateral izquierdo, 23, Países Bajos, Aston Villa
+Lucas Digne, Lateral izquierdo, 31, Francia, Aston Villa
+Matty Cash, Lateral derecho, 27, Polonia, Aston Villa
+Axel Disasi, Lateral derecho, 27, Francia, Aston Villa
+Andrés García, Lateral derecho, 22, España, Aston Villa
+Amadou Onana, Pivote, 23, Bélgica, Aston Villa
+Boubacar Kamara, Pivote, 25, Francia, Aston Villa
+Lamare Bogarde, Pivote, 21, Países Bajos, Aston Villa
+Youri Tielemans, Mediocentro, 28, Bélgica, Aston Villa
+John McGinn, Mediocentro, 30, Escocia, Aston Villa
+Ross Barkley, Mediocentro, 31, Inglaterra, Aston Villa
+Jacob Ramsey, Interior izquierdo, 24, Inglaterra, Aston Villa
+Morgan Rogers, Mediocentro ofensivo, 22, Inglaterra, Aston Villa
+Marco Asensio, Mediocentro ofensivo, 29, España, Aston Villa
+Marcus Rashford, Extremo izquierdo, 27, Inglaterra, Aston Villa
+Leon Bailey, Extremo derecho, 27, Jamaica, Aston Villa
+Donyell Malen, Extremo derecho, 26, Países Bajos, Aston Villa
+Ollie Watkins, Delantero centro, 29, Inglaterra, Aston Villa
+Kepa Arrizabalaga, Portero, 30, España, AFC Bournemouth
+Mark Travers, Portero, 26, Irlanda, AFC Bournemouth
+Will Dennis, Portero, 24, Inglaterra, AFC Bournemouth
+Dean Huijsen, Defensa central, 20, España, AFC Bournemouth
+Ilya Zabarnyi, Defensa central, 22, Ucrania, AFC Bournemouth
+Marcos Senesi, Defensa central, 28, Argentina, AFC Bournemouth
+Chris Mepham, Defensa central, 27, Gales, AFC Bournemouth
+James Hill, Defensa central, 23, Inglaterra, AFC Bournemouth
+Matai Akinmboni, Defensa central, 18, Estados Unidos, AFC Bournemouth
+Max Kinsey, Defensa central, 20, Inglaterra, AFC Bournemouth
+Milos Kerkez, Lateral izquierdo, 21, Hungría, AFC Bournemouth
+Julio Soler, Lateral izquierdo, 20, Argentina, AFC Bournemouth
+Julián Araujo, Lateral derecho, 23, México, AFC Bournemouth
+Adam Smith, Lateral derecho, 34, Inglaterra, AFC Bournemouth
+Tyler Adams, Pivote, 26, Estados Unidos, AFC Bournemouth
+Ryan Christie, Pivote, 30, Escocia, AFC Bournemouth
+Alex Scott, Mediocentro, 21, Inglaterra, AFC Bournemouth
+Lewis Cook, Mediocentro, 28, Inglaterra, AFC Bournemouth
+Justin Kluivert, Mediocentro ofensivo, 26, Países Bajos, AFC Bournemouth
+Antoine Semenyo, Extremo izquierdo, 25, Ghana, AFC Bournemouth
+Dango Ouattara, Extremo izquierdo, 23, Burkina Faso, AFC Bournemouth
+Marcus Tavernier, Extremo izquierdo, 26, Inglaterra, AFC Bournemouth
+Luis Sinisterra, Extremo izquierdo, 25, Colombia, AFC Bournemouth
+David Brooks, Extremo derecho, 27, Gales, AFC Bournemouth
+Evanilson, Delantero centro, 25, Brasil, AFC Bournemouth
+Enes Ünal, Delantero centro, 28, Turquía, AFC Bournemouth
+Daniel Jebbison, Delantero centro, 21, Canadá, AFC Bournemouth
+Aaron Ramsdale, Portero, 27, Inglaterra, Southampton FC
+Gavin Bazunu, Portero, 23, Irlanda, Southampton FC
+Joe Lumley, Portero, 30, Inglaterra, Southampton FC
+Alex McCarthy, Portero, 35, Inglaterra, Southampton FC
+Taylor Harwood-Bellis, Defensa central, 23, Inglaterra, Southampton FC
+Jan Bednarek, Defensa central, 29, Polonia, Southampton FC
+Armel Bella-Kotchap, Defensa central, 23, Alemania, Southampton FC
+Nathan Wood, Defensa central, 23, Inglaterra, Southampton FC
+Jack Stephens, Defensa central, 31, Inglaterra, Southampton FC
+Joachim Kayi Sanda, Defensa central, 18, Francia, Southampton FC
+Juan Larios, Lateral izquierdo, 21, España, Southampton FC
+Ryan Manning, Lateral izquierdo, 28, Irlanda, Southampton FC
+Welington, Lateral izquierdo, 24, Brasil, Southampton FC
+Charlie Taylor, Lateral izquierdo, 31, Inglaterra, Southampton FC
+Kyle Walker-Peters, Lateral derecho, 28, Inglaterra, Southampton FC
+Yukinari Sugawara, Lateral derecho, 24, Japón, Southampton FC
+James Bree, Lateral derecho, 27, Inglaterra, Southampton FC
+Lesley Ugochukwu, Pivote, 21, Francia, Southampton FC
+Flynn Downes, Pivote, 26, Inglaterra, Southampton FC
+Shea Charles, Pivote, 21, Irlanda del Norte, Southampton FC
+Mateus Fernandes, Mediocentro, 20, Portugal, Southampton FC
+Joe Aribo, Mediocentro, 28, Nigeria, Southampton FC
+Will Smallbone, Mediocentro, 25, Irlanda, Southampton FC
+Albert Grønbæk, Mediocentro ofensivo, 24, Dinamarca, Southampton FC
+Adam Lallana, Mediocentro ofensivo, 37, Inglaterra, Southampton FC
+Kamaldeen Sulemana, Extremo izquierdo, 23, Ghana, Southampton FC
+Ryan Fraser, Extremo izquierdo, 31, Escocia, Southampton FC
+Tyler Dibling, Extremo derecho, 19, Inglaterra, Southampton FC
+Adam Armstrong, Delantero centro, 28, Inglaterra, Southampton FC
+Cameron Archer, Delantero centro, 23, Inglaterra, Southampton FC
+Paul Onuachu, Delantero centro, 31, Nigeria, Southampton FC
+Ross Stewart, Delantero centro, 28, Escocia, Southampton FC
